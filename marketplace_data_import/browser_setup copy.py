@@ -8,7 +8,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-from pyvirtualdisplay import Display
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -18,12 +17,12 @@ def init_driver():
     if platform.system() == "Windows":
         chrome_driver_path = "chromedriver.exe"
     else:
-        chrome_driver_path = "/usr/local/bin/chromedriver"
+        chrome_driver_path = "./chromedriver"   
 
     service = ChromeService(executable_path=chrome_driver_path)
     options = webdriver.ChromeOptions()
     if platform.system() == "Linux":
-        options.binary_location = "/usr/bin/google-chrome"
+        options.binary_location = "/usr/bin/google-chrome" 
         options.add_argument('--remote-debugging-port=9222')
     # options.add_argument("--headless")
     options.add_argument('--no-sandbox')
@@ -51,7 +50,7 @@ def init_driver():
             '*://js-agent.newrelic.com/*',
             '*://www.google-analytics.com/*',
             '*://www.googletagmanager.com/*',
-            '*://metrika_match.html/*',
+            '*://metrika_match.html/*', 
             '*://www.youtube.com/*',
             '*favicon*',
             '*google.com*',
@@ -90,29 +89,25 @@ def get_page_source(driver, url):
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
         logging.info("Страница загружена успешно")
-
+        
         # Ожидание подгрузки всех элементов списка товаров
         WebDriverWait(driver, 20).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
         )
-
+        
         # Добавляем паузу для полной загрузки страницы
         time.sleep(2)
-
+        
         # Получаем HTML-код страницы
         page_source = driver.page_source
         print(page_source)
         return page_source
-
+        
     except TimeoutException:
         logging.error(f"Ошибка: не удалось загрузить страницу {url}")
         return None
 
 if __name__ == "__main__":
-    # Запуск виртуального дисплея
-    display = Display(visible=0, size=(1920, 1080))
-    display.start()
-
     driver = init_driver()
     try:
         url = "https://megamarket.ru/catalog/alkogol"
@@ -121,4 +116,3 @@ if __name__ == "__main__":
         logging.info("Завершение работы и закрытие драйвера")
         driver.quit()
         kill_processes_by_pids(get_chrome_pids())
-        display.stop()
