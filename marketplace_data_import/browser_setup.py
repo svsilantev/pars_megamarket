@@ -12,12 +12,19 @@ from selenium.common.exceptions import TimeoutException
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# # Определение пути к драйверу в зависимости от операционной системы
+# print(platform.system())
+# if platform.system() == "Windows":
+#     chrome_driver_path = "D:\\YandexDisk\\Python\\Development\\chromedriver-win64\\chromedriver.exe"
+# else:
+#     chrome_driver_path = "chromedriver"
+
 # Определение пути к драйверу в зависимости от операционной системы
 print(platform.system())
 if platform.system() == "Windows":
-    chrome_driver_path = "D:\\YandexDisk\\Python\\Development\\chromedriver-win64\\chromedriver.exe"
+    chrome_driver_path = "chromedriver.exe"
 else:
-    chrome_driver_path = "chromedriver"
+    chrome_driver_path = "chromedriver.exe"    
 
 service = ChromeService(executable_path=chrome_driver_path)
 options = webdriver.ChromeOptions()
