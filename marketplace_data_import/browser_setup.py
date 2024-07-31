@@ -99,30 +99,32 @@ def get_page_source(driver, url):
         driver.get(url)
         logging.info(f"Загрузка страницы: {url}")
         
-        # Ожидание подгрузки всех элементов списка товаров
-        try:
-            WebDriverWait(driver, 20).until(
-                EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
-            )
-            logging.info("Элементы списка товаров найдены")
-        except TimeoutException:
-            logging.error("Ошибка: не удалось найти элементы списка товаров")
-            return None
-
         # Добавляем паузу для полной загрузки страницы
-        time.sleep(2)
+        time.sleep(5)
 
         # Получаем HTML-код страницы
         page_source = driver.page_source
         logging.info("Страница загружена успешно")
-        print(page_source)
+        
+        # Печатаем часть HTML-кода страницы для отладки
+        logging.info(page_source[:1000])  # Печатаем первые 1000 символов HTML-кода страницы
+        
+        # Проверка наличия элементов списка товаров
+        try:
+            elements = driver.find_elements(By.CSS_SELECTOR, '.catalog-items-list__container')
+            if elements:
+                logging.info(f"Найдено элементов: {len(elements)}")
+            else:
+                logging.error("Ошибка: не удалось найти элементы списка товаров")
+                return None
+        except NoSuchElementException:
+            logging.error("Ошибка: не удалось найти элементы списка товаров")
+            return None
+
         return page_source
 
     except TimeoutException:
         logging.error(f"Ошибка: не удалось загрузить страницу {url}")
-        return None
-    except NoSuchElementException:
-        logging.error(f"Ошибка: не удалось найти необходимые элементы на странице {url}")
         return None
 
 if __name__ == "__main__":
