@@ -1,4 +1,5 @@
 import logging
+import os
 import psutil
 import time
 import platform
@@ -7,8 +8,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-from pyvirtualdisplay import Display
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -25,21 +25,32 @@ def init_driver():
     if platform.system() == "Linux":
         options.binary_location = "/usr/bin/google-chrome"
         options.add_argument('--remote-debugging-port=9222')
-    # options.add_argument("--headless")  # Убедитесь, что этот аргумент закомментирован
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
-    options.add_argument('--ignore-certificate-errors-spki-list')
-    options.add_argument('--ignore-ssl-errors')
+    options.add_argument('--disable-software-rasterizer')
     options.add_argument('--disable-extensions')
-    options.add_argument('--blink-settings=imagesEnabled=false')
-    options.add_argument('--disable-plugins-discovery')
-    options.add_argument('--incognito')
-    options.add_argument('--disable-third-party-cookies')
-    options.add_argument('--disable-site-isolation-trials')
     options.add_argument('--disable-features=VizDisplayCompositor')
-    # Убираем отключение JavaScript
-    options.add_argument('--disable-javascript')
+    options.add_argument('--disable-web-security')
+    options.add_argument('--disable-setuid-sandbox')
+    options.add_argument('--disable-logging')
+    options.add_argument('--no-first-run')
+    options.add_argument('--window-size=1920,1080')
+    options.add_argument('--disable-background-networking')
+    options.add_argument('--disable-background-timer-throttling')
+    options.add_argument('--disable-client-side-phishing-detection')
+    options.add_argument('--disable-default-apps')
+    options.add_argument('--disable-hang-monitor')
+    options.add_argument('--disable-popup-blocking')
+    options.add_argument('--disable-prompt-on-repost')
+    options.add_argument('--disable-sync')
+    options.add_argument('--disable-translate')
+    options.add_argument('--metrics-recording-only')
+    options.add_argument('--mute-audio')
+    options.add_argument('--no-default-browser-check')
+    options.add_argument('--no-pings')
+    options.add_argument('--password-store=basic')
+    options.add_argument('--use-mock-keychain')
 
     logging.info("Инициализация драйвера браузера")
     driver = webdriver.Chrome(service=service, options=options)
@@ -86,22 +97,23 @@ def get_page_source(driver, url):
     try:
         logging.info(f"Переход на URL: {url}")
         driver.get(url)
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-        logging.info("Страница загружена успешно")
-
-        # Ожидание подгрузки всех элементов списка товаров
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
-        )
-
-        # Добавляем паузу для полной загрузки страницы
-        time.sleep(2)
+        logging.info(f"Загрузка страницы: {url}")
+        
+        # Ожидание элемента, который точно должен присутствовать на странице
+        try:
+            WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
+            )
+            logging.info("Элементы списка товаров найдены")
+        except TimeoutException:
+            logging.error("Ошибка: не удалось найти элементы списка товаров")
+            return None
 
         # Получаем HTML-код страницы
         page_source = driver.page_source
-        print(page_source)
+        logging.info("Страница загружена успешно")
+        logging.info(page_source[:1000])  # Печатаем первые 1000 символов HTML-кода страницы
+        
         return page_source
 
     except TimeoutException:
@@ -109,16 +121,29 @@ def get_page_source(driver, url):
         return None
 
 if __name__ == "__main__":
-    # Запуск виртуального дисплея
-    display = Display(visible=0, size=(1920, 1080))
-    display.start()
+    # Если работаете на Linux, добавьте поддержку виртуального дисплея
+    if platform.system() == "Linux":
+        from pyvirtualdisplay import Display
+        display = Display(visible=0, size=(1920, 1080))
+        display.start()
+        os.environ["DISPLAY"] = ":99"
+    else:
+        display = None
 
     driver = init_driver()
     try:
-        url = "https://megamarket.ru/catalog/alkogol"
-        get_page_source(driver, url)
+        urls = [
+            "https://megamarket.ru/catalog/alkogol",
+            "https://megamarket.ru/catalog/kofemashiny",
+            "https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma",
+            "https://megamarket.ru/catalog/smartfony"
+        ]
+        
+        for url in urls:
+            get_page_source(driver, url)
     finally:
         logging.info("Завершение работы и закрытие драйвера")
         driver.quit()
         kill_processes_by_pids(get_chrome_pids())
-        display.stop()
+        if display:
+            display.stop()
