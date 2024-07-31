@@ -11,7 +11,7 @@ from selenium.common.exceptions import TimeoutException
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-chrome_driver_path = "D:\\YandexDisk\\Python\\Development\\chromedriver-win64\\chromedriver.exe"
+chrome_driver_path = "chromedriver.exe"
 service = ChromeService(executable_path=chrome_driver_path)
 options = webdriver.ChromeOptions()
 # options.add_argument("--headless")
