@@ -8,8 +8,7 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-from pyvirtualdisplay import Display
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # Настройка логирования
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -26,7 +25,6 @@ def init_driver():
     if platform.system() == "Linux":
         options.binary_location = "/usr/bin/google-chrome"
         options.add_argument('--remote-debugging-port=9222')
-    # options.add_argument("--headless")  # Убедитесь, что этот аргумент закомментирован
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
@@ -99,42 +97,58 @@ def get_page_source(driver, url):
     try:
         logging.info(f"Переход на URL: {url}")
         driver.get(url)
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-        logging.info("Страница загружена успешно")
-
+        logging.info(f"Загрузка страницы: {url}")
+        
         # Ожидание подгрузки всех элементов списка товаров
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
-        )
+        try:
+            WebDriverWait(driver, 20).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
+            )
+            logging.info("Элементы списка товаров найдены")
+        except TimeoutException:
+            logging.error("Ошибка: не удалось найти элементы списка товаров")
+            return None
 
         # Добавляем паузу для полной загрузки страницы
         time.sleep(2)
 
         # Получаем HTML-код страницы
         page_source = driver.page_source
+        logging.info("Страница загружена успешно")
         print(page_source)
         return page_source
 
     except TimeoutException:
         logging.error(f"Ошибка: не удалось загрузить страницу {url}")
         return None
+    except NoSuchElementException:
+        logging.error(f"Ошибка: не удалось найти необходимые элементы на странице {url}")
+        return None
 
 if __name__ == "__main__":
-    # Установите переменную окружения для Xvfb
-    os.environ["DISPLAY"] = ":99"
-    
-    # Запуск виртуального дисплея
-    display = Display(visible=0, size=(1920, 1080))
-    display.start()
+    # Если работаете на Linux, добавьте поддержку виртуального дисплея
+    if platform.system() == "Linux":
+        from pyvirtualdisplay import Display
+        display = Display(visible=0, size=(1920, 1080))
+        display.start()
+        os.environ["DISPLAY"] = ":99"
+    else:
+        display = None
 
     driver = init_driver()
     try:
-        url = "https://megamarket.ru/catalog/alkogol"
-        get_page_source(driver, url)
+        urls = [
+            "https://megamarket.ru/catalog/alkogol",
+            "https://megamarket.ru/catalog/kofemashiny",
+            "https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma",
+            "https://megamarket.ru/catalog/smartfony"
+        ]
+        
+        for url in urls:
+            get_page_source(driver, url)
     finally:
         logging.info("Завершение работы и закрытие драйвера")
         driver.quit()
         kill_processes_by_pids(get_chrome_pids())
-        display.stop()
+        if display:
+            display.stop()
