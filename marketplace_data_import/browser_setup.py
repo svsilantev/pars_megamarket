@@ -1,4 +1,5 @@
 import logging
+import os
 import psutil
 import time
 import platform
@@ -29,17 +30,35 @@ def init_driver():
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
-    options.add_argument('--ignore-certificate-errors-spki-list')
+    options.add_argument('--ignore-certificate-errors')
     options.add_argument('--ignore-ssl-errors')
     options.add_argument('--disable-extensions')
-    options.add_argument('--blink-settings=imagesEnabled=false')
+    options.add_argument('--disable-software-rasterizer')
     options.add_argument('--disable-plugins-discovery')
-    options.add_argument('--incognito')
-    options.add_argument('--disable-third-party-cookies')
-    options.add_argument('--disable-site-isolation-trials')
+    options.add_argument('--disable-logging')
+    options.add_argument('--disable-background-networking')
+    options.add_argument('--disable-background-timer-throttling')
+    options.add_argument('--disable-sync')
+    options.add_argument('--disable-web-resources')
     options.add_argument('--disable-features=VizDisplayCompositor')
-    # Убираем отключение JavaScript
+    options.add_argument('--disable-site-isolation-trials')
+    options.add_argument('--disable-popup-blocking')
+    options.add_argument('--disable-default-apps')
+    options.add_argument('--incognito')
+    options.add_argument('--disable-remote-fonts')
+    options.add_argument('--disable-metrics')
+    options.add_argument('--disable-background-tasks')
+    options.add_argument('--disable-client-side-phishing-detection')
+    options.add_argument('--disable-domain-reliability')
+    options.add_argument('--disable-renderer-backgrounding')
+    options.add_argument('--disable-site-engagement-service')
+    options.add_argument('--disable-speech-api')
+    options.add_argument('--blink-settings=imagesEnabled=false')
     options.add_argument('--disable-javascript')
+    options.add_argument('--log-level=3')
+    options.add_argument('--silent-launch')
+    options.add_argument('--mute-audio')
+    options.add_argument('--disable-background-tasks')
 
     logging.info("Инициализация драйвера браузера")
     driver = webdriver.Chrome(service=service, options=options)
@@ -109,6 +128,9 @@ def get_page_source(driver, url):
         return None
 
 if __name__ == "__main__":
+    # Установите переменную окружения для Xvfb
+    os.environ["DISPLAY"] = ":99"
+    
     # Запуск виртуального дисплея
     display = Display(visible=0, size=(1920, 1080))
     display.start()
