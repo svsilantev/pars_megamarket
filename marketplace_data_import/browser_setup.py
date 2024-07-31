@@ -28,6 +28,7 @@ else:
 
 service = ChromeService(executable_path=chrome_driver_path)
 options = webdriver.ChromeOptions()
+options.binary_location = "/usr/bin/google-chrome" 
 options.add_argument("--headless")
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
@@ -43,6 +44,7 @@ options.add_argument('--disable-site-isolation-trials')
 options.add_argument('--disable-features=VizDisplayCompositor')
 # Убираем отключение JavaScript
 options.add_argument('--disable-javascript')
+options.add_argument('--remote-debugging-port=9222')
 
 def init_driver():
     logging.info("Инициализация драйвера браузера")
