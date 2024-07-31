@@ -18,7 +18,7 @@ def init_driver():
     if platform.system() == "Windows":
         chrome_driver_path = "chromedriver.exe"
     else:
-        chrome_driver_path = "chromedriver"
+        chrome_driver_path = "./chromedriver"
 
     service = ChromeService(executable_path=chrome_driver_path)
     options = webdriver.ChromeOptions()
