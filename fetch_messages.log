@@ -1,0 +1,768 @@
+2024-08-02 12:39:51,629 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 12:39:51,688 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 12:39:54,606 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 12:39:55,231 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:05,437 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/alkogol
+2024-08-02 12:40:05,440 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 12:40:05,753 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:15,977 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/kofemashiny
+2024-08-02 12:40:15,978 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 12:40:16,312 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:26,505 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 12:40:26,507 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony/
+2024-08-02 12:40:26,834 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:37,028 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/smartfony/
+2024-08-02 12:40:37,031 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty/
+2024-08-02 12:40:37,375 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:47,545 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/videokarty/
+2024-08-02 12:40:47,548 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 12:40:47,860 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:40:58,051 - browser_setup.py - ERROR - get_page_source - Ошибка: не удалось загрузить страницу https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 12:40:58,054 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki/
+2024-08-02 12:40:58,388 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:01,474 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 12:42:01,524 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 12:42:04,714 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 12:42:08,343 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:10,635 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 12:42:13,726 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:16,073 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 12:42:19,700 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:22,273 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 12:42:25,873 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:28,206 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 12:42:31,974 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:34,494 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 12:42:37,752 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:40,199 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony/
+2024-08-02 12:42:43,686 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:46,246 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony//page-1/
+2024-08-02 12:42:49,781 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:53,333 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty/
+2024-08-02 12:42:57,280 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:42:59,975 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty//page-1/
+2024-08-02 12:43:03,995 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:06,445 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 12:43:09,470 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:11,760 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski//page-1/
+2024-08-02 12:43:14,684 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:16,876 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki/
+2024-08-02 12:43:20,225 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:22,642 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki//page-1/
+2024-08-02 12:43:25,748 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:28,220 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple/
+2024-08-02 12:43:36,241 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:38,888 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple//page-1/
+2024-08-02 12:43:42,591 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:44,964 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory/
+2024-08-02 12:43:47,786 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:50,039 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory//page-1/
+2024-08-02 12:43:52,655 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:43:54,866 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki/
+2024-08-02 12:43:58,056 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:00,525 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki//page-1/
+2024-08-02 12:44:03,646 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:06,076 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki/
+2024-08-02 12:44:09,534 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:12,041 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki//page-1/
+2024-08-02 12:44:15,729 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:18,260 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation/
+2024-08-02 12:44:21,616 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:24,119 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation//page-1/
+2024-08-02 12:44:27,344 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:30,049 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya/
+2024-08-02 12:44:33,922 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:36,379 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya//page-1/
+2024-08-02 12:44:40,370 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:42,764 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 12:44:46,424 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:44:48,835 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-1/
+2024-08-02 12:44:58,528 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:01,083 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/
+2024-08-02 12:45:04,898 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:07,458 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom//page-1/
+2024-08-02 12:45:11,279 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:13,579 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda/
+2024-08-02 12:45:17,541 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:20,224 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda//page-1/
+2024-08-02 12:45:24,272 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:26,800 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/
+2024-08-02 12:45:29,481 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:31,724 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334//page-1/
+2024-08-02 12:45:34,247 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:36,502 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly/
+2024-08-02 12:45:40,637 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:43,064 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly//page-1/
+2024-08-02 12:45:46,732 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:49,229 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 12:45:56,603 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:45:58,852 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 12:46:01,549 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:04,029 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 12:46:06,853 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:09,278 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 12:46:12,920 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:15,239 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 12:46:18,248 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:20,538 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 12:46:23,599 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:28,092 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 12:46:28,093 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 12:46:33,438 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 12:46:37,177 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:39,945 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 12:46:43,153 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:45,499 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 12:46:48,520 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:50,923 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 12:46:53,801 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:46:56,161 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 12:46:59,754 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:02,327 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 12:47:05,684 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:08,052 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony/
+2024-08-02 12:47:11,268 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:13,796 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony//page-1/
+2024-08-02 12:47:16,961 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:19,451 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty/
+2024-08-02 12:47:22,909 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:25,321 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty//page-1/
+2024-08-02 12:47:28,331 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:30,938 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 12:47:33,237 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:35,415 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski//page-1/
+2024-08-02 12:47:37,990 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:40,183 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki/
+2024-08-02 12:47:42,754 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:45,148 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki//page-1/
+2024-08-02 12:47:47,910 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:50,140 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple/
+2024-08-02 12:47:57,033 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:47:59,421 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple//page-1/
+2024-08-02 12:48:02,347 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:04,672 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory/
+2024-08-02 12:48:07,526 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:09,759 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory//page-1/
+2024-08-02 12:48:12,141 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:14,443 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki/
+2024-08-02 12:48:17,450 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:19,994 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki//page-1/
+2024-08-02 12:48:23,320 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:25,719 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki/
+2024-08-02 12:48:29,124 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:31,553 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki//page-1/
+2024-08-02 12:48:34,800 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:37,216 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation/
+2024-08-02 12:48:39,874 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:42,153 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation//page-1/
+2024-08-02 12:48:48,860 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:51,216 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya/
+2024-08-02 12:48:54,666 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:48:57,080 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya//page-1/
+2024-08-02 12:49:00,863 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:03,253 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 12:49:07,441 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:09,935 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-1/
+2024-08-02 12:49:14,449 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:16,935 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/
+2024-08-02 12:49:20,112 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:22,368 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom//page-1/
+2024-08-02 12:49:26,073 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:28,462 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda/
+2024-08-02 12:49:32,175 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:34,840 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda//page-1/
+2024-08-02 12:49:39,050 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:41,887 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/
+2024-08-02 12:49:49,412 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:51,929 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334//page-1/
+2024-08-02 12:49:54,670 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:49:57,208 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly/
+2024-08-02 12:50:00,964 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:03,514 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly//page-1/
+2024-08-02 12:50:07,008 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:09,413 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 12:50:13,027 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:15,629 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 12:50:19,177 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:21,648 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 12:50:24,825 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:27,390 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 12:50:31,243 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:33,757 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 12:50:36,879 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:39,101 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 12:50:42,927 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:47,421 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 12:50:47,422 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 12:50:52,726 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 12:50:56,049 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:50:58,328 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 12:55:40,410 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 12:55:40,458 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 12:55:43,483 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 12:55:46,509 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:55:48,755 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 12:55:54,190 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 12:55:56,477 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 12:55:59,683 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:08,560 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:05:08,605 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:05:11,625 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:05:15,442 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:17,688 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:05:21,446 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:23,611 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-2/
+2024-08-02 13:05:26,931 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:29,065 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-3/
+2024-08-02 13:05:32,800 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:34,910 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-4/
+2024-08-02 13:05:37,961 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:40,072 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-5/
+2024-08-02 13:05:43,495 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:45,646 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-6/
+2024-08-02 13:05:49,218 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:51,361 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-7/
+2024-08-02 13:05:54,548 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:05:56,655 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-8/
+2024-08-02 13:05:59,677 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:01,768 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-9/
+2024-08-02 13:06:04,589 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:06,709 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-10/
+2024-08-02 13:06:09,553 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:11,627 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-11/
+2024-08-02 13:06:14,955 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:16,965 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-12/
+2024-08-02 13:06:19,937 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:22,032 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-13/
+2024-08-02 13:06:24,926 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:27,054 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-14/
+2024-08-02 13:06:29,947 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:31,982 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-15/
+2024-08-02 13:06:34,908 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:37,042 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-16/
+2024-08-02 13:06:40,057 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:42,154 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-17/
+2024-08-02 13:06:45,267 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:47,438 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-18/
+2024-08-02 13:06:50,579 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:52,664 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-19/
+2024-08-02 13:06:55,622 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:06:57,708 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-20/
+2024-08-02 13:07:00,859 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:02,970 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-21/
+2024-08-02 13:07:06,564 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:08,764 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-22/
+2024-08-02 13:07:11,813 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:13,865 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-23/
+2024-08-02 13:07:17,000 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:19,087 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-24/
+2024-08-02 13:07:22,359 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:24,393 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-25/
+2024-08-02 13:07:27,243 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:29,303 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-26/
+2024-08-02 13:07:32,090 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:34,125 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-27/
+2024-08-02 13:07:37,137 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:39,185 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-28/
+2024-08-02 13:07:42,433 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:44,548 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-29/
+2024-08-02 13:07:47,927 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:49,960 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-30/
+2024-08-02 13:07:52,927 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:07:54,992 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-31/
+2024-08-02 13:07:58,002 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:00,085 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-32/
+2024-08-02 13:08:02,704 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:04,792 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-33/
+2024-08-02 13:08:08,015 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:10,052 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-34/
+2024-08-02 13:08:13,388 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:15,514 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-35/
+2024-08-02 13:08:18,929 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:21,126 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-36/
+2024-08-02 13:08:24,448 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:26,502 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-37/
+2024-08-02 13:08:29,576 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:31,595 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-38/
+2024-08-02 13:08:34,648 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:36,768 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-39/
+2024-08-02 13:08:39,575 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:41,602 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-40/
+2024-08-02 13:08:44,717 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:46,769 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-41/
+2024-08-02 13:08:49,832 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:51,924 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-42/
+2024-08-02 13:08:54,818 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:08:56,950 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-43/
+2024-08-02 13:08:59,772 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:01,812 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-44/
+2024-08-02 13:09:04,820 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:06,904 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-45/
+2024-08-02 13:09:09,786 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:11,849 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-46/
+2024-08-02 13:09:14,747 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:16,790 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-47/
+2024-08-02 13:09:20,118 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:22,223 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-48/
+2024-08-02 13:09:25,254 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:27,323 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-49/
+2024-08-02 13:09:30,246 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:32,283 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-50/
+2024-08-02 13:09:39,021 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:41,083 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-51/
+2024-08-02 13:09:43,942 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:46,045 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-52/
+2024-08-02 13:09:49,248 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:51,278 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-53/
+2024-08-02 13:09:54,142 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:09:56,205 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-54/
+2024-08-02 13:09:59,365 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:01,456 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-55/
+2024-08-02 13:10:04,561 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:06,626 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-56/
+2024-08-02 13:10:09,532 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:11,578 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-57/
+2024-08-02 13:10:14,720 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:16,766 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-58/
+2024-08-02 13:10:20,165 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:22,260 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-59/
+2024-08-02 13:10:25,205 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:27,682 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-60/
+2024-08-02 13:10:30,650 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:32,721 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-61/
+2024-08-02 13:10:35,782 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:37,889 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-62/
+2024-08-02 13:10:41,322 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:43,466 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-63/
+2024-08-02 13:10:46,370 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:48,377 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-64/
+2024-08-02 13:10:51,326 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:53,400 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-65/
+2024-08-02 13:10:56,048 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:10:58,088 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-66/
+2024-08-02 13:11:01,629 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:03,644 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-67/
+2024-08-02 13:11:06,602 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:08,611 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-68/
+2024-08-02 13:11:11,731 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:13,799 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-69/
+2024-08-02 13:11:16,754 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:18,792 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-70/
+2024-08-02 13:11:21,961 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:23,981 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-71/
+2024-08-02 13:11:26,803 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:28,925 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-72/
+2024-08-02 13:11:31,798 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:33,832 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-73/
+2024-08-02 13:11:36,717 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:38,748 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-74/
+2024-08-02 13:11:41,645 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:43,654 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-75/
+2024-08-02 13:11:46,498 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:48,543 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-76/
+2024-08-02 13:11:51,444 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:53,465 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-77/
+2024-08-02 13:11:56,437 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:11:58,453 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-78/
+2024-08-02 13:12:01,394 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:03,491 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-79/
+2024-08-02 13:12:06,646 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:08,691 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-80/
+2024-08-02 13:12:11,631 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:13,656 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-81/
+2024-08-02 13:12:16,544 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:18,678 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-82/
+2024-08-02 13:12:21,503 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:23,668 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-83/
+2024-08-02 13:12:29,524 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:31,544 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-84/
+2024-08-02 13:12:34,277 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:36,290 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-85/
+2024-08-02 13:12:39,166 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:41,222 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-86/
+2024-08-02 13:12:44,309 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:46,321 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-87/
+2024-08-02 13:12:49,217 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:51,241 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-88/
+2024-08-02 13:12:54,148 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:12:56,208 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-89/
+2024-08-02 13:12:59,564 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:01,597 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-90/
+2024-08-02 13:13:04,386 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:06,431 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-91/
+2024-08-02 13:13:10,086 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:12,175 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-92/
+2024-08-02 13:13:14,978 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:17,089 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-93/
+2024-08-02 13:13:20,226 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:22,256 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-94/
+2024-08-02 13:13:25,432 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:27,478 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-95/
+2024-08-02 13:13:30,315 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:32,442 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-96/
+2024-08-02 13:13:35,730 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:37,786 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-97/
+2024-08-02 13:13:40,711 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:42,797 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-98/
+2024-08-02 13:13:46,039 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:48,107 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-99/
+2024-08-02 13:13:51,278 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:13:53,374 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-100/
+2024-08-02 13:13:58,148 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:00,174 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-101/
+2024-08-02 13:14:03,436 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:05,500 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-102/
+2024-08-02 13:14:08,284 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:10,362 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-103/
+2024-08-02 13:14:13,368 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:15,407 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-104/
+2024-08-02 13:14:18,095 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:20,296 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-105/
+2024-08-02 13:14:23,066 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:25,095 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-106/
+2024-08-02 13:14:27,900 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:30,040 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-107/
+2024-08-02 13:14:32,816 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:34,855 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-108/
+2024-08-02 13:14:37,683 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:39,687 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-109/
+2024-08-02 13:14:42,702 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:14:44,773 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-110/
+2024-08-02 13:14:48,037 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:15:50,663 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:15:50,712 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:15:53,783 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:15:57,203 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:15:59,609 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:16:02,327 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:04,538 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-2/
+2024-08-02 13:16:07,402 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:09,571 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-3/
+2024-08-02 13:16:12,894 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:15,027 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-4/
+2024-08-02 13:16:17,958 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:20,162 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-5/
+2024-08-02 13:16:23,238 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:25,363 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-6/
+2024-08-02 13:16:28,322 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:30,518 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-7/
+2024-08-02 13:16:33,706 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:35,926 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-8/
+2024-08-02 13:16:39,058 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:41,148 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-9/
+2024-08-02 13:16:44,480 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:46,604 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-10/
+2024-08-02 13:16:49,937 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:16:52,048 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-11/
+2024-08-02 13:17:00,222 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:17:02,292 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-12/
+2024-08-02 13:18:31,951 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:18:32,004 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:18:35,212 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 13:18:38,629 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:18:41,101 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-1/
+2024-08-02 13:18:45,909 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:18:48,268 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-2/
+2024-08-02 13:18:51,999 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:18:54,462 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:18:57,389 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:18:59,640 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:19:02,400 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:04,705 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-2/
+2024-08-02 13:19:07,890 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:10,186 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:19:13,463 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:15,723 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:19:19,205 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:21,682 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-2/
+2024-08-02 13:19:24,567 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:26,838 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 13:19:29,411 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:31,603 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 13:19:34,062 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:36,223 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-2/
+2024-08-02 13:19:39,219 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:41,417 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 13:19:44,536 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:46,945 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 13:19:50,196 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:52,525 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-2/
+2024-08-02 13:19:55,398 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:19:57,821 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 13:20:01,382 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:20:03,847 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 13:20:07,009 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:20:09,207 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-2/
+2024-08-02 13:20:12,188 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:20:14,500 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly/
+2024-08-02 13:20:18,068 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:20:20,621 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly//page-1/
+2024-08-02 13:21:15,334 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:21:15,375 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:22:38,603 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:22:38,657 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:22:41,714 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 13:22:45,364 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:22:47,933 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 13:22:51,437 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:22:53,767 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 13:22:56,420 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:22:58,903 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 13:23:01,758 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:04,029 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 13:23:06,729 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:08,930 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 13:23:11,330 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:13,489 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:23:16,223 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:18,600 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:23:21,543 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:24,008 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:23:26,829 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:29,065 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:23:31,918 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:23:34,186 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 13:25:51,787 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:25:51,852 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:25:55,094 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:25:59,133 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:01,608 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:26:04,996 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:07,416 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:26:10,205 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:12,583 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:26:15,808 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:18,094 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:26:21,994 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:24,396 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:26:27,121 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:29,769 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 13:26:33,482 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:36,002 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 13:26:43,732 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:46,141 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony/
+2024-08-02 13:26:49,633 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:52,053 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony//page-1/
+2024-08-02 13:26:55,177 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:26:57,539 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty/
+2024-08-02 13:27:00,712 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:03,128 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty//page-1/
+2024-08-02 13:27:06,195 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:08,448 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 13:27:11,065 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:13,182 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski//page-1/
+2024-08-02 13:27:16,147 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:18,242 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki/
+2024-08-02 13:27:21,023 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:23,292 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki//page-1/
+2024-08-02 13:27:25,824 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:28,004 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple/
+2024-08-02 13:27:31,061 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:33,408 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple//page-1/
+2024-08-02 13:27:36,587 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:38,919 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory/
+2024-08-02 13:27:44,797 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:46,894 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory//page-1/
+2024-08-02 13:27:49,494 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:51,646 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki/
+2024-08-02 13:27:54,610 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:27:57,003 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki//page-1/
+2024-08-02 13:28:01,944 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:04,280 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki/
+2024-08-02 13:28:07,740 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:10,131 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki//page-1/
+2024-08-02 13:28:13,372 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:15,757 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation/
+2024-08-02 13:28:18,161 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:20,513 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation//page-1/
+2024-08-02 13:28:23,334 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:25,750 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya/
+2024-08-02 13:28:29,191 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:31,512 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya//page-1/
+2024-08-02 13:28:34,187 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:36,513 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 13:28:39,777 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:42,096 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-1/
+2024-08-02 13:28:46,405 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:48,871 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/
+2024-08-02 13:28:51,961 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:54,214 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom//page-1/
+2024-08-02 13:28:57,293 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:28:59,550 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda/
+2024-08-02 13:29:03,550 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:06,112 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda//page-1/
+2024-08-02 13:29:10,303 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:12,704 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/
+2024-08-02 13:29:15,502 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:17,715 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334//page-1/
+2024-08-02 13:29:20,983 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:23,258 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly/
+2024-08-02 13:29:26,838 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:29,264 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly//page-1/
+2024-08-02 13:29:32,927 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:35,324 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 13:29:38,700 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:40,998 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 13:29:44,617 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:46,924 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 13:29:50,747 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:29:53,047 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 13:29:58,652 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:30:00,882 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 13:31:38,187 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:31:38,228 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:31:41,280 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 13:31:44,484 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:31:46,621 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 13:31:49,051 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:31:54,918 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:31:54,919 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:32:00,202 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:32:03,473 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:05,756 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:32:09,119 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:11,380 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:32:14,289 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:16,678 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:32:19,524 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:21,848 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:32:29,623 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:31,899 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:32:34,989 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:37,360 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:32:40,135 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:42,584 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:32:45,547 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:47,853 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 13:32:51,470 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:32:54,484 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 13:32:58,004 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:00,444 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony/
+2024-08-02 13:33:03,385 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:05,998 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/smartfony//page-1/
+2024-08-02 13:33:09,230 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:11,597 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty/
+2024-08-02 13:33:14,513 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:17,563 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/videokarty//page-1/
+2024-08-02 13:33:25,814 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:28,143 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski/
+2024-08-02 13:33:30,533 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:33,431 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ssd-diski//page-1/
+2024-08-02 13:33:36,029 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:38,199 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki/
+2024-08-02 13:33:41,091 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:43,330 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/noutbuki//page-1/
+2024-08-02 13:33:46,217 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:48,678 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple/
+2024-08-02 13:33:51,891 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:33:55,050 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/naushniki-apple//page-1/
+2024-08-02 13:33:57,746 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:00,087 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory/
+2024-08-02 13:34:02,449 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:04,529 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/televizory//page-1/
+2024-08-02 13:34:06,953 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:09,084 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki/
+2024-08-02 13:34:12,077 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:14,460 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/umnye-kolonki//page-1/
+2024-08-02 13:34:17,992 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:20,493 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki/
+2024-08-02 13:34:23,580 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:25,982 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/portativnye-kolonki//page-1/
+2024-08-02 13:34:29,320 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:31,688 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation/
+2024-08-02 13:34:38,701 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:41,063 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-pristavki-playstation//page-1/
+2024-08-02 13:34:44,399 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:46,620 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya/
+2024-08-02 13:34:51,271 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:53,815 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/parfyumeriya//page-1/
+2024-08-02 13:34:57,246 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:34:59,570 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom/
+2024-08-02 13:35:03,969 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:06,563 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/uhod-za-licom//page-1/
+2024-08-02 13:35:11,298 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:13,864 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/
+2024-08-02 13:35:16,194 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:18,297 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom//page-1/
+2024-08-02 13:35:22,535 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:24,931 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda/
+2024-08-02 13:35:30,037 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:32,951 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/stolovaya-posuda//page-1/
+2024-08-02 13:35:36,278 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:39,181 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/
+2024-08-02 13:35:48,271 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:50,862 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/igrovye-kresla-2463684633800334//page-1/
+2024-08-02 13:35:55,323 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:35:58,231 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly/
+2024-08-02 13:36:02,764 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:05,513 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/geymerskie-stoly//page-1/
+2024-08-02 13:36:10,508 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:15,085 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye/
+2024-08-02 13:36:18,481 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:21,650 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kresla-kompyuternye//page-1/
+2024-08-02 13:36:25,293 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:27,549 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/
+2024-08-02 13:36:30,675 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:33,061 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/ochki-virtualnoj-realnosti//page-1/
+2024-08-02 13:36:36,607 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:38,895 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki/
+2024-08-02 13:36:42,014 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:44,194 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/holodilniki//page-1/
+2024-08-02 13:36:47,264 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:36:53,291 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:36:53,292 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:37:00,811 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:37:04,922 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:37:07,194 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:37:11,003 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:37:13,403 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:44:34,296 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:44:34,379 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:44:38,170 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:44:41,181 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:44:43,636 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:44:47,162 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:44:50,555 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:44:54,722 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:44:57,184 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:45:00,522 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:45:03,006 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:45:05,953 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:45:08,328 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:45:10,982 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:45:13,314 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 13:45:16,642 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:45:20,864 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 13:48:32,927 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:48:32,998 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:48:36,458 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:48:44,875 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:48:47,469 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:48:54,367 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:48:56,792 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:49:03,262 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:49:05,664 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:49:11,968 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:49:14,376 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 13:49:22,694 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:49:25,212 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 13:51:33,365 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:51:33,422 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:51:36,799 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:51:39,849 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:51:42,203 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:51:45,935 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:51:48,333 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
+2024-08-02 13:51:51,212 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:51:53,654 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny/page-1/
+2024-08-02 13:51:56,406 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:51:58,898 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/
+2024-08-02 13:52:04,252 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:52:06,782 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma//page-1/
+2024-08-02 13:53:39,295 - browser_setup.py - INFO - init_driver - Определение пути к драйверу
+2024-08-02 13:53:39,342 - browser_setup.py - INFO - init_driver - Инициализация драйвера браузера
+2024-08-02 13:53:43,128 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol
+2024-08-02 13:53:53,294 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:53:55,819 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/alkogol/page-1/
+2024-08-02 13:54:03,251 - browser_setup.py - INFO - get_page_source - Страница загружена успешно
+2024-08-02 13:54:05,929 - browser_setup.py - INFO - get_page_source - Переход на URL: https://megamarket.ru/catalog/kofemashiny
