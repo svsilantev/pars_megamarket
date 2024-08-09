@@ -22,4 +22,4 @@ if __name__ == "__main__":
     # Настройка логирования
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-    main(False)
+    main(True)

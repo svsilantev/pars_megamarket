@@ -7,7 +7,6 @@ import psutil
 from marketplace_data_import.browser_setup import init_driver, get_page_source
 import signal
 import sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 driver = None  # Глобальная переменная для драйвера
 
@@ -44,15 +43,16 @@ def get_db_connection(db_name, user, password, host='localhost', port='5433'):
     finally:
         logging.info(f"Время подключения к базе данных: {time.time() - start_time:.2f} сек")
 
-def load_page(driver, url):
-    logging.info(f"Загрузка страницы: {url}")
-    start_time = time.time()  # Время начала загрузки страницы
-    page_source = get_page_source(driver, url)
-    load_duration = time.time() - start_time  # Время, затраченное на загрузку страницы
-    logging.info(f"Время загрузки страницы {url}: {load_duration:.2f} сек")
-    return url, page_source
+def get_unique_categories(conn):
+    start_time = time.time()
+    cursor = conn.cursor()
+    cursor.execute('SELECT DISTINCT category_url FROM categories')
+    categories = cursor.fetchall()
+    cursor.close()  # Закрываем курсор
+    logging.info(f"Время получения уникальных категорий: {time.time() - start_time:.2f} сек")
+    return categories
 
-def parse_items(page_source, category, conn):
+def parse_items(page_source, category):
     start_time = time.time()
     soup = BeautifulSoup(page_source, 'html.parser')
     container = soup.find('div', class_='catalog-items-list__container')
@@ -61,6 +61,8 @@ def parse_items(page_source, category, conn):
         return []
 
     items = container.find_all('div', class_='catalog-item-regular-desktop')
+    # logging.info(f"Найдено товаров: {len(items)}")
+
     result = []
 
     for item in items:
@@ -76,6 +78,7 @@ def parse_items(page_source, category, conn):
         rating = item.select_one('div[data-test="rating-stars-value"]')
         reviews_count = item.select_one('div.catalog-item-review__review-amount')
 
+        # Быстрая проверка наличия обязательных элементов
         if not product_name or not discounted_price:
             continue
 
@@ -107,9 +110,9 @@ def parse_items(page_source, category, conn):
             "product_link": product_link_url
         })
 
-    save_to_temp_database(result, conn)
     logging.info(f"Время парсинга товаров: {time.time() - start_time:.2f} сек")
-    return result  # Возвращаем список элементов
+    return result
+
 
 def save_to_temp_database(data, conn):
     start_time = time.time()
@@ -186,105 +189,92 @@ def process_categories(db_name, user, password, host='localhost', port='5433', t
     categories = get_next_categories_to_process(conn)
 
     try:
-        with ThreadPoolExecutor(max_workers=4) as load_executor, \
-             ThreadPoolExecutor(max_workers=4) as parse_executor:
+        for category_id, category_url in categories:
+            logging.info(f"Переход на URL: {category_url}")
+            category_name = 'Unknown'
+            page_number = 0
+            pages_loaded = 0
+            load_time_start = time.time()
+            total_items_count = 0
 
-            for category_id, category_url in categories:
-                logging.info(f"Переход на URL: {category_url}")
-                category_name = 'Unknown'
-                page_number = 0
-                total_items_count = 0
-
-                future_to_url = {}
-                parse_futures = []
-
-                while True:
-                    start_time = time.time()  # Время начала обработки страницы
-                    
-                    if page_number == 0:
-                        url = category_url
-                    else:
-                        url = f"{category_url}/page-{page_number}/"
-
-                    # Запуск загрузки страницы
-                    future = load_executor.submit(load_page, driver, url)
-                    future_to_url[future] = (category_url, page_number)
-
-                    # Обрабатываем результат загрузки и запускаем парсинг в отдельном потоке
-                    for future in as_completed(future_to_url):
-                        category_url, page_number = future_to_url.pop(future)
-                        url, page_source = future.result()
-
-                        if page_source:
-                            if page_number == 0:
-                                category_name = get_category_name(page_source)
-                                logging.info(f"Определено имя категории: {category_name}")
-
-                            # Запуск парсинга страницы
-                            parse_future = parse_executor.submit(parse_items, page_source, category_name, conn)
-                            parse_futures.append(parse_future)
-
-                            pages_loaded = len(parse_futures)
-                        else:
-                            logging.error(f"Ошибка: не удалось загрузить страницу {url}")
-                            break
-
-                        page_number += 1
-                        if test_mode and page_number > 1:
-                            break
-
-                    # Время полного цикла для текущей страницы
-                    end_time = time.time()
-                    logging.info(f"Время полного цикла загрузки и обработки страницы {url}: {end_time - start_time:.2f} сек")
-
-                # Ожидаем завершения всех задач парсинга перед выходом из цикла
-                for future in as_completed(parse_futures):
-                    future.result()  # Дождаться завершения парсинга всех страниц
-
-                # Обновление и сохранение данных в базу после завершения парсинга
-                if category_name and category_name != 'Unknown':
-                    logging.info(f"Попытка удалить старые записи для категории: {category_name}")
-                    cursor = conn.cursor()
-                    cursor.execute('DELETE FROM products WHERE category = %s', (category_name,))
-                    logging.info(f"Удалены старые записи для категории: {category_name}")
-
-                    cursor.execute('SELECT COUNT(*) FROM temp_products')
-                    temp_count = cursor.fetchone()[0]
-                    logging.info(f"Количество записей во временной таблице перед вставкой: {temp_count}")
-
-                    cursor.execute('''
-                        INSERT INTO products (load_date, category, name, merchant, original_price, discounted_price, 
-                                              discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link)
-                        SELECT load_date, category, name, merchant, original_price, discounted_price, discount_percent,
-                            bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link
-                        FROM temp_products
-                    ''')
-                    logging.info(f"Вставлены новые данные для категории: {category_name}")
-
-                    cursor.execute('SELECT COUNT(*) FROM products WHERE category = %s', (category_name,))
-                    product_count = cursor.fetchone()[0]
-                    logging.info(f"Количество записей в основной таблице после вставки: {product_count}")
-
-                    cursor.execute('DELETE FROM temp_products')
-                    logging.info(f"Очищена временная таблица для категории: {category_name}")
-
-                    # Вставка максимального бонусного процента по категории
-                    cursor.execute('''
-                        SELECT MAX(bonus_percent) FROM products WHERE category = %s
-                    ''', (category_name,))
-                    max_bonus_percent = cursor.fetchone()[0]
-
-                    cursor.execute('''
-                        UPDATE categories 
-                        SET category_name = %s, load_time = %s, load_date = %s, load_time_start = %s, load_time_end = %s, 
-                            items_count = %s, pages_loaded = %s, max_bonus_percent = %s 
-                        WHERE category_url = %s
-                    ''', (category_name, time.time() - start_time, datetime.now().strftime('%Y-%m-%d %H:%M:%S'), 
-                          start_time, end_time, total_items_count, pages_loaded, max_bonus_percent, category_url))
-                    logging.info(f"Обновлена категория: {category_name} в таблице categories")
+            while True:
+                if page_number == 0:
+                    url = category_url
                 else:
-                    logging.error("Не удалось определить имя категории. Пропуск удаления и вставки записей.")
-                conn.commit()
+                    url = f"{category_url}/page-{page_number}/"
+
+                logging.info(f"Загрузка страницы: {url}")
+                start_time = time.time()  # Время начала загрузки страницы
+                page_source = get_page_source(driver, url)
+                load_duration = time.time() - start_time  # Время, затраченное на загрузку страницы
+                logging.info(f"Время загрузки страницы {url}: {load_duration:.2f} сек")
+
+                if page_source:
+                    if page_number == 0:
+                        category_name = get_category_name(page_source)
+                        logging.info(f"Определено имя категории: {category_name}")
+                    items = parse_items(page_source, category_name)
+                    if not items and page_number > 0:
+                        logging.info(f"Нет больше товаров на странице {page_number}. Переход к следующей категории.")
+                        break
+                    total_items_count += len(items)
+                    pages_loaded += 1
+                    save_to_temp_database(items, conn)
+                else:
+                    logging.error(f"Ошибка: не удалось загрузить страницу {url}")
+                    logging.error(f"Не удалось получить страницу {page_number}. Переход к следующей категории.")
+                    break
+                page_number += 1
+                if test_mode and page_number > 1:
+                    break
+
+            load_time_end = time.time()
+            load_time = round(load_time_end - load_time_start, 0)
+            load_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+            if category_name and category_name != 'Unknown':
+                logging.info(f"Попытка удалить старые записи для категории: {category_name}")
+                cursor = conn.cursor()
+                cursor.execute('DELETE FROM products WHERE category = %s', (category_name,))
+                logging.info(f"Удалены старые записи для категории: {category_name}")
+
+                cursor.execute('SELECT COUNT(*) FROM temp_products')
+                temp_count = cursor.fetchone()[0]
+                logging.info(f"Количество записей во временной таблице перед вставкой: {temp_count}")
+
+                cursor.execute('''
+                    INSERT INTO products (load_date, category, name, merchant, original_price, discounted_price, 
+                                          discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link)
+                    SELECT load_date, category, name, merchant, original_price, discounted_price, discount_percent,
+                        bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link
+                    FROM temp_products
+                ''')
+                logging.info(f"Вставлены новые данные для категории: {category_name}")
+
+                cursor.execute('SELECT COUNT(*) FROM products WHERE category = %s', (category_name,))
+                product_count = cursor.fetchone()[0]
+                logging.info(f"Количество записей в основной таблице после вставки: {product_count}")
+
+                cursor.execute('DELETE FROM temp_products')
+                logging.info(f"Очищена временная таблица для категории: {category_name}")
+
+                # Вставка максимального бонусного процента по категории
+                cursor.execute('''
+                    SELECT MAX(bonus_percent) FROM products WHERE category = %s
+                ''', (category_name,))
+                max_bonus_percent = cursor.fetchone()[0]
+
+                cursor.execute('''
+                    UPDATE categories 
+                    SET category_name = %s, load_time = %s, load_date = %s, load_time_start = %s, load_time_end = %s, 
+                        items_count = %s, pages_loaded = %s, max_bonus_percent = %s 
+                    WHERE category_url = %s
+                ''', (category_name, load_time, load_date, datetime.fromtimestamp(load_time_start).strftime('%Y-%m-%d %H:%M:%S'), 
+                      datetime.fromtimestamp(load_time_end).strftime('%Y-%m-%d %H:%M:%S'), total_items_count, pages_loaded, max_bonus_percent, category_url))
+                logging.info(f"Обновлена категория: {category_name} в таблице categories")
+            else:
+                logging.error("Не удалось определить имя категории. Пропуск удаления и вставки записей.")
+            conn.commit()
 
     finally:
         if driver:
@@ -293,8 +283,6 @@ def process_categories(db_name, user, password, host='localhost', port='5433', t
         new_pids = set(current_pids) - set(original_pids)
         kill_processes_by_pids(new_pids)
         conn.close()
-
-
 
 def handle_sigint(signal, frame):
     logging.info("Получен сигнал SIGINT. Завершение работы...")

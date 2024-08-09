@@ -78,21 +78,16 @@ def get_page_source(driver, url):
         logging.info(f"Переход на URL: {url}")
         driver.get(url)
         WebDriverWait(driver, 20).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
+            EC.presence_of_element_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
         )
         logging.info("Страница загружена успешно")
         
-        # Ожидание подгрузки всех элементов списка товаров
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, '.catalog-items-list__container'))
-        )
+        # Получаем HTML-код только необходимых элементов
+        container_html = driver.find_element(By.CSS_SELECTOR, '.catalog-items-list__container').get_attribute('outerHTML')
+        category_html = driver.find_element(By.CSS_SELECTOR, 'h1.catalog-header__title').get_attribute('outerHTML')
         
-        # # Добавляем паузу для полной загрузки страницы
-        # time.sleep(1.5)
-        
-        # Получаем HTML-код страницы
-        page_source = driver.page_source
-        return page_source
+        # Можно также возвращать всю страницу, если это необходимо
+        return category_html + container_html
         
     except TimeoutException:
         logging.error(f"Ошибка: не удалось загрузить страницу {url}")
