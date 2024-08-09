@@ -1,0 +1,1430 @@
+id,user_name,category_url,category_name,pages_loaded,load_time,load_date,load_time_start,load_time_end,items_count,max_bonus_percent
+1,user1,https://megamarket.ru/catalog/alkogol,Алкоголь,472,1610.0,2024-08-06 03:11:38,2024-08-06 02:44:48,2024-08-06 03:11:38,20753,
+2,user2,https://megamarket.ru/catalog/kofemashiny,Кофемашины,136,488.0,2024-08-06 03:19:47,2024-08-06 03:11:39,2024-08-06 03:19:47,5956,
+5,user2,https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/,Умный дом,327,1314.0,2024-08-06 03:41:42,2024-08-06 03:19:47,2024-08-06 03:41:42,16747,
+6,user2,https://megamarket.ru/catalog/smartfony/,Смартфоны,1121,4629.0,2024-08-06 04:58:51,2024-08-06 03:41:43,2024-08-06 04:58:51,49246,
+7,user2,https://megamarket.ru/catalog/videokarty/,Видеокарты,254,965.0,2024-08-06 05:14:57,2024-08-06 04:58:53,2024-08-06 05:14:57,11068,
+8,user2,https://megamarket.ru/catalog/ssd-diski/,SSD диски,121,460.0,2024-08-06 05:22:38,2024-08-06 05:14:58,2024-08-06 05:22:38,2882,
+9,user1,https://megamarket.ru/catalog/noutbuki/,Ноутбуки,29,134.0,2024-08-06 05:24:53,2024-08-06 05:22:39,2024-08-06 05:24:53,677,
+10,user1,https://megamarket.ru/catalog/naushniki-apple/,Наушники Apple,35,133.0,2024-08-06 05:27:07,2024-08-06 05:24:54,2024-08-06 05:27:07,1490,
+11,user1,https://megamarket.ru/catalog/televizory/,Телевизоры,139,471.0,2024-08-06 05:34:58,2024-08-06 05:27:07,2024-08-06 05:34:58,3282,
+12,user1,https://megamarket.ru/catalog/umnye-kolonki/,Умные колонки,126,469.0,2024-08-06 05:42:48,2024-08-06 05:34:59,2024-08-06 05:42:48,5521,
+13,user1,https://megamarket.ru/catalog/portativnye-kolonki/,Портативные колонки,587,2212.0,2024-08-06 06:19:41,2024-08-06 05:42:48,2024-08-06 06:19:41,25738,
+14,user1,https://megamarket.ru/catalog/igrovye-pristavki-playstation/,Игровые приставки Sony PlayStation,62,203.0,2024-08-06 06:23:04,2024-08-06 06:19:42,2024-08-06 06:23:04,2694,
+15,user1,https://megamarket.ru/catalog/parfyumeriya/,Духи,576,2109.0,2024-08-06 06:58:13,2024-08-06 06:23:05,2024-08-06 06:58:13,23996,
+16,user1,https://megamarket.ru/catalog/uhod-za-licom/,Уход за лицом,833,3979.0,2024-08-06 08:04:33,2024-08-06 06:58:14,2024-08-06 08:04:33,36603,
+17,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/,Средства по уходу за телом,1137,4444.0,2024-08-06 09:18:39,2024-08-06 08:04:34,2024-08-06 09:18:39,49252,
+18,user1,https://megamarket.ru/catalog/stolovaya-posuda/,Столовая посуда,1137,5373.0,2024-08-06 10:48:13,2024-08-06 09:18:40,2024-08-06 10:48:13,48955,
+19,user1,https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/,Игровые кресла,173,608.0,2024-08-06 10:58:23,2024-08-06 10:48:15,2024-08-06 10:58:23,5468,
+20,user1,https://megamarket.ru/catalog/geymerskie-stoly/,Игровые столы,19,82.0,2024-08-06 10:59:45,2024-08-06 10:58:23,2024-08-06 10:59:45,746,
+21,user1,https://megamarket.ru/catalog/kresla-kompyuternye/,Компьютерные кресла,1423,5358.0,2024-08-06 12:29:04,2024-08-06 10:59:45,2024-08-06 12:29:04,44937,
+22,user1,https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/,Очки виртуальной реальности,25,98.0,2024-08-06 12:30:43,2024-08-06 12:29:05,2024-08-06 12:30:43,1094,
+24,user1,https://megamarket.ru/catalog/mobilnye-telefony/,Мобильные телефоны,1032,2022.0,2024-08-06 15:10:51,2024-08-06 14:37:10,2024-08-06 15:10:51,45382,35.0
+25,user1,https://megamarket.ru/catalog/umnye-chasy/,Смарт-часы,423,863.0,2024-08-06 15:25:16,2024-08-06 15:10:53,2024-08-06 15:25:16,18526,46.0
+26,user1,https://megamarket.ru/catalog/fitnes-braslety/,Фитнес браслеты,32,66.0,2024-08-06 15:26:23,2024-08-06 15:25:17,2024-08-06 15:26:23,1364,25.0
+27,user1,https://megamarket.ru/catalog/naushniki/,Наушники,764,1736.0,2024-08-06 15:55:19,2024-08-06 15:26:23,2024-08-06 15:55:19,18296,51.0
+28,user1,https://megamarket.ru/catalog/besprovodnye-zaryadnye-ustrojstva/,Беспроводные зарядные устройства,73,125.0,2024-08-06 15:57:25,2024-08-06 15:55:20,2024-08-06 15:57:25,3205,74.0
+29,user1,https://megamarket.ru/catalog/setevye-zaryadnye-ustrojstva/,Сетевые зарядные устройства,272,500.0,2024-08-06 16:05:47,2024-08-06 15:57:26,2024-08-06 16:05:47,11938,50.0
+30,user1,https://megamarket.ru/catalog/dok-stancii-dlya-telefonov/,Док-станции для телефонов,6,10.0,2024-08-06 16:05:57,2024-08-06 16:05:48,2024-08-06 16:05:57,240,16.0
+31,user1,https://megamarket.ru/catalog/vneshnie-akkumulyatory/,Внешние аккумуляторы (Power bank),223,415.0,2024-08-06 16:12:53,2024-08-06 16:05:58,2024-08-06 16:12:53,9731,35.0
+32,user1,https://megamarket.ru/catalog/kabeli-i-perehodniki-dlya-telefona/,Кабели и адаптеры для мобильных телефонов,450,833.0,2024-08-06 16:26:47,2024-08-06 16:12:54,2024-08-06 16:26:47,19746,38.0
+33,user1,https://megamarket.ru/catalog/derzhateli-dlya-telefona-v-mashinu/,Держатели для телефонов в машину,238,395.0,2024-08-06 16:33:23,2024-08-06 16:26:48,2024-08-06 16:33:23,10318,52.0
+34,user1,https://megamarket.ru/catalog/nastolnye-derzhateli-dlya-telefonov/,Настольные держатели для телефонов,22,33.0,2024-08-06 16:33:57,2024-08-06 16:33:24,2024-08-06 16:33:57,944,39.0
+35,user1,https://megamarket.ru/catalog/popsokety/,Попсокеты,34,56.0,2024-08-06 16:34:53,2024-08-06 16:33:58,2024-08-06 16:34:53,1476,35.0
+36,user1,https://megamarket.ru/catalog/aksessuary-dlya-selfi/,Аксессуары для селфи,20,31.0,2024-08-06 16:35:25,2024-08-06 16:34:54,2024-08-06 16:35:25,846,36.0
+37,user1,https://megamarket.ru/catalog/geympady-dlya-smartfonov/,Джойстики для смартфонов,20,32.0,2024-08-06 16:35:58,2024-08-06 16:35:25,2024-08-06 16:35:58,864,32.0
+38,user1,https://megamarket.ru/catalog/flesh-karty-dlya-smartfonov/,Флеш-карты для смартфонов,33,55.0,2024-08-06 16:36:53,2024-08-06 16:35:58,2024-08-06 16:36:53,1414,16.0
+39,user1,https://megamarket.ru/catalog/ochki-virtualnoy-realnosti-dlya-smartfona/,Очки виртуальной реальности для смартфона,12,19.0,2024-08-06 16:37:12,2024-08-06 16:36:54,2024-08-06 16:37:12,513,35.0
+40,user1,https://megamarket.ru/catalog/besprovodnye-metki/,Беспроводные метки,23,31.0,2024-08-06 16:37:44,2024-08-06 16:37:13,2024-08-06 16:37:44,975,20.0
+41,user1,https://megamarket.ru/catalog/planshety/,Планшеты,249,467.0,2024-08-06 16:45:32,2024-08-06 16:37:45,2024-08-06 16:45:32,10910,39.0
+42,user1,https://megamarket.ru/catalog/chehly-dlya-planshetov/,Чехлы для планшетов,138,253.0,2024-08-06 16:49:45,2024-08-06 16:45:33,2024-08-06 16:49:45,6029,37.0
+43,user1,https://megamarket.ru/catalog/kabeli-i-zaryadnye-ustrojstva-dlya-planshetov/,Зарядные устройства для планшетов,273,498.0,2024-08-06 16:58:04,2024-08-06 16:49:46,2024-08-06 16:58:04,11968,50.0
+44,user1,https://megamarket.ru/catalog/kabel-dlya-plansheta/,Кабели для планшетов,604,1082.0,2024-08-06 17:16:08,2024-08-06 16:58:05,2024-08-06 17:16:08,26464,41.0
+45,user1,https://megamarket.ru/catalog/derzhateli-dlya-planshetov/,Подставки для планшетов,12,19.0,2024-08-06 17:16:27,2024-08-06 17:16:08,2024-08-06 17:16:27,502,36.0
+46,user1,https://megamarket.ru/catalog/derzhateli-planshetov/,Держатели планшетов,8,13.0,2024-08-06 17:16:41,2024-08-06 17:16:28,2024-08-06 17:16:41,319,50.0
+47,user1,https://megamarket.ru/catalog/stilusy/,Стилусы,23,37.0,2024-08-06 17:20:54,2024-08-06 17:20:17,2024-08-06 17:20:54,991,49.0
+48,user1,https://megamarket.ru/catalog/sistemnye-bloki/,Системные блоки,432,1024.0,2024-08-06 17:37:59,2024-08-06 17:20:55,2024-08-06 17:37:59,19008,26.0
+49,user1,https://megamarket.ru/catalog/monitory/,Мониторы для компьютера,561,1085.0,2024-08-06 17:56:05,2024-08-06 17:38:00,2024-08-06 17:56:05,24676,21.0
+50,user1,https://megamarket.ru/catalog/operativnaya-pamyat/,Оперативная память (ОЗУ),2084,3320.0,2024-08-06 19:32:42,2024-08-06 18:37:21,2024-08-06 19:32:42,50016,25.0
+51,user1,https://megamarket.ru/catalog/igrovye-processory/,Игровые процессоры,81,124.0,2024-08-06 19:34:47,2024-08-06 19:32:43,2024-08-06 19:34:47,3522,18.0
+52,user1,https://megamarket.ru/catalog/materinskie-platy/,Материнские платы,353,682.0,2024-08-06 19:46:09,2024-08-06 19:34:48,2024-08-06 19:46:09,15516,35.0
+53,user1,https://megamarket.ru/catalog/zhestkie-diski/,Жесткие диски для компьютера,527,722.0,2024-08-06 21:31:22,2024-08-06 21:19:20,2024-08-06 21:31:22,12640,25.0
+54,user1,https://megamarket.ru/catalog/processory/,Процессоры,396,573.0,2024-08-06 21:40:56,2024-08-06 21:31:23,2024-08-06 21:40:56,9486,18.0
+55,user1,https://megamarket.ru/catalog/kulery-dlya-processora/,Кулеры для процессора,303,504.0,2024-08-06 21:49:21,2024-08-06 21:40:57,2024-08-06 21:49:21,13308,25.0
+56,user1,https://megamarket.ru/catalog/korpusnyy-ventilyator/,Вентиляторы для компьютера,211,350.0,2024-08-06 21:55:13,2024-08-06 21:49:22,2024-08-06 21:55:13,9250,25.0
+57,user1,https://megamarket.ru/catalog/korpusa-dlya-kompyutera/,Корпуса для компьютера,719,1371.0,2024-08-06 22:18:05,2024-08-06 21:55:14,2024-08-06 22:18:05,31591,19.0
+58,user1,https://megamarket.ru/catalog/bloki-pitaniya-dlya-kompyutera/,Блоки питания для компьютера,3,90.0,2024-08-06 22:38:18,2024-08-06 22:36:49,2024-08-06 22:38:18,132,37.0
+59,user1,https://megamarket.ru/catalog/zvukovye-karty/,Звуковые карты,29,98.0,2024-08-06 22:39:58,2024-08-06 22:38:20,2024-08-06 22:39:58,1259,36.0
+60,user1,https://megamarket.ru/catalog/aksessuary-dlya-nakopiteley/,Аксессуары для накопителей,109,180.0,2024-08-06 22:42:58,2024-08-06 22:39:59,2024-08-06 22:42:58,4780,37.0
+61,user1,https://megamarket.ru/catalog/setevye-karty/,Сетевые карты (адаптеры),92,141.0,2024-08-06 22:45:21,2024-08-06 22:43:00,2024-08-06 22:45:21,4008,35.0
+62,user1,https://megamarket.ru/catalog/igrovye-videokarty/,Игровые видеокарты,32,54.0,2024-08-06 22:46:16,2024-08-06 22:45:22,2024-08-06 22:46:16,1372,35.0
+63,user1,https://megamarket.ru/catalog/hdd-i-ssd/,SSD и HDD,1077,1947.0,2024-08-06 23:18:44,2024-08-06 22:46:17,2024-08-06 23:18:44,47364,25.0
+65,user1,https://megamarket.ru/catalog/igrovaya-operativnaya-pamyat/,Игровая оперативная память,222,406.0,2024-08-06 23:25:32,2024-08-06 23:18:46,2024-08-06 23:25:32,9753,18.0
+66,user1,https://megamarket.ru/catalog/igrovye-materinskie-platy/,Игровые материнские платы,109,220.0,2024-08-06 23:29:13,2024-08-06 23:25:33,2024-08-06 23:29:13,4775,18.0
+67,user1,https://megamarket.ru/catalog/igrovye-korpusa-dlya-pk/,Корпуса для ПК игровые,254,511.0,2024-08-06 23:37:44,2024-08-06 23:29:14,2024-08-06 23:37:44,11159,19.0
+68,user1,https://megamarket.ru/catalog/karty-videozahvata/,Карты захвата,9,39.0,2024-08-06 23:38:25,2024-08-06 23:37:46,2024-08-06 23:38:25,373,18.0
+69,user1,https://megamarket.ru/catalog/veb-kamery-dlya-strimov/,Веб-камеры для стримов,15,47.0,2024-08-06 23:39:13,2024-08-06 23:38:26,2024-08-06 23:39:13,659,18.0
+70,user1,https://megamarket.ru/catalog/mikrofony-dlya-strimov/,Микрофоны для стримов,30,74.0,2024-08-06 23:40:27,2024-08-06 23:39:13,2024-08-06 23:40:27,1287,38.0
+71,user1,https://megamarket.ru/catalog/igrovye-bloki-pitaniya/,Игровые блоки питания,145,273.0,2024-08-06 23:45:02,2024-08-06 23:40:28,2024-08-06 23:45:02,6337,18.0
+72,user1,https://megamarket.ru/catalog/monobloki/,Моноблоки,79,146.0,2024-08-06 23:47:29,2024-08-06 23:45:03,2024-08-06 23:47:29,3442,18.0
+73,user1,https://megamarket.ru/catalog/vneshnie-zhestkie-diski/,Внешние жесткие диски,243,320.0,2024-08-06 23:52:50,2024-08-06 23:47:30,2024-08-06 23:52:50,5812,16.0
+74,user1,https://megamarket.ru/catalog/vneshnie-zhestkie-diski-ssd/,Внешние жесткие диски SSD,100,171.0,2024-08-06 23:55:42,2024-08-06 23:52:51,2024-08-06 23:55:42,4395,16.0
+75,user1,https://megamarket.ru/catalog/klaviatury/,Клавиатуры,448,851.0,2024-08-07 00:09:54,2024-08-06 23:55:43,2024-08-07 00:09:54,19656,55.0
+76,user1,https://megamarket.ru/catalog/komplekty-klaviaturamysh/,Комплекты клавиатура и мышь,170,330.0,2024-08-07 00:15:25,2024-08-07 00:09:55,2024-08-07 00:15:25,7455,42.0
+77,user1,https://megamarket.ru/catalog/myshi-kompyuternye/,Мыши компьютерные,858,1599.0,2024-08-07 00:42:07,2024-08-07 00:15:27,2024-08-07 00:42:07,37740,44.0
+79,user1,https://megamarket.ru/catalog/kompyuternye-kolonki/,Колонки для компьютера,226,401.0,2024-08-07 00:48:49,2024-08-07 00:42:08,2024-08-07 00:48:49,9934,58.0
+80,user1,https://megamarket.ru/catalog/kompyuternye-garnitury/,Компьютерные гарнитуры,428,772.0,2024-08-07 01:01:42,2024-08-07 00:48:50,2024-08-07 01:01:42,18787,49.0
+81,user1,https://megamarket.ru/catalog/drugie-aksessuary-dlya-kompyuterov/,Другие аксессуары для компьютеров,133,217.0,2024-08-07 01:05:19,2024-08-07 01:01:43,2024-08-07 01:05:19,5833,38.0
+82,user1,https://megamarket.ru/catalog/kabeli-dlya-kompyutera/,Кабели для компьютера,246,642.0,2024-08-07 01:16:02,2024-08-07 01:05:21,2024-08-07 01:16:02,10822,51.0
+83,user1,https://megamarket.ru/catalog/web-kamery/,Веб-камеры,88,149.0,2024-08-07 01:18:32,2024-08-07 01:16:03,2024-08-07 01:18:32,3864,18.0
+84,user1,https://megamarket.ru/catalog/istochniki-besperebojnogo-pitaniya/,Источники бесперебойного питания (UPS),457,790.0,2024-08-07 01:31:44,2024-08-07 01:18:33,2024-08-07 01:31:44,19987,18.0
+85,user1,https://megamarket.ru/catalog/graficheskie-planshety/,Графические планшеты,38,71.0,2024-08-07 01:32:56,2024-08-07 01:31:45,2024-08-07 01:32:56,1663,35.0
+86,user1,https://megamarket.ru/catalog/igrovye-myshi/,Игровые мыши,196,357.0,2024-08-07 01:38:55,2024-08-07 01:32:57,2024-08-07 01:38:55,8611,44.0
+87,user1,https://megamarket.ru/catalog/igrovye-klaviatury/,Игровые клавиатуры,142,248.0,2024-08-07 01:43:04,2024-08-07 01:38:56,2024-08-07 01:43:04,6217,55.0
+88,user1,https://megamarket.ru/catalog/komplekty-igrovyh-klaviatur-i-myshek/,Комплекты игровых клавиатур и мышек,16,30.0,2024-08-07 01:43:35,2024-08-07 01:43:05,2024-08-07 01:43:35,692,42.0
+89,user1,https://megamarket.ru/catalog/igrovye-naushniki/,Игровые наушники,145,258.0,2024-08-07 01:47:54,2024-08-07 01:43:36,2024-08-07 01:47:54,6343,37.0
+91,user1,https://megamarket.ru/catalog/gejmpady-ruli-i-dzhojstiki/,Джойстики,36,64.0,2024-08-07 01:49:00,2024-08-07 01:47:55,2024-08-07 01:49:00,1563,32.0
+92,user1,https://megamarket.ru/catalog/igrovye-ruli/,Игровые рули,15,35.0,2024-08-07 01:49:36,2024-08-07 01:49:01,2024-08-07 01:49:36,627,35.0
+93,user1,https://megamarket.ru/catalog/ochki-dlya-geymerov/,Очки для геймеров,22,38.0,2024-08-07 01:50:15,2024-08-07 01:49:37,2024-08-07 01:50:15,936,37.0
+94,user1,https://megamarket.ru/catalog/soft/,Программное обеспечение,45,67.0,2024-08-07 01:51:23,2024-08-07 01:50:16,2024-08-07 01:51:23,1063,19.0
+95,user1,https://megamarket.ru/catalog/wi-fi-routery/,Wi-Fi роутеры,336,612.0,2024-08-07 02:01:36,2024-08-07 01:51:24,2024-08-07 02:01:36,14757,35.0
+96,user1,https://megamarket.ru/catalog/kommutatory/,Коммутаторы (свитчи),363,619.0,2024-08-07 02:11:56,2024-08-07 02:01:37,2024-08-07 02:11:56,15967,21.0
+97,user1,https://megamarket.ru/catalog/modemy/,Модемы,20,38.0,2024-08-07 02:12:35,2024-08-07 02:11:57,2024-08-07 02:12:35,846,25.0
+98,user1,https://megamarket.ru/catalog/priemniki-wi-fi/,Wi-Fi адаптеры,112,159.0,2024-08-07 02:15:15,2024-08-07 02:12:36,2024-08-07 02:15:15,2675,35.0
+99,user1,https://megamarket.ru/catalog/usiliteli-internet-signala-1841990/,Усилители сигнала,70,112.0,2024-08-07 02:17:08,2024-08-07 02:15:16,2024-08-07 02:17:08,2760,30.0
+100,user1,https://megamarket.ru/catalog/setevye-hranilisha/,Сетевые хранилища (NAS),25,38.0,2024-08-07 02:17:47,2024-08-07 02:17:09,2024-08-07 02:17:47,1077,21.0
+101,user1,https://megamarket.ru/catalog/retranslyatory-wi-fi-signala/,Wi-Fi репитеры,48,85.0,2024-08-07 02:19:14,2024-08-07 02:17:49,2024-08-07 02:19:14,2068,35.0
+102,user1,https://megamarket.ru/catalog/powerline-adaptery/,Powerline (PLC) адаптеры,12,20.0,2024-08-07 02:19:35,2024-08-07 02:19:15,2024-08-07 02:19:35,491,21.0
+104,user1,https://megamarket.ru/catalog/tochki-dostupa-wi-fi/,Точки доступа Wi-Fi,94,158.0,2024-08-07 02:22:14,2024-08-07 02:19:36,2024-08-07 02:22:14,4095,21.0
+105,user1,https://megamarket.ru/catalog/aksessuary-dlya-setevogo-oborudovaniya/,Аксессуары для сетевого оборудования,114,187.0,2024-08-07 02:25:22,2024-08-07 02:22:15,2024-08-07 02:25:22,5000,26.0
+106,user1,https://megamarket.ru/catalog/mfu/,МФУ (многофункциональные принтеры),198,378.0,2024-08-07 02:31:41,2024-08-07 02:25:23,2024-08-07 02:31:41,8561,35.0
+107,user1,https://megamarket.ru/catalog/printery/,Принтеры,199,349.0,2024-08-07 02:37:31,2024-08-07 02:31:42,2024-08-07 02:37:31,8672,35.0
+108,user1,https://megamarket.ru/catalog/skanery/,Сканеры,38,66.0,2024-08-07 02:38:38,2024-08-07 02:37:32,2024-08-07 02:38:38,1645,21.0
+109,user1,https://megamarket.ru/catalog/shredery/,Шредеры (уничтожители документов),102,165.0,2024-08-07 02:41:25,2024-08-07 02:38:40,2024-08-07 02:41:25,4447,21.0
+110,user1,https://megamarket.ru/catalog/servernye-processory/,Серверные процессоры,25,35.0,2024-08-07 02:42:01,2024-08-07 02:41:26,2024-08-07 02:42:01,1081,18.0
+111,user1,https://megamarket.ru/catalog/servernye-materinskie-platy/,Серверные материнские платы,13,47.0,2024-08-07 02:42:49,2024-08-07 02:42:03,2024-08-07 02:42:49,531,18.0
+112,user1,https://megamarket.ru/catalog/servernaya-operativnaya-pamyat/,Серверная оперативная память,44,72.0,2024-08-07 02:44:02,2024-08-07 02:42:51,2024-08-07 02:44:02,1911,18.0
+113,user1,https://megamarket.ru/catalog/servernye-ssd-diski/,Серверные SSD диски,42,70.0,2024-08-07 02:45:14,2024-08-07 02:44:04,2024-08-07 02:45:14,1824,18.0
+114,user1,https://megamarket.ru/catalog/servernye-platformy/,Серверные платформы,14,26.0,2024-08-07 02:45:42,2024-08-07 02:45:15,2024-08-07 02:45:42,601,19.0
+115,user1,https://megamarket.ru/catalog/pci-e-raid-kontrollery/,PCI-e RAID контроллеры,97,142.0,2024-08-07 02:48:05,2024-08-07 02:45:43,2024-08-07 02:48:05,4242,25.0
+116,user1,https://megamarket.ru/catalog/mediakonvertery/,Медиаконвертеры,101,147.0,2024-08-07 02:50:34,2024-08-07 02:48:06,2024-08-07 02:50:34,4434,35.0
+117,user1,https://megamarket.ru/catalog/servernye-shkafy/,Серверные шкафы,138,213.0,2024-08-07 02:54:08,2024-08-07 02:50:35,2024-08-07 02:54:08,5897,16.0
+118,user1,https://megamarket.ru/catalog/aksessuary-dlya-serverov/,Аксессуары для серверов,349,544.0,2024-08-07 03:03:13,2024-08-07 02:54:09,2024-08-07 03:03:13,15313,30.0
+119,user1,https://megamarket.ru/catalog/servernye-hdd-diski/,Серверные HDD диски,148,237.0,2024-08-07 03:07:11,2024-08-07 03:03:14,2024-08-07 03:07:11,6476,25.0
+120,user1,https://megamarket.ru/catalog/servernye-bloki-pitaniya/,Серверные блоки питания,103,176.0,2024-08-07 03:10:08,2024-08-07 03:07:13,2024-08-07 03:10:08,4505,16.0
+122,user1,https://megamarket.ru/catalog/videokarty-dlya-mayninga/,Видеокарты для майнинга,2,4.0,2024-08-07 03:10:14,2024-08-07 03:10:10,2024-08-07 03:10:14,62,35.0
+123,user1,https://megamarket.ru/catalog/apparatnye-kriptokoshelki/,Аппаратные криптокошельки,3,5.0,2024-08-07 03:10:20,2024-08-07 03:10:15,2024-08-07 03:10:20,117,13.0
+124,user1,https://megamarket.ru/catalog/materinskie-platy-dlya-mayninga/,Материнские платы для майнинга (Многопроцессорные),4,8.0,2024-08-07 03:10:30,2024-08-07 03:10:22,2024-08-07 03:10:30,139,18.0
+125,user1,https://megamarket.ru/catalog/bloki-pitaniya-dlya-mayninga/,Блоки питания для майнинга,30,61.0,2024-08-07 03:11:31,2024-08-07 03:10:31,2024-08-07 03:11:31,1284,18.0
+126,user1,https://megamarket.ru/catalog/asic-maynery/,ASIC майнеры,4,8.0,2024-08-07 03:11:40,2024-08-07 03:11:32,2024-08-07 03:11:40,133,11.0
+127,user1,https://megamarket.ru/catalog/aksessuary-dlya-mayninga/,Аксессуары для майнинга,7,13.0,2024-08-07 03:11:54,2024-08-07 03:11:41,2024-08-07 03:11:54,299,16.0
+128,user1,https://megamarket.ru/catalog/televizory-sber/,Телевизоры SBER,4,28.0,2024-08-07 03:12:23,2024-08-07 03:11:55,2024-08-07 03:12:23,141,30.0
+129,user1,https://megamarket.ru/catalog/kronshtejny-i-stojki-dlya-televizorov/,Стойки и кронштейны для телевизоров,640,1251.0,2024-08-07 03:33:15,2024-08-07 03:12:24,2024-08-07 03:33:15,27863,45.0
+130,user1,https://megamarket.ru/catalog/usiliteli-hi-fi/,Усилители звука,46,71.0,2024-08-07 03:34:28,2024-08-07 03:33:17,2024-08-07 03:34:28,1984,30.0
+131,user1,https://megamarket.ru/catalog/av-resivery/,AV ресиверы,11,23.0,2024-08-07 03:34:51,2024-08-07 03:34:29,2024-08-07 03:34:51,444,30.0
+132,user1,https://megamarket.ru/catalog/passivnye-kolonki/,Пассивные колонки,90,168.0,2024-08-07 03:37:40,2024-08-07 03:34:53,2024-08-07 03:37:40,3934,20.0
+134,user1,https://megamarket.ru/catalog/aktivnye-kolonki/,Активная акустическая система,45,80.0,2024-08-07 03:39:02,2024-08-07 03:37:42,2024-08-07 03:39:02,1952,30.0
+135,user1,https://megamarket.ru/catalog/sabvufery/,Сабвуферы,26,41.0,2024-08-07 03:39:44,2024-08-07 03:39:03,2024-08-07 03:39:44,1108,15.0
+136,user1,https://megamarket.ru/catalog/nabory-i-komplekty-akustiki/,Наборы и комплекты акустики,45,73.0,2024-08-07 03:40:59,2024-08-07 03:39:45,2024-08-07 03:40:59,1961,30.0
+137,user1,https://megamarket.ru/catalog/proigryvateli-vinilovyh-diskov/,Проигрыватели виниловых пластинок,27,54.0,2024-08-07 03:41:54,2024-08-07 03:41:00,2024-08-07 03:41:54,1165,16.0
+138,user1,https://megamarket.ru/catalog/vinilovye-plastinki/,Виниловые пластинки,1102,2067.0,2024-08-07 04:16:22,2024-08-07 03:41:55,2024-08-07 04:16:22,48462,16.0
+139,user1,https://megamarket.ru/catalog/prochaya-hi-fi-tehnika-i-aksessuary/,Аксессуары к Hi-Fi технике,505,924.0,2024-08-07 04:31:48,2024-08-07 04:16:24,2024-08-07 04:31:48,22198,36.0
+140,user1,https://megamarket.ru/catalog/capy/,Цифро-аналоговые преобразователи (ЦАПы),8,16.0,2024-08-07 04:32:06,2024-08-07 04:31:50,2024-08-07 04:32:06,348,15.0
+141,user1,https://megamarket.ru/catalog/domashnie-kinoteatry/,Домашние кинотеатры,82,143.0,2024-08-07 04:34:30,2024-08-07 04:32:08,2024-08-07 04:34:30,3589,35.0
+142,user1,https://megamarket.ru/catalog/proektory/,Проекторы (Видеопроекторы),105,206.0,2024-08-07 04:37:58,2024-08-07 04:34:32,2024-08-07 04:37:58,4594,35.0
+143,user1,https://megamarket.ru/catalog/aksessuary-dlya-proektorov/,Аксессуары для проекторов,59,108.0,2024-08-07 04:39:47,2024-08-07 04:37:59,2024-08-07 04:39:47,2568,19.0
+144,user1,https://megamarket.ru/catalog/ekrany-dlya-proektorov/,Экраны для проекторов,63,119.0,2024-08-07 04:41:48,2024-08-07 04:39:49,2024-08-07 04:41:48,2735,21.0
+145,user1,https://megamarket.ru/catalog/elektronnye-knigi/,Электронные книги,17,30.0,2024-08-07 04:42:18,2024-08-07 04:41:49,2024-08-07 04:42:18,730,17.0
+147,user1,https://megamarket.ru/catalog/igrovye-pristavki-nintendo/,Игровые приставки Nintendo,25,44.0,2024-08-07 04:43:04,2024-08-07 04:42:20,2024-08-07 04:43:04,1093,35.0
+148,user1,https://megamarket.ru/catalog/igrovye-pristavki-xbox/,Игровые приставки Xbox,13,22.0,2024-08-07 04:43:27,2024-08-07 04:43:05,2024-08-07 04:43:27,571,35.0
+149,user1,https://megamarket.ru/catalog/geympady/,Геймпады,114,200.0,2024-08-07 04:46:48,2024-08-07 04:43:28,2024-08-07 04:46:48,5006,35.0
+150,user1,https://megamarket.ru/catalog/aksessuary-dlya-igrovyh-pristavok/,Аксессуары для консолей,90,149.0,2024-08-07 04:49:19,2024-08-07 04:46:50,2024-08-07 04:49:19,3913,36.0
+151,user1,https://megamarket.ru/catalog/igry-dlya-playstation/,Игры для PlayStation,497,953.0,2024-08-07 05:05:14,2024-08-07 04:49:20,2024-08-07 05:05:14,21769,24.0
+152,user1,https://megamarket.ru/catalog/igry-dlya-xbox/,Игры для Xbox,82,134.0,2024-08-07 05:07:29,2024-08-07 05:05:15,2024-08-07 05:07:29,3594,24.0
+153,user1,https://megamarket.ru/catalog/igry-dlya-nintendo/,Игры на Nintendo,145,244.0,2024-08-07 05:11:35,2024-08-07 05:07:30,2024-08-07 05:11:35,6317,20.0
+154,user1,https://megamarket.ru/catalog/kollekcionnye-figurki/,Коллекционные фигурки,220,357.0,2024-08-07 05:17:34,2024-08-07 05:11:36,2024-08-07 05:17:34,9632,36.0
+155,user1,https://megamarket.ru/catalog/kollekcionnye-predmety/,Коллекционные предметы,31,48.0,2024-08-07 05:18:24,2024-08-07 05:17:36,2024-08-07 05:18:24,1342,29.0
+156,user1,https://megamarket.ru/catalog/fotoapparaty/,Цифровые фотоаппараты,35,57.0,2024-08-07 05:19:22,2024-08-07 05:18:25,2024-08-07 05:19:22,1495,16.0
+157,user1,https://megamarket.ru/catalog/obuektivy-dlya-fotoapparatov/,Фотообъективы,47,76.0,2024-08-07 05:20:40,2024-08-07 05:19:24,2024-08-07 05:20:40,2056,20.0
+158,user1,https://megamarket.ru/catalog/svetofiltry/,Светофильтры,67,113.0,2024-08-07 05:22:35,2024-08-07 05:20:42,2024-08-07 05:22:35,2935,20.0
+159,user1,https://megamarket.ru/catalog/karty-pamyati/,Карты памяти,198,324.0,2024-08-07 05:28:00,2024-08-07 05:22:37,2024-08-07 05:28:00,8692,36.0
+160,user1,https://megamarket.ru/catalog/akkumulyatory-dlya-fotoapparatov/,Аккумуляторы для фотоаппаратов,38,60.0,2024-08-07 05:29:02,2024-08-07 05:28:02,2024-08-07 05:29:02,1644,16.0
+161,user1,https://megamarket.ru/catalog/aksessuary-dlya-fotooborudovaniya/,Аксессуары для фотооборудования,104,166.0,2024-08-07 05:31:50,2024-08-07 05:29:03,2024-08-07 05:31:50,4568,36.0
+162,user1,https://megamarket.ru/catalog/prochie-aksessuary-dlya-fotoapparatov/,Прочие аксессуары для фотоаппаратов,6,9.0,2024-08-07 05:32:00,2024-08-07 05:31:51,2024-08-07 05:32:00,230,13.0
+163,user1,https://megamarket.ru/catalog/fotovspyshki/,Фотовспышки,11,20.0,2024-08-07 05:32:21,2024-08-07 05:32:02,2024-08-07 05:32:21,477,16.0
+164,user1,https://megamarket.ru/catalog/ekshn-kamery-i-aksessuary/,Экшн-камеры и аксессуары,79,133.0,2024-08-07 05:34:35,2024-08-07 05:32:23,2024-08-07 05:34:35,3459,46.0
+165,user1,https://megamarket.ru/catalog/videokamery/,Видеокамеры,4,7.0,2024-08-07 05:34:44,2024-08-07 05:34:37,2024-08-07 05:34:44,153,17.0
+166,user1,https://megamarket.ru/catalog/postoyannyy-svet/,Постоянный свет,52,89.0,2024-08-07 05:36:15,2024-08-07 05:34:46,2024-08-07 05:36:15,2272,19.0
+167,user1,https://megamarket.ru/catalog/impulsnyy-svet/,Импульсный свет,11,19.0,2024-08-07 05:36:36,2024-08-07 05:36:16,2024-08-07 05:36:36,481,16.0
+168,user1,https://megamarket.ru/catalog/kolcevoy-svet/,Кольцевые лампы,24,52.0,2024-08-07 05:37:29,2024-08-07 05:36:37,2024-08-07 05:37:29,1051,37.0
+169,user1,https://megamarket.ru/catalog/fotozont/,Фотозонты,6,10.0,2024-08-07 05:37:41,2024-08-07 05:37:31,2024-08-07 05:37:41,226,16.0
+170,user1,https://megamarket.ru/catalog/softboks/,Софтбоксы,13,27.0,2024-08-07 05:38:09,2024-08-07 05:37:42,2024-08-07 05:38:09,558,16.0
+171,user1,https://megamarket.ru/catalog/fony/,Фотофоны,43,75.0,2024-08-07 05:39:26,2024-08-07 05:38:11,2024-08-07 05:39:26,1856,36.0
+172,user1,https://megamarket.ru/catalog/fotoboksy/,Фотобоксы,10,15.0,2024-08-07 05:39:43,2024-08-07 05:39:27,2024-08-07 05:39:43,404,19.0
+173,user1,https://megamarket.ru/catalog/sinhronizatory/,Синхронизаторы,7,14.0,2024-08-07 05:39:58,2024-08-07 05:39:44,2024-08-07 05:39:58,284,16.0
+174,user1,https://megamarket.ru/catalog/demonstracionnye-podstavki/,Демонстрационные подставки,2,3.0,2024-08-07 05:40:02,2024-08-07 05:39:59,2024-08-07 05:40:02,72,36.0
+175,user1,https://megamarket.ru/catalog/otrazhatel/,Отражатели и рефлекторы,22,30.0,2024-08-07 05:40:34,2024-08-07 05:40:04,2024-08-07 05:40:34,960,35.0
+176,user1,https://megamarket.ru/catalog/monopody-dlya-fotoapparatov/,Моноподы для фотоаппаратов,5,8.0,2024-08-07 05:40:44,2024-08-07 05:40:35,2024-08-07 05:40:44,197,19.0
+177,user1,https://megamarket.ru/catalog/shtativy/,Штативы для фотоаппаратов,39,84.0,2024-08-07 05:42:10,2024-08-07 05:40:45,2024-08-07 05:42:10,1697,35.0
+178,user1,https://megamarket.ru/catalog/stabilizatory-dlya-fotoapparatov/,Стабилизаторы для фотоаппаратов,11,17.0,2024-08-07 05:42:28,2024-08-07 05:42:11,2024-08-07 05:42:28,451,35.0
+179,user1,https://megamarket.ru/catalog/sumki-i-ryukzaki-dlya-fototehniki/,Сумки и рюкзаки для фототехники,32,53.0,2024-08-07 05:43:23,2024-08-07 05:42:29,2024-08-07 05:43:23,1379,40.0
+180,user1,https://megamarket.ru/catalog/radioupravlyaemye-ustrojstva/,Радиоуправляемые модели,40,69.0,2024-08-07 05:44:33,2024-08-07 05:43:24,2024-08-07 05:44:33,1730,55.0
+181,user1,https://megamarket.ru/catalog/cifrovye-fotoramki/,Цифровые фоторамки,6,11.0,2024-08-07 05:44:46,2024-08-07 05:44:35,2024-08-07 05:44:46,239,11.0
+182,user1,https://megamarket.ru/catalog/tovary-dlya-kureniya-i-elektronnye-sigarety/,Товары для курения и электронные сигареты,7,10.0,2024-08-07 05:44:57,2024-08-07 05:44:47,2024-08-07 05:44:57,237,25.0
+183,user1,https://megamarket.ru/catalog/aksessuary-dlya-playstation/,Аксессуары для PS,22,37.0,2024-08-07 05:45:36,2024-08-07 05:44:59,2024-08-07 05:45:36,939,35.0
+184,user1,https://megamarket.ru/catalog/podveski-i-kulony-serebryanye/,Серебряные подвески,76,148.0,2024-08-07 05:48:05,2024-08-07 05:45:37,2024-08-07 05:48:05,4107,30.0
+185,user1,https://megamarket.ru/catalog/igrushki-i-tonneli-dlya-koshek/,Игрушки и тоннели для кошек,281,462.0,2024-08-07 05:55:48,2024-08-07 05:48:06,2024-08-07 05:55:48,12349,59.0
+186,user1,https://megamarket.ru/catalog/primanki-dlya-ohoty/,Приманки для охоты,2,6.0,2024-08-07 05:55:56,2024-08-07 05:55:50,2024-08-07 05:55:56,12,20.0
+187,user1,https://megamarket.ru/catalog/detskie-tovary-dlya-plavaniya/,Детские товары для плавания,108,201.0,2024-08-07 05:59:18,2024-08-07 05:55:57,2024-08-07 05:59:18,4746,47.0
+188,user1,https://megamarket.ru/catalog/ekipirovka-dlya-vsadnika/,,,,,,,0,
+189,user1,https://megamarket.ru/catalog/detskie-yogurty/,Детские йогурты,6,9.0,2024-08-07 05:59:50,2024-08-07 05:59:40,2024-08-07 05:59:50,241,
+191,user1,https://megamarket.ru/catalog/sredstva-reabilitacii/,Средства реабилитации,57,92.0,2024-08-07 06:01:23,2024-08-07 05:59:51,2024-08-07 06:01:23,2484,39.0
+192,user1,https://megamarket.ru/catalog/posuda-801/,,,,,,,0,
+193,user1,https://megamarket.ru/catalog/velosipedy/,Велосипеды,196,379.0,2024-08-07 06:08:04,2024-08-07 06:01:45,2024-08-07 06:08:04,8373,52.0
+194,user1,https://megamarket.ru/catalog/korma-dlya-koshek/,Корма для кошек,1251,2285.0,2024-08-07 06:46:11,2024-08-07 06:08:06,2024-08-07 06:46:11,50040,54.0
+195,user1,https://megamarket.ru/catalog/dvernaya-furnitura/,Дверная фурнитура,1137,2264.0,2024-08-07 07:23:57,2024-08-07 06:46:13,2024-08-07 07:23:57,49708,67.0
+196,user1,https://megamarket.ru/catalog/portpledyy/,Портпледы,3,11.0,2024-08-07 07:24:10,2024-08-07 07:24:00,2024-08-07 07:24:10,102,25.0
+197,user1,https://megamarket.ru/catalog/pulsoksimetry/,Пульсоксиметры,10,16.0,2024-08-07 07:24:28,2024-08-07 07:24:12,2024-08-07 07:24:28,399,34.0
+198,user1,https://megamarket.ru/catalog/meshki-dlya-obuvi/,Мешки для обуви,247,486.0,2024-08-07 07:32:36,2024-08-07 07:24:30,2024-08-07 07:32:36,10829,44.0
+199,user1,https://megamarket.ru/catalog/detskie-tufli/,Детские туфли,30,87.0,2024-08-07 07:34:04,2024-08-07 07:32:37,2024-08-07 07:34:04,2165,44.0
+200,user1,https://megamarket.ru/catalog/dzhoystiki-dlya-ps/,Джойстики для PlayStation,83,169.0,2024-08-07 07:36:55,2024-08-07 07:34:06,2024-08-07 07:36:55,3609,35.0
+201,user1,https://megamarket.ru/catalog/mebel-dlya-hraneniya/,,,,,,,0,
+203,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-kuhonnoy-tehnikoy/,Средства по уходу за кухонной техникой,39,68.0,2024-08-07 07:38:26,2024-08-07 07:37:18,2024-08-07 07:38:26,1670,55.0
+204,user1,https://megamarket.ru/catalog/novogodnee-osveshenie/,,,,,,,0,
+205,user1,https://megamarket.ru/catalog/sredstva-dlya-mytya-posudy/,Средства для мытья посуды,96,194.0,2024-08-07 07:42:04,2024-08-07 07:38:50,2024-08-07 07:42:04,4190,41.0
+206,user1,https://megamarket.ru/catalog/anatomicheskie-podushki-dlya-nog-poyasnicy-i-sideniya/,"Анатомические подушки для ног, поясницы и сидения",7,12.0,2024-08-07 07:42:18,2024-08-07 07:42:06,2024-08-07 07:42:18,266,33.0
+208,user1,https://megamarket.ru/catalog/marmelad-zefir-pastila-lukum/,"Мармелад, зефир, пастила",180,307.0,2024-08-07 07:47:26,2024-08-07 07:42:19,2024-08-07 07:47:26,7911,38.0
+209,user1,https://megamarket.ru/catalog/kosmetika-dlya-zhivotnyh/,Косметика для животных,199,384.0,2024-08-07 07:53:52,2024-08-07 07:47:28,2024-08-07 07:53:52,8747,39.0
+210,user1,https://megamarket.ru/catalog/pechi-dlya-bani/,Печи для бани,11,45.0,2024-08-07 07:54:40,2024-08-07 07:53:54,2024-08-07 07:54:40,445,20.0
+211,user1,https://megamarket.ru/catalog/medicinskiy-fetish/,Медицинский фетиш,4,32.0,2024-08-07 07:55:13,2024-08-07 07:54:41,2024-08-07 07:55:13,176,26.0
+212,user1,https://megamarket.ru/catalog/rybiy-zhir-i-omega-3/,Рыбий жир и Омега 3,9,51.0,2024-08-07 07:56:06,2024-08-07 07:55:14,2024-08-07 07:56:06,396,60.0
+213,user1,https://megamarket.ru/catalog/mokasiny-i-topsaydery-muzhskie/,Мокасины и топсайдеры мужские,2,27.0,2024-08-07 07:56:35,2024-08-07 07:56:07,2024-08-07 07:56:35,120,31.0
+214,user1,https://megamarket.ru/catalog/audio-i-video/,,,,,,,0,
+215,user1,https://megamarket.ru/catalog/kraska-dlya-obuvi/,,,,,,,0,
+216,user1,https://megamarket.ru/catalog/podveski-i-kulony/,,,,,,,0,
+217,user1,https://megamarket.ru/catalog/iskusstvennye-cvety-2730543/,,,,,,,0,
+218,user1,https://megamarket.ru/catalog/sredstva-dlya-uhoda-za-seks-igrushkami/,Средства для ухода за секс-игрушками,11,21.0,2024-08-07 07:58:30,2024-08-07 07:58:09,2024-08-07 07:58:30,476,38.0
+219,user1,https://megamarket.ru/catalog/portativnaya-akustika/,,,,,,,0,
+220,user1,https://megamarket.ru/catalog/dlya-dizajna-nogtej/,Товары для дизайна ногтей,163,296.0,2024-08-07 08:03:49,2024-08-07 07:58:53,2024-08-07 08:03:49,7143,40.0
+221,user1,https://megamarket.ru/catalog/podstilki-dlya-ptic/,Наполнители и подстилки для птиц,5,8.0,2024-08-07 08:03:59,2024-08-07 08:03:51,2024-08-07 08:03:59,194,36.0
+222,user1,https://megamarket.ru/catalog/kompressory/,Компрессоры,117,243.0,2024-08-07 08:08:04,2024-08-07 08:04:01,2024-08-07 08:08:04,4942,40.0
+223,user1,https://megamarket.ru/catalog/stomatologicheskie-materialy/,Стоматологические материалы,32,50.0,2024-08-07 08:08:56,2024-08-07 08:08:06,2024-08-07 08:08:56,1386,29.0
+224,user1,https://megamarket.ru/catalog/hozyajstvennye-tovary/,,,,,,,0,
+225,user1,https://megamarket.ru/catalog/mnogofunkcionalnye-igrovye-stoly/,Игровые столы-трансформеры,6,11.0,2024-08-07 08:09:29,2024-08-07 08:09:19,2024-08-07 08:09:29,233,22.0
+226,user1,https://megamarket.ru/catalog/zamorozhennye-ovoshi-i-griby/,Замороженные овощи и грибы,45,69.0,2024-08-07 08:10:39,2024-08-07 08:09:31,2024-08-07 08:10:39,1954,6.0
+227,user1,https://megamarket.ru/catalog/krossovki-muzhskie/,Кроссовки мужские,258,684.0,2024-08-07 08:22:05,2024-08-07 08:10:41,2024-08-07 08:22:05,15427,85.0
+228,user1,https://megamarket.ru/catalog/spalniki-i-aksessuary/,,,,,,,0,
+229,user1,https://megamarket.ru/catalog/pechi-dlya-doma-bani-sauny-i-komplektuyushie/,,,,,,,0,
+230,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-nogami/,Средства по уходу за ногами,139,239.0,2024-08-07 08:26:51,2024-08-07 08:22:52,2024-08-07 08:26:51,6111,48.0
+231,user1,https://megamarket.ru/catalog/aksessuary-dlya-batutov/,,,,,,,0,
+232,user1,https://megamarket.ru/catalog/tehnika-dlya-sada/,,,,,,,0,
+233,user1,https://megamarket.ru/catalog/zhenskaya-sportivnaya-odezhda/,Женская спортивная одежда,226,485.0,2024-08-07 08:35:40,2024-08-07 08:27:35,2024-08-07 08:35:40,9922,90.0
+234,user1,https://megamarket.ru/catalog/kupaty/,Купаты,3,5.0,2024-08-07 08:35:46,2024-08-07 08:35:41,2024-08-07 08:35:46,117,
+235,user1,https://megamarket.ru/catalog/seyfy-dlya-doma/,Сейфы для дома,34,57.0,2024-08-07 08:36:45,2024-08-07 08:35:48,2024-08-07 08:36:45,1489,40.0
+236,user1,https://megamarket.ru/catalog/izolyacionnye-materialy/,Изоляционные материалы,56,92.0,2024-08-07 08:38:19,2024-08-07 08:36:47,2024-08-07 08:38:19,2428,65.0
+237,user1,https://megamarket.ru/catalog/sadovyy-dekor/,Декор для сада,1137,2227.0,2024-08-07 09:15:28,2024-08-07 08:38:21,2024-08-07 09:15:28,50028,65.0
+238,user1,https://megamarket.ru/catalog/ochistiteli-i-uvlazhniteli-vozduha/,Очистители и увлажнители воздуха,248,459.0,2024-08-07 09:23:09,2024-08-07 09:15:30,2024-08-07 09:23:09,10899,75.0
+239,user1,https://megamarket.ru/catalog/zhenskie-kolca-4150457/,Женские кольца,531,1239.0,2024-08-07 09:43:50,2024-08-07 09:23:11,2024-08-07 09:43:50,23364,32.0
+240,user1,https://megamarket.ru/catalog/kushetki/,Кушетки,53,92.0,2024-08-07 09:45:25,2024-08-07 09:43:53,2024-08-07 09:45:25,2310,40.0
+241,user1,https://megamarket.ru/catalog/listovye-materialy/,Листовые материалы,9,16.0,2024-08-07 09:45:43,2024-08-07 09:45:26,2024-08-07 09:45:43,379,64.0
+242,user1,https://megamarket.ru/catalog/myaso/,Мясо,65,115.0,2024-08-07 09:47:39,2024-08-07 09:45:44,2024-08-07 09:47:39,2822,
+244,user1,https://megamarket.ru/catalog/parafarmacevticheskaya-produkciya/,Лечебно-косметические средства,286,531.0,2024-08-07 09:56:32,2024-08-07 09:47:41,2024-08-07 09:56:32,12556,50.0
+245,user1,https://megamarket.ru/catalog/uslugi-po-sborke-mebeli/,,,,,,,0,
+246,user1,https://megamarket.ru/catalog/kompozicii-iz-cvetov/,Композиции из цветов,359,644.0,2024-08-07 10:07:39,2024-08-07 09:56:55,2024-08-07 10:07:39,15767,42.0
+247,user1,https://megamarket.ru/catalog/povsednevnaya-odezhda-dlya-podrostkov/,Повседневная одежда для подростков,740,1745.0,2024-08-07 10:36:46,2024-08-07 10:07:41,2024-08-07 10:36:46,32534,75.0
+248,user1,https://megamarket.ru/catalog/koreyskaya-kosmetika-dlya-ochisheniya-tela/,Корейская косметика для очищения тела,23,47.0,2024-08-07 10:37:35,2024-08-07 10:36:48,2024-08-07 10:37:35,998,33.0
+250,user1,https://megamarket.ru/catalog/plity-dlya-kuhni/,,,,,,,0,
+251,user1,https://megamarket.ru/catalog/samokaty-skeytbordy-i-elektrotransport/,,,,,,,0,
+252,user1,https://megamarket.ru/catalog/elektrika/,,,,,,,0,
+253,user1,https://megamarket.ru/catalog/sredstva-zashity-ot-nasekomyh-gryzunov-krotov-zmey-i-ptic/,,,,,,,0,
+254,user1,https://megamarket.ru/catalog/detskie-matrasy/,Детские матрасы,655,1299.0,2024-08-07 11:00:40,2024-08-07 10:39:01,2024-08-07 11:00:40,28812,48.0
+255,user1,https://megamarket.ru/catalog/anatomicheskie-podushki/,Анатомические подушки,42,92.0,2024-08-07 11:02:14,2024-08-07 11:00:42,2024-08-07 11:02:14,1823,48.0
+256,user1,https://megamarket.ru/catalog/dopolnitelnye-fary/,Дополнительные фары,672,1307.0,2024-08-07 11:24:04,2024-08-07 11:02:16,2024-08-07 11:24:04,29534,51.0
+257,user1,https://megamarket.ru/catalog/detskie-kolyaski/,Коляски,161,360.0,2024-08-07 11:30:06,2024-08-07 11:24:06,2024-08-07 11:30:06,7056,35.0
+258,user1,https://megamarket.ru/catalog/pnevmatika/,,,,,,,0,
+259,user1,https://megamarket.ru/catalog/sup-serfing/,SUP-серфинг,73,170.0,2024-08-07 11:33:19,2024-08-07 11:30:30,2024-08-07 11:33:19,3186,37.0
+260,user1,https://megamarket.ru/catalog/odezhda-dlya-podrostkov/,Одежда для подростков,646,1703.0,2024-08-07 12:01:44,2024-08-07 11:33:22,2024-08-07 12:01:44,28421,75.0
+261,user1,https://megamarket.ru/catalog/detskie-avtokresla-i-bustery/,Детские автокресла и бустеры,7,38.0,2024-08-07 12:02:25,2024-08-07 12:01:47,2024-08-07 12:02:25,308,30.0
+262,user1,https://megamarket.ru/catalog/dekorativnye-ograzhdeniya/,Декоративные ограждения,185,340.0,2024-08-07 12:08:07,2024-08-07 12:02:27,2024-08-07 12:08:07,8108,65.0
+263,user1,https://megamarket.ru/catalog/napitki/,Напитки,612,1191.0,2024-08-07 12:28:02,2024-08-07 12:08:10,2024-08-07 12:28:02,26880,48.0
+264,user1,https://megamarket.ru/catalog/verhnyaya-odezhda-dlya-podrostkov/,Верхняя одежда для подростков,121,249.0,2024-08-07 12:32:13,2024-08-07 12:28:04,2024-08-07 12:32:13,5294,75.0
+265,user1,https://megamarket.ru/catalog/tovary-dlya-uhoda-za-avtomobilem/,Товары для ухода за автомобилем,911,1741.0,2024-08-07 13:01:16,2024-08-07 12:32:16,2024-08-07 13:01:16,40030,52.0
+266,user1,https://megamarket.ru/catalog/postelnoe-bele/,Постельное белье,834,2409.0,2024-08-07 13:41:28,2024-08-07 13:01:19,2024-08-07 13:41:28,50040,51.0
+267,user1,https://megamarket.ru/catalog/suhaya-shtukaturka/,Сухая штукатурка,6,12.0,2024-08-07 13:41:43,2024-08-07 13:41:30,2024-08-07 13:41:43,246,41.0
+268,user1,https://megamarket.ru/catalog/polki-i-podstavki-dlya-ikon/,Полки и подставки для икон,6,11.0,2024-08-07 13:41:56,2024-08-07 13:41:45,2024-08-07 13:41:56,222,37.0
+269,user1,https://megamarket.ru/catalog/bakaleya-i-konservaciya/,"Бакалея, консервация",1137,2501.0,2024-08-07 14:23:40,2024-08-07 13:41:58,2024-08-07 14:23:40,50028,55.0
+270,user1,https://megamarket.ru/catalog/svarochnye-materialy/,Сварочные материалы,153,241.0,2024-08-07 14:27:44,2024-08-07 14:23:43,2024-08-07 14:27:44,6717,41.0
+271,user1,https://megamarket.ru/catalog/suhofrukty-cukaty/,"Сухофрукты, цукаты",80,141.0,2024-08-07 14:30:07,2024-08-07 14:27:46,2024-08-07 14:30:07,3512,40.0
+272,user1,https://megamarket.ru/catalog/sushilki-i-aksessuary/,,,,,,,0,
+273,user1,https://megamarket.ru/catalog/voleybol/,Товары для волейбола,57,97.0,2024-08-07 14:32:07,2024-08-07 14:30:30,2024-08-07 14:32:07,2479,36.0
+274,user1,https://megamarket.ru/catalog/korma-dlya-gryzunov/,Корма для грызунов и хорьков,171,285.0,2024-08-07 14:36:55,2024-08-07 14:32:09,2024-08-07 14:36:55,7490,34.0
+276,user1,https://megamarket.ru/catalog/kombinezony-dlya-avtosporta/,Комбинезоны для автоспорта,2,9.0,2024-08-07 14:37:07,2024-08-07 14:36:57,2024-08-07 14:37:07,76,13.0
+277,user1,https://megamarket.ru/catalog/aksessuary-v-salon-avtomobilya/,,,,,,,0,
+278,user1,https://megamarket.ru/catalog/stoleshnicy-dlya-stolov/,Столешницы для столов,20,43.0,2024-08-07 14:38:13,2024-08-07 14:37:30,2024-08-07 14:38:13,859,45.0
+279,user1,https://megamarket.ru/catalog/tufli-muzhskie/,Туфли мужские,44,99.0,2024-08-07 14:39:54,2024-08-07 14:38:15,2024-08-07 14:39:54,2612,31.0
+280,user1,https://megamarket.ru/catalog/nastolnye-lampy/,Настольные лампы,1042,2284.0,2024-08-07 15:18:00,2024-08-07 14:39:56,2024-08-07 15:18:00,50016,65.0
+281,user1,https://megamarket.ru/catalog/mebel-dlya-geymerov/,,,,,,,0,
+282,user1,https://megamarket.ru/catalog/dekorativnye-obuekty/,,,,,,,0,
+283,user1,https://megamarket.ru/catalog/lepka/,Лепка,483,916.0,2024-08-07 15:34:04,2024-08-07 15:18:48,2024-08-07 15:34:04,21210,56.0
+284,user1,https://megamarket.ru/catalog/dacha-sezonnye-tovary/,,,,,,,0,
+285,user1,https://megamarket.ru/catalog/personazhi-iz-videoigr/,,,,,,,0,
+287,user1,https://megamarket.ru/catalog/medicinskaya-mebel/,Медицинская мебель,5,12.0,2024-08-07 15:35:01,2024-08-07 15:34:49,2024-08-07 15:35:01,210,36.0
+288,user1,https://megamarket.ru/catalog/tekstil-dlya-doma/,,,,,,,0,
+289,user1,https://megamarket.ru/catalog/konfety/,Конфеты,395,798.0,2024-08-07 15:48:46,2024-08-07 15:35:28,2024-08-07 15:48:46,17357,41.0
+290,user1,https://megamarket.ru/catalog/sistemy-poliva/,Системы полива,167,273.0,2024-08-07 15:53:22,2024-08-07 15:48:49,2024-08-07 15:53:22,7314,65.0
+291,user1,https://megamarket.ru/catalog/iskusstvennye-elki/,Елки искусственные,145,306.0,2024-08-07 15:58:31,2024-08-07 15:53:25,2024-08-07 15:58:31,8112,56.0
+292,user1,https://megamarket.ru/catalog/tyuning/,,,,,,,0,
+293,user1,https://megamarket.ru/catalog/aromaticheskie-diffuzory/,Ароматические диффузоры,327,604.0,2024-08-07 16:08:59,2024-08-07 15:58:55,2024-08-07 16:08:59,14359,51.0
+294,user1,https://megamarket.ru/catalog/kofe/,Кофе,597,1202.0,2024-08-07 16:29:04,2024-08-07 16:09:02,2024-08-07 16:29:04,26241,60.0
+295,user1,https://megamarket.ru/catalog/chipsy/,Чипсы,82,136.0,2024-08-07 16:31:23,2024-08-07 16:29:07,2024-08-07 16:31:23,3581,36.0
+296,user1,https://megamarket.ru/catalog/sportivnye-sumki/,Сумки спортивные,91,176.0,2024-08-07 16:34:22,2024-08-07 16:31:27,2024-08-07 16:34:22,3961,56.0
+297,user1,https://megamarket.ru/catalog/lodki-dlya-rybalki/,Лодки,24,43.0,2024-08-07 16:35:08,2024-08-07 16:34:25,2024-08-07 16:35:08,1037,35.0
+298,user1,https://megamarket.ru/catalog/namatrasniki-i-chehly/,Наматрасники и чехлы,896,2311.0,2024-08-07 17:13:41,2024-08-07 16:35:11,2024-08-07 17:13:41,39424,45.0
+299,user1,https://megamarket.ru/catalog/detskaya-mebel/,,,,,,,0,
+300,user1,https://megamarket.ru/catalog/zhirnye-kisloty/,Жирные кислоты,66,127.0,2024-08-07 17:16:12,2024-08-07 17:14:05,2024-08-07 17:16:12,2892,39.0
+301,user1,https://megamarket.ru/catalog/venik-dlya-bani/,Веники для бани,20,32.0,2024-08-07 17:16:46,2024-08-07 17:16:14,2024-08-07 17:16:46,869,66.0
+302,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-domom/,,,,,,,0,
+303,user1,https://megamarket.ru/catalog/motoshiny/,Мотошины,51,91.0,2024-08-07 17:18:42,2024-08-07 17:17:11,2024-08-07 17:18:42,2223,8.0
+304,user1,https://megamarket.ru/catalog/vitaminy-bady-i-pishevye-dobavki/,"Витамины, минералы и пищевые добавки",1137,2548.0,2024-08-07 18:01:13,2024-08-07 17:18:45,2024-08-07 18:01:13,50028,60.0
+305,user1,https://megamarket.ru/catalog/smart-tv-proigryvateli/,,,,,,,0,
+306,user1,https://megamarket.ru/catalog/upakovochnaya-bumaga/,Упаковочная бумага,219,379.0,2024-08-07 18:07:56,2024-08-07 18:01:37,2024-08-07 18:07:56,9604,38.0
+307,user1,https://megamarket.ru/catalog/monobukety/,Монобукеты,39,66.0,2024-08-07 18:09:05,2024-08-07 18:07:59,2024-08-07 18:09:05,1716,17.0
+308,user1,https://megamarket.ru/catalog/podarochnye-nabory-kosmetiki-i-parfyumerii/,Подарочные наборы косметики и парфюмерии,80,134.0,2024-08-07 18:11:22,2024-08-07 18:09:07,2024-08-07 18:11:22,3491,39.0
+311,user1,https://megamarket.ru/catalog/kompostery-sadovye/,Компостеры садовые,14,25.0,2024-08-07 18:11:50,2024-08-07 18:11:25,2024-08-07 18:11:50,605,40.0
+312,user1,https://megamarket.ru/catalog/osvezhiteli-vozduha-i-aromatizatory-dlya-doma/,Освежители воздуха и ароматизаторы для дома,17,29.0,2024-08-07 18:12:22,2024-08-07 18:11:53,2024-08-07 18:12:22,727,35.0
+313,user1,https://megamarket.ru/catalog/makiyazh/,,,,,,,0,
+314,user1,https://megamarket.ru/catalog/kacheli-gamaki-tenty/,,,,,,,0,
+315,user1,https://megamarket.ru/catalog/tovary-dlya-bdsm/,,,,,,,0,
+316,user1,https://megamarket.ru/catalog/gornolyzhnye-ryukzaki/,Горнолыжные рюкзаки,2,7.0,2024-08-07 18:13:35,2024-08-07 18:13:27,2024-08-07 18:13:35,30,20.0
+317,user1,https://megamarket.ru/catalog/prudy-i-fontany/,Пруды и фонтаны,31,54.0,2024-08-07 18:14:31,2024-08-07 18:13:38,2024-08-07 18:14:31,1346,51.0
+318,user1,https://megamarket.ru/catalog/detskie-ryukzaki/,Детские рюкзаки,724,1462.0,2024-08-07 18:38:56,2024-08-07 18:14:34,2024-08-07 18:38:56,31842,55.0
+319,user1,https://megamarket.ru/catalog/sredstva-dlya-korrekcii-povedeniya-zhivotnyh/,Средства для коррекции поведения животных,37,64.0,2024-08-07 18:40:04,2024-08-07 18:38:59,2024-08-07 18:40:04,1605,38.0
+320,user1,https://megamarket.ru/catalog/kolodki-i-formoderzhateli-dlya-obuvi/,Колодки и формодержатели для обуви,4,8.0,2024-08-07 18:40:14,2024-08-07 18:40:07,2024-08-07 18:40:14,143,21.0
+321,user1,https://megamarket.ru/catalog/vtorye-blyuda/,Готовые вторые блюда,21,42.0,2024-08-07 18:40:59,2024-08-07 18:40:17,2024-08-07 18:40:59,900,6.0
+322,user1,https://megamarket.ru/catalog/nabory-dlya-uhoda-za-obuvyu/,Наборы для ухода за обувью,3,6.0,2024-08-07 18:41:08,2024-08-07 18:41:02,2024-08-07 18:41:08,130,35.0
+323,user1,https://megamarket.ru/catalog/kalendari/,Календари,49,83.0,2024-08-07 18:42:34,2024-08-07 18:41:11,2024-08-07 18:42:34,2116,56.0
+324,user1,https://megamarket.ru/catalog/pylesosy/,Пылесосы,262,457.0,2024-08-07 18:50:14,2024-08-07 18:42:36,2024-08-07 18:50:14,6288,36.0
+325,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-svarochnyh-rabot/,Комплектующие для сварочных работ,102,173.0,2024-08-07 18:53:09,2024-08-07 18:50:16,2024-08-07 18:53:09,4485,50.0
+326,user1,https://megamarket.ru/catalog/rybnaya-gastronomiya/,Рыба и морепродукты,181,317.0,2024-08-07 18:58:29,2024-08-07 18:53:12,2024-08-07 18:58:29,7950,26.0
+327,user1,https://megamarket.ru/catalog/poilki-i-kormushki-dlya-selskohozyaystvennyh-zhivotnyh/,Поилки и кормушки для сельскохозяйственных животных,24,48.0,2024-08-07 18:59:19,2024-08-07 18:58:32,2024-08-07 18:59:19,1016,40.0
+328,user1,https://megamarket.ru/catalog/ortopedicheskie-izdeliya/,,,,,,,0,
+329,user1,https://megamarket.ru/catalog/shlangi-dlya-kompressorov/,Шланги для компрессоров,79,126.0,2024-08-07 19:01:48,2024-08-07 18:59:43,2024-08-07 19:01:48,3437,40.0
+330,user1,https://megamarket.ru/catalog/aksessuary-dlya-velosipeda/,,,,,,,0,
+331,user1,https://megamarket.ru/catalog/modulnye-kuhni/,Модульные кухни,312,647.0,2024-08-07 19:12:59,2024-08-07 19:02:12,2024-08-07 19:12:59,13692,40.0
+332,user1,https://megamarket.ru/catalog/vozdushnye-shariki/,Воздушные шарики,150,299.0,2024-08-07 19:18:01,2024-08-07 19:13:02,2024-08-07 19:18:01,6600,56.0
+333,user1,https://megamarket.ru/catalog/myaso-i-ptica/,Мясо и птица,449,865.0,2024-08-07 19:32:29,2024-08-07 19:18:04,2024-08-07 19:32:29,19721,40.0
+334,user1,https://megamarket.ru/catalog/ryukzaki/,Рюкзаки,487,1189.0,2024-08-07 19:52:21,2024-08-07 19:32:32,2024-08-07 19:52:21,29161,99.0
+335,user1,https://megamarket.ru/catalog/emkosti-dlya-hraneniya/,Емкости для хранения,311,661.0,2024-08-07 20:03:25,2024-08-07 19:52:24,2024-08-07 20:03:25,13684,82.0
+336,user1,https://megamarket.ru/catalog/aksessuary-dlya-elok/,Аксессуары для елок,5,28.0,2024-08-07 20:03:56,2024-08-07 20:03:28,2024-08-07 20:03:56,220,45.0
+337,user1,https://megamarket.ru/catalog/ovoshi-zelen-griby/,"Овощи, зелень, грибы",84,144.0,2024-08-07 20:06:24,2024-08-07 20:03:59,2024-08-07 20:06:24,3655,5.0
+338,user1,https://megamarket.ru/catalog/svarochnoe-oborudovanie/,Сварочное оборудование,965,1897.0,2024-08-07 20:38:03,2024-08-07 20:06:27,2024-08-07 20:38:03,42459,65.0
+339,user1,https://megamarket.ru/catalog/seyfy/,Сейфы,73,138.0,2024-08-07 20:40:25,2024-08-07 20:38:07,2024-08-07 20:40:25,3190,40.0
+340,user1,https://megamarket.ru/catalog/sredstva-ot-suhosti/,Средства от сухости,8,17.0,2024-08-07 20:40:45,2024-08-07 20:40:28,2024-08-07 20:40:45,338,50.0
+341,user1,https://megamarket.ru/catalog/tovary-dlya-vzroslyh/,,,,,,,0,
+342,user1,https://megamarket.ru/catalog/soputstvuyushie-uslugi-pri-sborke-mebeli/,Сопутствующие услуги при сборке мебели,2,23.0,2024-08-07 20:41:32,2024-08-07 20:41:09,2024-08-07 20:41:32,4,
+343,user1,https://megamarket.ru/catalog/sumki-dlya-noutbukov/,Сумки для ноутбуков,164,318.0,2024-08-07 20:46:53,2024-08-07 20:41:35,2024-08-07 20:46:53,7212,40.0
+344,user1,https://megamarket.ru/catalog/rastitelnye-masla/,Растительные масла,106,195.0,2024-08-07 20:50:11,2024-08-07 20:46:56,2024-08-07 20:50:11,4659,99.0
+345,user1,https://megamarket.ru/catalog/tovary-dlya-s-h-zhivotnyh/,Товары для сельскохозяйственных животных,72,122.0,2024-08-07 20:52:17,2024-08-07 20:50:14,2024-08-07 20:52:17,3135,40.0
+346,user1,https://megamarket.ru/catalog/uslugi-po-santehnike/,Услуги по сантехнике,4,6.0,2024-08-07 20:52:26,2024-08-07 20:52:20,2024-08-07 20:52:26,171,7.0
+347,user1,https://megamarket.ru/catalog/zhenskaya-obuv/,Женская обувь,386,1344.0,2024-08-07 21:14:54,2024-08-07 20:52:29,2024-08-07 21:14:54,23158,51.0
+348,user1,https://megamarket.ru/catalog/hoztovary/,Хозтовары,524,1017.0,2024-08-07 21:31:54,2024-08-07 21:14:57,2024-08-07 21:31:54,22973,67.0
+349,user1,https://megamarket.ru/catalog/sborka-korpusnoy-mebeli-i-mebeli-malyh-form/,Сборка корпусной мебели и мебели малых форм,3,25.0,2024-08-07 21:32:22,2024-08-07 21:31:57,2024-08-07 21:32:22,120,
+350,user1,https://megamarket.ru/catalog/bytovaya-himiya/,,,,,,,0,
+351,user1,https://megamarket.ru/catalog/kompressory-i-pnevmoinstrument/,,,,,,,0,
+352,user1,https://megamarket.ru/catalog/parogeneratory/,Парогенераторы,68,114.0,2024-08-07 21:35:01,2024-08-07 21:33:07,2024-08-07 21:35:01,2931,35.0
+353,user1,https://megamarket.ru/catalog/muzhskaya-sportivnaya-obuv/,Мужская спортивная обувь,167,355.0,2024-08-07 21:40:59,2024-08-07 21:35:04,2024-08-07 21:40:59,7268,79.0
+354,user1,https://megamarket.ru/catalog/velosport/,,,,,,,0,
+355,user1,https://megamarket.ru/catalog/aminokisloty-v-apteke/,Аминокислоты в аптеке,30,51.0,2024-08-07 21:42:14,2024-08-07 21:41:23,2024-08-07 21:42:14,1317,36.0
+356,user1,https://megamarket.ru/catalog/novye-avtomobili/,Автомобили,4,7.0,2024-08-07 21:42:24,2024-08-07 21:42:17,2024-08-07 21:42:24,148,
+357,user1,https://megamarket.ru/catalog/broshi-bizhuteriya/,Броши (бижутерия),167,323.0,2024-08-07 21:47:51,2024-08-07 21:42:28,2024-08-07 21:47:51,9970,40.0
+358,user1,https://megamarket.ru/catalog/podarki-dlya-detey/,Подарки для детей,450,1344.0,2024-08-07 22:10:19,2024-08-07 21:47:54,2024-08-07 22:10:19,19761,75.0
+360,user1,https://megamarket.ru/catalog/zhenskie-futbolki-i-polo/,Женские футболки и поло,211,714.0,2024-08-07 22:22:16,2024-08-07 22:10:22,2024-08-07 22:22:16,12578,62.0
+361,user1,https://megamarket.ru/catalog/sportivnaya-forma/,Спортивная форма,46,84.0,2024-08-07 22:23:44,2024-08-07 22:22:19,2024-08-07 22:23:44,2018,36.0
+362,user1,https://megamarket.ru/catalog/playstation/,,,,,,,0,
+364,user1,https://megamarket.ru/catalog/sredstva-dlya-okrashivaniya-volos/,Средства для окрашивания волос,65,165.0,2024-08-07 22:26:54,2024-08-07 22:24:08,2024-08-07 22:26:54,2860,37.0
+365,user1,https://megamarket.ru/catalog/dymohody-i-komplektuyushie/,Комплектующие для дымохода,39,66.0,2024-08-07 22:28:03,2024-08-07 22:26:57,2024-08-07 22:28:03,1708,65.0
+366,user1,https://megamarket.ru/catalog/muzhskaya-odezhda/,Мужская одежда,303,986.0,2024-08-07 22:44:32,2024-08-07 22:28:06,2024-08-07 22:44:32,18180,70.0
+367,user1,https://megamarket.ru/catalog/nastolnyy-futbol-2463684633789870/,Настольный футбол,14,21.0,2024-08-07 22:44:56,2024-08-07 22:44:36,2024-08-07 22:44:56,446,23.0
+368,user1,https://megamarket.ru/catalog/skeytbordy/,Скейтборды,16,28.0,2024-08-07 22:45:28,2024-08-07 22:45:00,2024-08-07 22:45:28,662,36.0
+369,user1,https://megamarket.ru/catalog/ochki-i-opravy/,Очки и оправы,409,757.0,2024-08-07 22:58:08,2024-08-07 22:45:31,2024-08-07 22:58:08,17964,45.0
+370,user1,https://megamarket.ru/catalog/garnitury-dlya-telefonov/,Наушники с микрофоном,408,840.0,2024-08-07 23:12:12,2024-08-07 22:58:12,2024-08-07 23:12:12,17925,51.0
+371,user1,https://megamarket.ru/catalog/vakuumnye-stimulyatory/,Вакуумные стимуляторы,72,129.0,2024-08-07 23:14:25,2024-08-07 23:12:15,2024-08-07 23:14:25,3146,42.0
+372,user1,https://megamarket.ru/catalog/vypusknye-sistemy-dlya-tyuninga/,Выпускные системы для тюнинга,855,1694.0,2024-08-07 23:42:42,2024-08-07 23:14:28,2024-08-07 23:42:42,37611,50.0
+373,user1,https://megamarket.ru/catalog/suveniry-i-nastolnye-igry-dlya-vzroslyh/,Сувениры для взрослых,181,294.0,2024-08-07 23:47:39,2024-08-07 23:42:46,2024-08-07 23:47:39,7957,47.0
+374,user1,https://megamarket.ru/catalog/televizory-i-aksessuary/,,,,,,,0,
+375,user1,https://megamarket.ru/catalog/akkumulyatory-dlya-motociklov/,Аккумуляторы для мотоциклов,20,40.0,2024-08-07 23:48:44,2024-08-07 23:48:04,2024-08-07 23:48:44,843,10.0
+376,user1,https://megamarket.ru/catalog/instrumenty-obshego-naznacheniya-v-chemodane/,Инструменты общего назначения в чемодане,27,46.0,2024-08-07 23:49:34,2024-08-07 23:48:49,2024-08-07 23:49:34,1162,50.0
+377,user1,https://megamarket.ru/catalog/tovary-dlya-rybalki/,,,,,,,0,
+378,user1,https://megamarket.ru/catalog/shumoizolyaciya-zvukoizolyaciya/,Шумоизоляция/Звукоизоляция,13,29.0,2024-08-07 23:50:28,2024-08-07 23:49:59,2024-08-07 23:50:28,556,40.0
+379,user1,https://megamarket.ru/catalog/zhenskaya-sportivnaya-obuv/,Женская спортивная обувь,217,460.0,2024-08-07 23:58:12,2024-08-07 23:50:31,2024-08-07 23:58:12,9528,38.0
+380,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika-dlya-volos/,Аптечная косметика для волос,69,109.0,2024-08-08 00:00:04,2024-08-07 23:58:15,2024-08-08 00:00:04,2999,36.0
+381,user1,https://megamarket.ru/catalog/oborudovanie-dlya-kafe-i-restoranov/,Оборудование для кафе и ресторанов,5,17.0,2024-08-08 00:00:24,2024-08-08 00:00:07,2024-08-08 00:00:24,207,14.0
+382,user1,https://megamarket.ru/catalog/avtoakustika/,,,,,,,0,
+383,user1,https://megamarket.ru/catalog/koreyskaya-kosmetika-po-uhodu-za-telom/,Корейская косметика по уходу за телом,19,33.0,2024-08-08 00:01:21,2024-08-08 00:00:48,2024-08-08 00:01:21,815,60.0
+384,user1,https://megamarket.ru/catalog/krossovki-zhenskie/,Кроссовки женские,73,213.0,2024-08-08 00:04:58,2024-08-08 00:01:24,2024-08-08 00:04:58,4379,31.0
+385,user1,https://megamarket.ru/catalog/kletki-i-aksessuary-dlya-ptic/,Клетки и аксессуары для птиц,46,80.0,2024-08-08 00:06:21,2024-08-08 00:05:01,2024-08-08 00:06:21,1997,37.0
+386,user1,https://megamarket.ru/catalog/sredstva-dlya-ochisheniya-kozhi-lica/,Средства для очищения кожи лица,744,1502.0,2024-08-08 00:31:26,2024-08-08 00:06:24,2024-08-08 00:31:26,32728,99.0
+387,user1,https://megamarket.ru/catalog/muzykalnye-instrumenty-537261/,,,,,,,0,
+388,user1,https://megamarket.ru/catalog/krasota-i-zdorove/,,,,,,,0,
+389,user1,https://megamarket.ru/catalog/gornolyzhnaya-i-snoubordicheskaya-zashita/,Горнолыжная и сноубордическая защита,8,15.0,2024-08-08 00:32:26,2024-08-08 00:32:12,2024-08-08 00:32:26,330,35.0
+390,user1,https://megamarket.ru/catalog/sushki-suhari-tartaletki/,"Сушки, сухари, тарталетки",27,46.0,2024-08-08 00:33:15,2024-08-08 00:32:29,2024-08-08 00:33:15,1186,36.0
+391,user1,https://megamarket.ru/catalog/pleti-i-knuty/,Плети и кнуты,72,113.0,2024-08-08 00:35:11,2024-08-08 00:33:18,2024-08-08 00:35:11,3148,39.0
+392,user1,https://megamarket.ru/catalog/chafindishi/,Чафиндиши,2,23.0,2024-08-08 00:35:38,2024-08-08 00:35:14,2024-08-08 00:35:38,42,11.0
+393,user1,https://megamarket.ru/catalog/avtoinstrumenty/,,,,,,,0,
+394,user1,https://megamarket.ru/catalog/botinki-rabochie/,Ботинки рабочие,4,8.0,2024-08-08 00:36:10,2024-08-08 00:36:02,2024-08-08 00:36:10,152,31.0
+395,user1,https://megamarket.ru/catalog/arbalety/,Арбалеты,4,8.0,2024-08-08 00:36:22,2024-08-08 00:36:13,2024-08-08 00:36:22,163,21.0
+396,user1,https://megamarket.ru/catalog/sportivnye-igry/,,,,,,,0,
+397,user1,https://megamarket.ru/catalog/dekor-sten-i-potolka/,,,,,,,0,
+398,user1,https://megamarket.ru/catalog/letnie-vidy-sporta/,,,,,,,0,
+399,user1,https://megamarket.ru/catalog/komody-i-tumby/,,,,,,,0,
+400,user1,https://megamarket.ru/catalog/generatory-avtomobilnye/,,,,,,,0,
+401,user1,https://megamarket.ru/catalog/maskirovka-dlya-ohoty/,Маскировка для охоты,4,7.0,2024-08-08 00:38:22,2024-08-08 00:38:15,2024-08-08 00:38:22,140,20.0
+402,user1,https://megamarket.ru/catalog/frukty-yagody/,"Фрукты, ягоды",54,93.0,2024-08-08 00:39:59,2024-08-08 00:38:25,2024-08-08 00:39:59,2376,5.0
+403,user1,https://megamarket.ru/catalog/krupnaya-tehnika-dlya-kuhni/,,,,,,,0,
+404,user1,https://megamarket.ru/catalog/tovary-kak-v-ikea/,Товары как в ИКЕА,27,51.0,2024-08-08 00:41:15,2024-08-08 00:40:23,2024-08-08 00:41:15,1161,45.0
+405,user1,https://megamarket.ru/catalog/baggi/,Багги,2,3.0,2024-08-08 00:41:21,2024-08-08 00:41:18,2024-08-08 00:41:21,6,
+406,user1,https://megamarket.ru/catalog/podstavki-pod-monitory/,Подставки для мониторов,16,25.0,2024-08-08 00:41:49,2024-08-08 00:41:24,2024-08-08 00:41:49,683,35.0
+407,user1,https://megamarket.ru/catalog/aksessuary-dlya-kureniya/,Аксессуары для курения,6,9.0,2024-08-08 00:42:02,2024-08-08 00:41:52,2024-08-08 00:42:02,252,25.0
+408,user1,https://megamarket.ru/catalog/portativnye-sauny/,Портативные сауны,2,23.0,2024-08-08 00:42:28,2024-08-08 00:42:05,2024-08-08 00:42:28,4,17.0
+409,user1,https://megamarket.ru/catalog/lekarstvennye-sredstva-dlya-zhivotnyh/,Лекарственные средства для животных,24,38.0,2024-08-08 00:43:09,2024-08-08 00:42:31,2024-08-08 00:43:09,1031,34.0
+410,user1,https://megamarket.ru/catalog/elektromobili/,Детские электромобили,55,98.0,2024-08-08 00:44:50,2024-08-08 00:43:12,2024-08-08 00:44:50,2409,35.0
+411,user1,https://megamarket.ru/catalog/lopaty-dlya-sada-i-uborki-snega/,Лопаты для сада и уборки снега,222,416.0,2024-08-08 00:51:50,2024-08-08 00:44:53,2024-08-08 00:51:50,9749,50.0
+412,user1,https://megamarket.ru/catalog/koptilni/,Коптильни,38,73.0,2024-08-08 00:53:06,2024-08-08 00:51:53,2024-08-08 00:53:06,1671,41.0
+413,user1,https://megamarket.ru/catalog/tovary-dlya-hraneniya/,,,,,,,0,
+414,user1,https://megamarket.ru/catalog/vstraivaemye-duhovye-shkafy/,Встраиваемые духовые шкафы,728,1522.0,2024-08-08 01:18:53,2024-08-08 00:53:31,2024-08-08 01:18:53,32010,30.0
+415,user1,https://megamarket.ru/catalog/detskaya-odezhda-i-obuv-premium/,Детская одежда и обувь premium,24,55.0,2024-08-08 01:19:52,2024-08-08 01:18:57,2024-08-08 01:19:52,1024,25.0
+416,user1,https://megamarket.ru/catalog/vatnye-palochki/,Ватные палочки,13,26.0,2024-08-08 01:20:22,2024-08-08 01:19:55,2024-08-08 01:20:22,541,38.0
+417,user1,https://megamarket.ru/catalog/detskie-kashi/,Детские каши,55,91.0,2024-08-08 01:21:56,2024-08-08 01:20:25,2024-08-08 01:21:56,2401,36.0
+418,user1,https://megamarket.ru/catalog/gornolyzhnaya-odezhda/,,,,,,,0,
+419,user1,https://megamarket.ru/catalog/kultivatory-i-motobloki/,,,,,,,0,
+421,user1,https://megamarket.ru/catalog/svechi/,Свечи,584,1064.0,2024-08-08 01:40:26,2024-08-08 01:22:42,2024-08-08 01:40:26,25676,55.0
+422,user1,https://megamarket.ru/catalog/krepezh/,Крепеж,1137,2475.0,2024-08-08 02:21:45,2024-08-08 01:40:30,2024-08-08 02:21:45,50027,100.0
+423,user1,https://megamarket.ru/catalog/gigiena-dlya-mam/,Гигиена для мам,13,23.0,2024-08-08 02:22:12,2024-08-08 02:21:49,2024-08-08 02:22:12,568,40.0
+424,user1,https://megamarket.ru/catalog/zolotye-kolca/,Золотые кольца,309,770.0,2024-08-08 02:35:05,2024-08-08 02:22:15,2024-08-08 02:35:05,18534,32.0
+425,user1,https://megamarket.ru/catalog/lekarstvennye-sredstva/,Лекарственные средства,966,1862.0,2024-08-08 03:06:11,2024-08-08 02:35:09,2024-08-08 03:06:11,42504,35.0
+426,user1,https://megamarket.ru/catalog/muzhskaya-sportivnaya-odezhda/,Мужская спортивная одежда,220,494.0,2024-08-08 03:14:29,2024-08-08 03:06:15,2024-08-08 03:14:29,9674,70.0
+427,user1,https://megamarket.ru/catalog/utyugi/,Утюги,235,461.0,2024-08-08 03:22:13,2024-08-08 03:14:33,2024-08-08 03:22:13,10340,35.0
+428,user1,https://megamarket.ru/catalog/mobilnye-telefony-i-aksessuary/,,,,,,,0,
+429,user1,https://megamarket.ru/catalog/avtomobili-i-mototehnika/,,,,,,,0,
+430,user1,https://megamarket.ru/catalog/amortizatory-kapota-i-bagazhnika/,Амортизаторы капота и багажника,1137,2196.0,2024-08-08 03:59:35,2024-08-08 03:22:59,2024-08-08 03:59:35,50026,36.0
+431,user1,https://megamarket.ru/catalog/yuvelirnye-chasy-zhenskie/,Ювелирные часы женские,20,33.0,2024-08-08 04:00:12,2024-08-08 03:59:38,2024-08-08 04:00:12,843,25.0
+432,user1,https://megamarket.ru/catalog/florariumy-s-zhivymi-cvetami/,Флорариумы с живыми цветами,9,15.0,2024-08-08 04:00:31,2024-08-08 04:00:15,2024-08-08 04:00:31,370,36.0
+433,user1,https://megamarket.ru/catalog/uhod-za-odezhdoy-i-obuvyu/,Уход за одеждой и обувью,70,116.0,2024-08-08 04:02:30,2024-08-08 04:00:34,2024-08-08 04:02:30,3061,51.0
+434,user1,https://megamarket.ru/catalog/sredstva-ot-moskitov/,Средства от москитов,264,510.0,2024-08-08 04:11:04,2024-08-08 04:02:34,2024-08-08 04:11:04,11608,51.0
+435,user1,https://megamarket.ru/catalog/testoraskatochnye-mashiny/,Тестораскаточные машины,2,4.0,2024-08-08 04:11:12,2024-08-08 04:11:08,2024-08-08 04:11:12,76,11.0
+436,user1,https://megamarket.ru/catalog/svarochnye-gorelki/,Сварочные горелки,84,152.0,2024-08-08 04:13:47,2024-08-08 04:11:15,2024-08-08 04:13:47,3686,42.0
+437,user1,https://megamarket.ru/catalog/yuvelirnye-chasy-muzhskie/,Часы ювелирные мужские,7,18.0,2024-08-08 04:14:08,2024-08-08 04:13:51,2024-08-08 04:14:08,291,25.0
+438,user1,https://megamarket.ru/catalog/naduvnye-igrushki/,Надувные игрушки,20,46.0,2024-08-08 04:14:58,2024-08-08 04:14:12,2024-08-08 04:14:58,853,38.0
+439,user1,https://megamarket.ru/catalog/igry-dlya-pc/,Компьютерные игры (PC),4,9.0,2024-08-08 04:15:10,2024-08-08 04:15:02,2024-08-08 04:15:10,170,16.0
+440,user1,https://megamarket.ru/catalog/sredstva-dlya-ukladki-volos/,Средства для укладки волос,198,376.0,2024-08-08 04:21:31,2024-08-08 04:15:14,2024-08-08 04:21:31,8684,36.0
+441,user1,https://megamarket.ru/catalog/produkty-dlya-piknika-na-prirode/,Продукты для пикника,438,798.0,2024-08-08 04:34:53,2024-08-08 04:21:35,2024-08-08 04:34:53,19270,48.0
+442,user1,https://megamarket.ru/catalog/sredstva-dlya-britya/,Cредства для бритья,23,43.0,2024-08-08 04:35:39,2024-08-08 04:34:56,2024-08-08 04:35:39,976,38.0
+443,user1,https://megamarket.ru/catalog/ohlazhdennaya-ryba/,Охлажденная рыба,12,22.0,2024-08-08 04:36:05,2024-08-08 04:35:43,2024-08-08 04:36:05,522,
+444,user1,https://megamarket.ru/catalog/solenaya-ryba/,Соленая рыба,35,54.0,2024-08-08 04:37:03,2024-08-08 04:36:09,2024-08-08 04:37:03,1532,20.0
+445,user1,https://megamarket.ru/catalog/detskaya-verhnyaya-odezhda/,Детская верхняя одежда,362,770.0,2024-08-08 04:49:56,2024-08-08 04:37:06,2024-08-08 04:49:56,15887,75.0
+446,user1,https://megamarket.ru/catalog/tovary-dlya-gryzunov/,,,,,,,0,
+447,user1,https://megamarket.ru/catalog/sol-dlya-posudomoechnoj-mashiny/,Соль для посудомоечной машины,4,7.0,2024-08-08 04:50:28,2024-08-08 04:50:21,2024-08-08 04:50:28,145,36.0
+448,user1,https://megamarket.ru/catalog/knopochnye-telefony/,Кнопочные телефоны,191,323.0,2024-08-08 04:55:55,2024-08-08 04:50:32,2024-08-08 04:55:55,8399,35.0
+449,user1,https://megamarket.ru/catalog/chemodan-dlya-foto-i-videotehniki/,Чемоданы для фототехники,3,5.0,2024-08-08 04:56:04,2024-08-08 04:55:59,2024-08-08 04:56:04,125,41.0
+450,user1,https://megamarket.ru/catalog/shpricy-igly-i-infuzionnye-sistemy/,"Шприцы, иглы и инфузионные системы",41,70.0,2024-08-08 04:57:18,2024-08-08 04:56:08,2024-08-08 04:57:18,1765,41.0
+451,user1,https://megamarket.ru/catalog/akkumulyatory-avtomobilnye/,Аккумуляторы автомобильные,251,413.0,2024-08-08 05:04:15,2024-08-08 04:57:22,2024-08-08 05:04:15,6017,10.0
+452,user1,https://megamarket.ru/catalog/konditerskie-izdeliya/,Кондитерские изделия,3,26.0,2024-08-08 05:04:44,2024-08-08 05:04:18,2024-08-08 05:04:44,132,39.0
+453,user1,https://megamarket.ru/catalog/elektroinstrumenty/,Электроинструменты,1036,2134.0,2024-08-08 05:40:22,2024-08-08 05:04:48,2024-08-08 05:40:22,45583,65.0
+454,user1,https://megamarket.ru/catalog/bra/,Бра,1042,2396.0,2024-08-08 06:20:22,2024-08-08 05:40:26,2024-08-08 06:20:22,50016,65.0
+455,user1,https://megamarket.ru/catalog/sredstva-dlya-uhoda-za-bytovoj-tehnikoj/,Средства для чистки бытовой техники,165,304.0,2024-08-08 06:25:30,2024-08-08 06:20:26,2024-08-08 06:25:30,7227,78.0
+456,user1,https://megamarket.ru/catalog/emali/,Эмали,65,155.0,2024-08-08 06:28:09,2024-08-08 06:25:34,2024-08-08 06:28:09,2808,41.0
+457,user1,https://megamarket.ru/catalog/strelba/,,,,,,,0,
+458,user1,https://megamarket.ru/catalog/suhocvety/,Сухоцветы,34,68.0,2024-08-08 06:29:42,2024-08-08 06:28:34,2024-08-08 06:29:42,1491,56.0
+459,user1,https://megamarket.ru/catalog/podarochnye-nabory-kosmetiki/,Подарочные наборы косметики,73,142.0,2024-08-08 06:32:08,2024-08-08 06:29:46,2024-08-08 06:32:08,3188,39.0
+460,user1,https://megamarket.ru/catalog/tualetnaya-bumaga/,Туалетная бумага,33,57.0,2024-08-08 06:33:08,2024-08-08 06:32:12,2024-08-08 06:33:08,1441,37.0
+461,user1,https://megamarket.ru/catalog/vodosnabzhenie/,,,,,,,0,
+462,user1,https://megamarket.ru/catalog/sportivnye-aksessuary/,Спортивные аксессуары,73,137.0,2024-08-08 06:35:50,2024-08-08 06:33:33,2024-08-08 06:35:50,3177,41.0
+463,user1,https://megamarket.ru/catalog/tovary-dlya-konservirovaniya/,Товары для консервирования,47,83.0,2024-08-08 06:37:17,2024-08-08 06:35:54,2024-08-08 06:37:17,2053,71.0
+464,user1,https://megamarket.ru/catalog/verevki-alpinistskie/,Веревки альпинистские,4,8.0,2024-08-08 06:37:29,2024-08-08 06:37:21,2024-08-08 06:37:29,156,35.0
+465,user1,https://megamarket.ru/catalog/mebel-po-pomesheniyam/,,,,,,,0,
+466,user1,https://megamarket.ru/catalog/galoshi-na-obuv/,Галоши на обувь,3,10.0,2024-08-08 06:38:05,2024-08-08 06:37:54,2024-08-08 06:38:05,108,43.0
+467,user1,https://megamarket.ru/catalog/pirsing-iz-zolota/,Пирсинг из золота,6,13.0,2024-08-08 06:38:22,2024-08-08 06:38:08,2024-08-08 06:38:22,224,20.0
+468,user1,https://megamarket.ru/catalog/osheyniki-klyapy-i-maski/,"Ошейники, кляпы и маски",90,214.0,2024-08-08 06:41:59,2024-08-08 06:38:25,2024-08-08 06:41:59,3959,49.0
+469,user1,https://megamarket.ru/catalog/progulki-puteshestviya/,,,,,,,0,
+470,user1,https://megamarket.ru/catalog/obedennye-gruppy/,Обеденные группы,4,33.0,2024-08-08 06:42:58,2024-08-08 06:42:24,2024-08-08 06:42:58,176,40.0
+471,user1,https://megamarket.ru/catalog/ortopedicheskaya-obuv/,Ортопедическая обувь,6,17.0,2024-08-08 06:43:19,2024-08-08 06:43:01,2024-08-08 06:43:19,250,28.0
+472,user1,https://megamarket.ru/catalog/noski-chulki-i-kolgotki/,,,,,,,0,
+473,user1,https://megamarket.ru/catalog/detskie-zubnye-shetki/,Детские зубные щетки,67,131.0,2024-08-08 06:45:56,2024-08-08 06:43:45,2024-08-08 06:45:56,2936,99.0
+474,user1,https://megamarket.ru/catalog/sredstva-zashity-rasteniy/,Средства защиты растений,70,145.0,2024-08-08 06:48:25,2024-08-08 06:46:00,2024-08-08 06:48:25,3074,64.0
+475,user1,https://megamarket.ru/catalog/tovary-dlya-geymerov/,,,,,,,0,
+476,user1,https://megamarket.ru/catalog/upakovochnye-aksessuary/,Упаковочные аксессуары,272,504.0,2024-08-08 06:57:15,2024-08-08 06:48:50,2024-08-08 06:57:15,11948,56.0
+477,user1,https://megamarket.ru/catalog/makiyazh-brovej/,Макияж бровей,248,509.0,2024-08-08 07:05:48,2024-08-08 06:57:19,2024-08-08 07:05:48,10894,50.0
+478,user1,https://megamarket.ru/catalog/podveski-i-kulony-zolotye/,Золотые подвески,78,180.0,2024-08-08 07:08:51,2024-08-08 07:05:52,2024-08-08 07:08:51,4670,20.0
+479,user1,https://megamarket.ru/catalog/mototehnika/,Мототехника,4,8.0,2024-08-08 07:09:03,2024-08-08 07:08:55,2024-08-08 07:09:03,137,8.0
+480,user1,https://megamarket.ru/catalog/tovary-dlya-prazdnika/,Товары для праздника,1137,2493.0,2024-08-08 07:50:40,2024-08-08 07:09:06,2024-08-08 07:50:40,50028,64.0
+481,user1,https://megamarket.ru/catalog/kupalniki-dlya-podrostkov/,Купальники для подростков,44,105.0,2024-08-08 07:52:29,2024-08-08 07:50:44,2024-08-08 07:52:29,1902,48.0
+482,user1,https://megamarket.ru/catalog/ustanovka-klimaticheskoy-tehniki/,Установка климатической техники,2,25.0,2024-08-08 07:52:57,2024-08-08 07:52:33,2024-08-08 07:52:57,32,10.0
+483,user1,https://megamarket.ru/catalog/pnevmoinstrumenty/,Пневмоинструменты,393,798.0,2024-08-08 08:06:19,2024-08-08 07:53:01,2024-08-08 08:06:19,17282,50.0
+484,user1,https://megamarket.ru/catalog/elektrokvadrocikly/,Электроквадроциклы,2,25.0,2024-08-08 08:06:49,2024-08-08 08:06:24,2024-08-08 08:06:49,14,
+485,user1,https://megamarket.ru/catalog/elektrogrili/,Электрогрили,103,204.0,2024-08-08 08:10:17,2024-08-08 08:06:53,2024-08-08 08:10:17,4531,55.0
+486,user1,https://megamarket.ru/catalog/nabory-parfyumerii/,Наборы парфюмерии,21,35.0,2024-08-08 08:10:56,2024-08-08 08:10:21,2024-08-08 08:10:56,901,40.0
+487,user1,https://megamarket.ru/catalog/ustroystva-gromkoy-svyazi/,Устройства громкой связи,5,11.0,2024-08-08 08:11:11,2024-08-08 08:11:00,2024-08-08 08:11:11,199,25.0
+488,user1,https://megamarket.ru/catalog/kreplenoe-vino/,Крепленые вина,10,17.0,2024-08-08 08:11:31,2024-08-08 08:11:14,2024-08-08 08:11:31,399,18.0
+489,user1,https://megamarket.ru/catalog/zapchasti-dlya-to/,,,,,,,0,
+490,user1,https://megamarket.ru/catalog/zapchasti-i-komplektuyushie-dlya-noutbukov/,,,,,,,0,
+491,user1,https://megamarket.ru/catalog/videoigry/,,,,,,,0,
+492,user1,https://megamarket.ru/catalog/hobbi/,,,,,,,0,
+493,user1,https://megamarket.ru/catalog/zerkala-napolnye/,Зеркала напольные,8,14.0,2024-08-08 08:13:15,2024-08-08 08:13:01,2024-08-08 08:13:15,330,45.0
+494,user1,https://megamarket.ru/catalog/infrakrasnye-sauny/,Инфракрасные сауны,1,2.0,2024-08-08 08:13:21,2024-08-08 08:13:19,2024-08-08 08:13:21,0,
+495,user1,https://megamarket.ru/catalog/elektrosamokaty-2463684633781217/,Электросамокаты,23,47.0,2024-08-08 08:14:11,2024-08-08 08:13:25,2024-08-08 08:14:11,1007,29.0
+496,user1,https://megamarket.ru/catalog/kofemolki/,Кофемолки,143,277.0,2024-08-08 08:18:52,2024-08-08 08:14:15,2024-08-08 08:18:52,6278,36.0
+497,user1,https://megamarket.ru/catalog/serebryanye-predmety-servirovki/,Серебряные предметы сервировки,3,9.0,2024-08-08 08:19:05,2024-08-08 08:18:56,2024-08-08 08:19:05,119,20.0
+498,user1,https://megamarket.ru/catalog/pelenki-i-salfetki-dlya-detej/,Пеленки и салфетки для детей,124,252.0,2024-08-08 08:23:20,2024-08-08 08:19:09,2024-08-08 08:23:20,5414,49.0
+499,user1,https://megamarket.ru/catalog/zdorove-i-uhod-za-malyshami/,Здоровье и уход за малышами,812,1789.0,2024-08-08 08:53:13,2024-08-08 08:23:24,2024-08-08 08:53:13,35726,63.0
+500,user1,https://megamarket.ru/catalog/aksessuary-dlya-smart-chasov/,,,,,,,0,
+501,user1,https://megamarket.ru/catalog/dlya-mytya-posudy/,Для мытья посуды,96,181.0,2024-08-08 08:56:40,2024-08-08 08:53:38,2024-08-08 08:56:40,4210,41.0
+502,user1,https://megamarket.ru/catalog/muzhskaya-obuv/,Мужская обувь,669,2154.0,2024-08-08 09:32:37,2024-08-08 08:56:43,2024-08-08 09:32:37,40095,85.0
+504,user1,https://megamarket.ru/catalog/kuhonnye-garnitury-i-moduli/,,,,,,,0,
+505,user1,https://megamarket.ru/catalog/zimnyaya-avtohimiya/,Зимняя автохимия,14,27.0,2024-08-08 09:33:29,2024-08-08 09:33:02,2024-08-08 09:33:29,579,41.0
+506,user1,https://megamarket.ru/catalog/lekarstvennye-preparaty-ot-allergii/,Лекарственные препараты от аллергии,23,47.0,2024-08-08 09:34:20,2024-08-08 09:33:33,2024-08-08 09:34:20,1003,11.0
+507,user1,https://megamarket.ru/catalog/aksessuary-dlya-telefonov/,,,,,,,0,
+508,user1,https://megamarket.ru/catalog/kletki-dlya-gryzunov/,Клетки и загоны для грызунов,60,110.0,2024-08-08 09:36:35,2024-08-08 09:34:46,2024-08-08 09:36:35,2607,58.0
+509,user1,https://megamarket.ru/catalog/lechebno-profilakticheskoe-pitanie/,Лечебно-профилактическое питание,20,40.0,2024-08-08 09:37:20,2024-08-08 09:36:40,2024-08-08 09:37:20,872,30.0
+510,user1,https://megamarket.ru/catalog/elektrovelosipedy/,Электровелосипеды,9,27.0,2024-08-08 09:37:51,2024-08-08 09:37:24,2024-08-08 09:37:51,368,30.0
+511,user1,https://megamarket.ru/catalog/uslugi-po-remontu/,Услуги по ремонту,3,7.0,2024-08-08 09:38:02,2024-08-08 09:37:55,2024-08-08 09:38:02,99,7.0
+512,user1,https://megamarket.ru/catalog/myasnaya-gastronomiya/,Мясная гастрономия,281,547.0,2024-08-08 09:47:13,2024-08-08 09:38:06,2024-08-08 09:47:13,12353,40.0
+513,user1,https://megamarket.ru/catalog/kushetki-kak-v-ikea/,,,,,,,0,
+514,user1,https://megamarket.ru/catalog/pribory-dlya-uhoda-za-nogami/,Приборы для ухода за ногами,6,10.0,2024-08-08 09:47:48,2024-08-08 09:47:38,2024-08-08 09:47:48,258,33.0
+515,user1,https://megamarket.ru/catalog/sportivnye-batonchiki-i-pechenya/,Спортивные батончики и печенье,106,203.0,2024-08-08 09:51:15,2024-08-08 09:47:52,2024-08-08 09:51:15,4662,63.0
+516,user1,https://megamarket.ru/catalog/podstavki-dlya-misok/,Подставки для мисок,2,24.0,2024-08-08 09:51:43,2024-08-08 09:51:20,2024-08-08 09:51:43,24,25.0
+517,user1,https://megamarket.ru/catalog/gornolyzhnye-shlemy-maski-i-ochki/,,,,,,,0,
+518,user1,https://megamarket.ru/catalog/tualetnye-prinadlezhnosti-dlya-sobak/,Туалетные принадлежности для собак,107,184.0,2024-08-08 09:55:13,2024-08-08 09:52:09,2024-08-08 09:55:13,4675,41.0
+519,user1,https://megamarket.ru/catalog/sandalii-zhenskie/,Сандалии женские,86,203.0,2024-08-08 09:58:40,2024-08-08 09:55:17,2024-08-08 09:58:40,5145,31.0
+520,user1,https://megamarket.ru/catalog/knizhnye-shkafy/,Книжные шкафы,8,14.0,2024-08-08 09:58:59,2024-08-08 09:58:44,2024-08-08 09:58:59,225,40.0
+521,user1,https://megamarket.ru/catalog/rybolovnye-primanki/,Приманки для рыбалки,1137,2974.0,2024-08-08 10:48:37,2024-08-08 09:59:03,2024-08-08 10:48:37,50027,38.0
+522,user1,https://megamarket.ru/catalog/generatory-elektrostancii-/,Генераторы,287,648.0,2024-08-08 10:59:30,2024-08-08 10:48:42,2024-08-08 10:59:30,8012,40.0
+523,user1,https://megamarket.ru/catalog/limonady-i-gazirovannye-napitki/,Газированные напитки,150,602.0,2024-08-08 11:09:38,2024-08-08 10:59:35,2024-08-08 11:09:38,6562,48.0
+524,user1,https://megamarket.ru/catalog/vitaminy-458875/,Витамины и витаминные комплексы,75,322.0,2024-08-08 11:15:05,2024-08-08 11:09:42,2024-08-08 11:15:05,3283,40.0
+525,user1,https://megamarket.ru/catalog/pazly/,Пазлы,1008,3071.0,2024-08-08 12:06:20,2024-08-08 11:15:09,2024-08-08 12:06:20,44336,56.0
+526,user1,https://megamarket.ru/catalog/prezervativy/,Презервативы,193,380.0,2024-08-08 12:12:44,2024-08-08 12:06:24,2024-08-08 12:12:44,8454,39.0
+527,user1,https://megamarket.ru/catalog/barbekyu-grili/,Барбекю-грили для дачи,21,48.0,2024-08-08 12:13:37,2024-08-08 12:12:49,2024-08-08 12:13:37,868,40.0
+528,user1,https://megamarket.ru/catalog/igrovye-monitory/,Игровые мониторы,57,116.0,2024-08-08 12:15:38,2024-08-08 12:13:41,2024-08-08 12:15:38,2470,21.0
+529,user1,https://megamarket.ru/catalog/aksessuary-dlya-printerov/,Аксессуары для принтеров,520,945.0,2024-08-08 12:31:26,2024-08-08 12:15:42,2024-08-08 12:31:26,22868,36.0
+530,user1,https://megamarket.ru/catalog/kolca/,Кольца,655,1826.0,2024-08-08 13:01:57,2024-08-08 12:31:31,2024-08-08 13:01:57,39265,32.0
+531,user1,https://megamarket.ru/catalog/podstilki-dlya-selskohozyaystvennyh-zhivotnyh/,Подстилки для сельскохозяйственных животных,3,5.0,2024-08-08 13:02:07,2024-08-08 13:02:02,2024-08-08 13:02:07,109,20.0
+532,user1,https://megamarket.ru/catalog/odezhda-dlya-devochek/,Одежда для девочек,146,460.0,2024-08-08 13:09:52,2024-08-08 13:02:12,2024-08-08 13:09:52,8760,75.0
+533,user1,https://megamarket.ru/catalog/sredstva-dlya-lecheniya-ot-lor-zabolevaniy/,Средства для лечения ЛОР-заболеваний,35,66.0,2024-08-08 13:11:05,2024-08-08 13:09:59,2024-08-08 13:11:05,1532,40.0
+534,user1,https://megamarket.ru/catalog/izdeliya-medicinskogo-naznacheniya/,,,,,,,0,
+535,user1,https://megamarket.ru/catalog/vibroizolyaciya/,Виброизоляция,2,4.0,2024-08-08 13:11:35,2024-08-08 13:11:31,2024-08-08 13:11:35,82,25.0
+536,user1,https://megamarket.ru/catalog/zolotye-sergi/,Золотые серьги,231,587.0,2024-08-08 13:21:26,2024-08-08 13:11:39,2024-08-08 13:21:26,13826,25.0
+537,user1,https://megamarket.ru/catalog/industrialnye-masla/,Индустриальные масла,83,156.0,2024-08-08 13:24:07,2024-08-08 13:21:31,2024-08-08 13:24:07,3621,25.0
+538,user1,https://megamarket.ru/catalog/zapchasti-dlya-planshetov/,Запчасти для планшетов,88,160.0,2024-08-08 13:26:52,2024-08-08 13:24:12,2024-08-08 13:26:52,3842,15.0
+539,user1,https://megamarket.ru/catalog/udochki-dlya-rybalki/,Удочки,445,979.0,2024-08-08 13:43:15,2024-08-08 13:26:56,2024-08-08 13:43:15,21069,37.0
+540,user1,https://megamarket.ru/catalog/komplekty-eroticheskogo-belya/,Комплекты эротического белья,68,131.0,2024-08-08 13:45:31,2024-08-08 13:43:20,2024-08-08 13:45:31,2975,40.0
+541,user1,https://megamarket.ru/catalog/sredstva-posle-britya/,Средства после бритья,17,33.0,2024-08-08 13:46:08,2024-08-08 13:45:35,2024-08-08 13:46:08,741,50.0
+542,user1,https://megamarket.ru/catalog/picca-i-osnova-dlya-piccy/,Пицца и основа для пиццы,15,29.0,2024-08-08 13:46:44,2024-08-08 13:46:15,2024-08-08 13:46:44,660,5.0
+543,user1,https://megamarket.ru/catalog/bagazhnye-sistemy-i-aksessuary/,,,,,,,0,
+544,user1,https://megamarket.ru/catalog/biznes-podarki/,Бизнес-подарки,1003,2234.0,2024-08-08 14:24:23,2024-08-08 13:47:09,2024-08-08 14:24:23,44132,65.0
+545,user1,https://megamarket.ru/catalog/svechi-dlya-avtomobiley/,Свечи автомобильные,1088,2254.0,2024-08-08 15:02:03,2024-08-08 14:24:28,2024-08-08 15:02:03,47867,41.0
+546,user1,https://megamarket.ru/catalog/elektrokvadrocikly-elektromotocikly/,Электромотоциклы,2,6.0,2024-08-08 15:02:14,2024-08-08 15:02:08,2024-08-08 15:02:14,26,8.0
+547,user1,https://megamarket.ru/catalog/kreatin/,Креатин,39,84.0,2024-08-08 15:03:43,2024-08-08 15:02:19,2024-08-08 15:03:43,1700,37.0
+548,user1,https://megamarket.ru/catalog/sadovaya-mebel/,Садовая мебель,253,510.0,2024-08-08 15:12:18,2024-08-08 15:03:48,2024-08-08 15:12:18,11120,50.0
+549,user1,https://megamarket.ru/catalog/hudozhestvennye-prinadlezhnosti/,,,,,,,0,
+550,user1,https://megamarket.ru/catalog/vafli-pryaniki-pechene/,"Вафли, пряники, печенье",281,554.0,2024-08-08 15:21:58,2024-08-08 15:12:44,2024-08-08 15:21:58,12355,49.0
+551,user1,https://megamarket.ru/catalog/centry-upravleniya-umnym-domom/,Центры управления умным домом,11,21.0,2024-08-08 15:22:24,2024-08-08 15:22:03,2024-08-08 15:22:24,451,35.0
+552,user1,https://megamarket.ru/catalog/shezlongi-dlya-dachi/,Шезлонги для дачи,33,61.0,2024-08-08 15:23:29,2024-08-08 15:22:28,2024-08-08 15:23:29,1415,40.0
+553,user1,https://megamarket.ru/catalog/boks-s-podarkom/,Бокс с подарком,207,371.0,2024-08-08 15:29:46,2024-08-08 15:23:34,2024-08-08 15:29:46,9094,50.0
+554,user1,https://megamarket.ru/catalog/proekty-i-gotovye-postroyki/,Проекты и готовые постройки,16,34.0,2024-08-08 15:30:24,2024-08-08 15:29:50,2024-08-08 15:30:24,697,70.0
+555,user1,https://megamarket.ru/catalog/tovary-dlya-turizma/,,,,,,,0,
+556,user1,https://megamarket.ru/catalog/detskie-sumki/,Детские сумки,175,321.0,2024-08-08 15:36:11,2024-08-08 15:30:50,2024-08-08 15:36:11,7697,56.0
+557,user1,https://megamarket.ru/catalog/napravlyayushie-dlya-yashikov/,Направляющие для ящиков,46,86.0,2024-08-08 15:37:42,2024-08-08 15:36:16,2024-08-08 15:37:42,1986,41.0
+558,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-tehnikoy/,Средства по уходу за техникой,38,71.0,2024-08-08 15:38:58,2024-08-08 15:37:47,2024-08-08 15:38:58,1660,55.0
+559,user1,https://megamarket.ru/catalog/kilty-pareo-nabory/,Наборы для бани и сауны,36,66.0,2024-08-08 15:40:09,2024-08-08 15:39:03,2024-08-08 15:40:09,1541,63.0
+560,user1,https://megamarket.ru/catalog/podarochnye-konverty/,Подарочные конверты,147,257.0,2024-08-08 15:44:30,2024-08-08 15:40:13,2024-08-08 15:44:30,6429,46.0
+561,user1,https://megamarket.ru/catalog/shlangi-i-telezhki/,Шланги и тележки,312,605.0,2024-08-08 15:54:39,2024-08-08 15:44:35,2024-08-08 15:54:39,13686,50.0
+562,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-odezhdoj/,Средства по уходу за одеждой,43,75.0,2024-08-08 15:55:59,2024-08-08 15:54:44,2024-08-08 15:55:59,1876,75.0
+563,user1,https://megamarket.ru/catalog/stroitelnye-materialy/,Строительные материалы,353,722.0,2024-08-08 16:08:06,2024-08-08 15:56:04,2024-08-08 16:08:06,15522,89.0
+564,user1,https://megamarket.ru/catalog/kliningovye-uslugi/,Клининговые услуги,1,2.0,2024-08-08 16:08:13,2024-08-08 16:08:11,2024-08-08 16:08:13,0,
+565,user1,https://megamarket.ru/catalog/chehly-dlya-elektronnyh-knig/,Чехлы для электронных книг,9,16.0,2024-08-08 16:08:34,2024-08-08 16:08:18,2024-08-08 16:08:34,375,15.0
+566,user1,https://megamarket.ru/catalog/lestnichnoe-oborudovanie/,Лестничное оборудование,155,303.0,2024-08-08 16:13:41,2024-08-08 16:08:38,2024-08-08 16:13:41,6779,40.0
+567,user1,https://megamarket.ru/catalog/chasy-i-budilniki/,Часы и будильники,912,1939.0,2024-08-08 16:46:06,2024-08-08 16:13:46,2024-08-08 16:46:06,40128,50.0
+568,user1,https://megamarket.ru/catalog/komplekty-umnogo-doma/,Комплекты умного дома,9,16.0,2024-08-08 16:46:26,2024-08-08 16:46:11,2024-08-08 16:46:26,383,37.0
+569,user1,https://megamarket.ru/catalog/otdelochnye-materialy/,,,,,,,0,
+570,user1,https://megamarket.ru/catalog/lichnaya-gigiena/,,,,,,,0,
+571,user1,https://megamarket.ru/catalog/uhod-za-polostyu-rta-8993647/,Уход за полостью рта,269,521.0,2024-08-08 16:55:55,2024-08-08 16:47:13,2024-08-08 16:55:55,11819,46.0
+572,user1,https://megamarket.ru/catalog/mebel-dlya-gostinoy/,,,,,,,0,
+573,user1,https://megamarket.ru/catalog/vstraivaemaya-tehnika/,,,,,,,0,
+574,user1,https://megamarket.ru/catalog/bady-dlya-volos-kozhi-i-nogtey/,"Витамины для волос, кожи и ногтей",73,131.0,2024-08-08 16:58:53,2024-08-08 16:56:42,2024-08-08 16:58:53,3171,44.0
+575,user1,https://megamarket.ru/catalog/udliniteli-setevye-filtry-troyniki-i-komplektuyushie/,"Удлинители, сетевые фильтры, тройники и комплектующие",1067,2244.0,2024-08-08 17:36:22,2024-08-08 16:58:57,2024-08-08 17:36:22,46911,66.0
+576,user1,https://megamarket.ru/catalog/naduvnye-divany/,Надувные диваны,5,14.0,2024-08-08 17:36:41,2024-08-08 17:36:27,2024-08-08 17:36:41,179,35.0
+577,user1,https://megamarket.ru/catalog/kolesa-v-sbore/,Колеса в сборе,2,4.0,2024-08-08 17:36:50,2024-08-08 17:36:46,2024-08-08 17:36:50,52,1.0
+578,user1,https://megamarket.ru/catalog/sredstva-dlya-zagara/,Средства для загара,171,320.0,2024-08-08 17:42:15,2024-08-08 17:36:55,2024-08-08 17:42:15,7511,55.0
+580,user1,https://megamarket.ru/catalog/medicinskaya-odezhda/,Медицинская одежда,18,34.0,2024-08-08 17:42:55,2024-08-08 17:42:21,2024-08-08 17:42:55,788,40.0
+581,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika/,Аптечная косметика,605,1175.0,2024-08-08 18:02:34,2024-08-08 17:43:00,2024-08-08 18:02:34,26594,41.0
+582,user1,https://megamarket.ru/catalog/tovary-dlya-kovki/,,,,,,,0,
+583,user1,https://megamarket.ru/catalog/kakao-goryachiy-shokolad/,Какао и горячий шоколад,31,61.0,2024-08-08 18:04:02,2024-08-08 18:03:01,2024-08-08 18:04:02,1358,40.0
+584,user1,https://megamarket.ru/catalog/apteka/,,,,,,,0,
+585,user1,https://megamarket.ru/catalog/intimnaya-kosmetika/,Интимная косметика,253,455.0,2024-08-08 18:12:03,2024-08-08 18:04:28,2024-08-08 18:12:03,11124,38.0
+586,user1,https://megamarket.ru/catalog/domashnyaya-odezhda-i-bele-dlya-podrostkov/,Домашняя одежда и белье для подростков,70,135.0,2024-08-08 18:14:24,2024-08-08 18:12:08,2024-08-08 18:14:24,3063,53.0
+587,user1,https://megamarket.ru/catalog/basseyny-dlya-dachi/,Бассейны для дачи,32,63.0,2024-08-08 18:15:32,2024-08-08 18:14:29,2024-08-08 18:15:32,1376,50.0
+588,user1,https://megamarket.ru/catalog/kontejnery-dlya-korma/,Контейнеры для корма,7,13.0,2024-08-08 18:15:50,2024-08-08 18:15:37,2024-08-08 18:15:50,281,38.0
+589,user1,https://megamarket.ru/catalog/shkolnye-sumki-ryukzaki-i-rancy/,"Школьные сумки, рюкзаки и ранцы",686,1354.0,2024-08-08 18:38:30,2024-08-08 18:15:56,2024-08-08 18:38:30,30178,48.0
+590,user1,https://megamarket.ru/catalog/klapany-pritochnye/,Клапаны приточные,9,15.0,2024-08-08 18:38:50,2024-08-08 18:38:35,2024-08-08 18:38:50,377,35.0
+591,user1,https://megamarket.ru/catalog/turisticheskaya-mebel/,Туристическая мебель,157,303.0,2024-08-08 18:44:02,2024-08-08 18:38:59,2024-08-08 18:44:02,6888,44.0
+592,user1,https://megamarket.ru/catalog/derzhateli-dlya-vannoj-komnaty/,Держатели для ванной комнаты,1101,2176.0,2024-08-08 19:20:23,2024-08-08 18:44:07,2024-08-08 19:20:23,48400,78.0
+593,user1,https://megamarket.ru/catalog/gazosvarochnoe-oborudovanie/,Газосварочное оборудование,99,170.0,2024-08-08 19:23:18,2024-08-08 19:20:29,2024-08-08 19:23:18,4327,52.0
+594,user1,https://megamarket.ru/catalog/konservy/,Консервация,274,532.0,2024-08-08 19:32:15,2024-08-08 19:23:23,2024-08-08 19:32:15,12056,40.0
+595,user1,https://megamarket.ru/catalog/boks-i-boevye-iskusstva/,,,,,,,0,
+596,user1,https://megamarket.ru/catalog/besprovodnye-naushniki/,Беспроводные наушники,536,956.0,2024-08-08 19:48:37,2024-08-08 19:32:41,2024-08-08 19:48:37,12846,99.0
+597,user1,https://megamarket.ru/catalog/kolgotki/,Женские колготки,331,747.0,2024-08-08 20:01:10,2024-08-08 19:48:42,2024-08-08 20:01:10,19813,59.0
+598,user1,https://megamarket.ru/catalog/braslety/,Браслеты,195,451.0,2024-08-08 20:08:45,2024-08-08 20:01:15,2024-08-08 20:08:45,11687,79.0
+599,user1,https://megamarket.ru/catalog/futbol/,,,,,,,0,
+601,user1,https://megamarket.ru/catalog/myagkie-igrushki/,Мягкие игрушки,993,2074.0,2024-08-08 20:43:46,2024-08-08 20:09:12,2024-08-08 20:43:46,43692,56.0
+602,user1,https://megamarket.ru/catalog/intimnaya-kosmetika-i-parfyumeriya/,Интимная косметика и парфюмерия,495,858.0,2024-08-08 20:58:09,2024-08-08 20:43:51,2024-08-08 20:58:09,21767,38.0
+603,user1,https://megamarket.ru/catalog/rukodelie/,Рукоделие,770,1537.0,2024-08-08 21:23:52,2024-08-08 20:58:15,2024-08-08 21:23:52,33867,56.0
+604,user1,https://megamarket.ru/catalog/gidroodezhda-i-gidroobuv/,,,,,,,0,
+605,user1,https://megamarket.ru/catalog/petli-mebelnye/,Петли мебельные,43,75.0,2024-08-08 21:25:33,2024-08-08 21:24:18,2024-08-08 21:25:33,1884,62.0
+606,user1,https://megamarket.ru/catalog/elektroustanovochnye-izdeliya/,"Розетки, выключатели и рамки",1137,2294.0,2024-08-08 22:03:52,2024-08-08 21:25:38,2024-08-08 22:03:52,50027,54.0
+607,user1,https://megamarket.ru/catalog/sredstva-dlya-ochisheniya-kozhi-tela/,,,,,,,0,
+609,user1,https://megamarket.ru/catalog/detskie-aksessuary/,,,,,,,0,
+610,user1,https://megamarket.ru/catalog/shtany-i-kalsony-dlya-avtosporta/,,,,,,,0,
+612,user1,https://megamarket.ru/catalog/biznes-knigi/,,,,,,,0,
+613,user1,https://megamarket.ru/catalog/sredstva-dlya-lecheniya-nervnoy-sistemy/,,,,,,,0,
+614,user1,https://megamarket.ru/catalog/polufabrikaty-iz-ryby/,,,,,,,0,
+615,user1,https://megamarket.ru/catalog/gotovaya-kulinariya/,,,,,,,0,
+616,user1,https://megamarket.ru/catalog/dayving/,,,,,,,0,
+617,user1,https://megamarket.ru/catalog/getry-zhenskie/,,,,,,,0,
+618,user1,https://megamarket.ru/catalog/desheddery/,,,,,,,0,
+619,user1,https://megamarket.ru/catalog/rybolovnye-prinadlezhnosti-i-aksessuary/,,,,,,,0,
+620,user1,https://megamarket.ru/catalog/molochnye-produkty-syr-i-yayca/,,,,,,,0,
+621,user1,https://megamarket.ru/catalog/nabory-avtomobilista/,,,,,,,0,
+622,user1,https://megamarket.ru/catalog/gornye-lyzhi-botinki-i-krepleniya/,,,,,,,0,
+624,user1,https://megamarket.ru/catalog/semena-udobreniya-i-uhod-za-rasteniyami/,,,,,,,0,
+625,user1,https://megamarket.ru/catalog/korma-i-vitaminy-dlya-reptiliy/,,,,,,,0,
+626,user1,https://megamarket.ru/catalog/zerkala-nastolnye/,,,,,,,0,
+628,user1,https://megamarket.ru/catalog/bani/,,,,,,,0,
+629,user1,https://megamarket.ru/catalog/sredstva-ot-tarakanov/,,,,,,,0,
+630,user1,https://megamarket.ru/catalog/zhalyuzi/,,,,,,,0,
+631,user1,https://megamarket.ru/catalog/otkrytki/,,,,,,,0,
+632,user1,https://megamarket.ru/catalog/parokonvektomat/,,,,,,,0,
+633,user1,https://megamarket.ru/catalog/poroshok-dlya-posudomoechnoj-mashiny/,,,,,,,0,
+634,user1,https://megamarket.ru/catalog/suhie-stroitelnye-smesi/,,,,,,,0,
+635,user1,https://megamarket.ru/catalog/kremy-dlya-obuvi/,,,,,,,0,
+636,user1,https://megamarket.ru/catalog/makiyazh-gub/,,,,,,,0,
+637,user1,https://megamarket.ru/catalog/sportivnaya-odezhda-i-obuv/,,,,,,,0,
+638,user1,https://megamarket.ru/catalog/plavki-muzhskie/,,,,,,,0,
+639,user1,https://megamarket.ru/catalog/kazany/,,,,,,,0,
+640,user1,https://megamarket.ru/catalog/nabory-dlya-uhoda-za-volosami/,,,,,,,0,
+641,user1,https://megamarket.ru/catalog/bytovye-uslugi/,,,,,,,0,
+642,user1,https://megamarket.ru/catalog/nintendo/,,,,,,,0,
+643,user1,https://megamarket.ru/catalog/tv-pristavki/,,,,,,,0,
+644,user1,https://megamarket.ru/catalog/epilyatory-i-aksessuary/,,,,,,,0,
+645,user1,https://megamarket.ru/catalog/zerkala/,,,,,,,0,
+646,user1,https://megamarket.ru/catalog/instrumenty-dlya-obrezki-derevev-i-kustov/,,,,,,,0,
+647,user1,https://megamarket.ru/catalog/motornye-masla/,,,,,,,0,
+648,user1,https://megamarket.ru/catalog/modelirovanie/,,,,,,,0,
+649,user1,https://megamarket.ru/catalog/akvariumy-i-terrariumy/,,,,,,,0,
+650,user1,https://megamarket.ru/catalog/kolesnye-diski/,,,,,,,0,
+651,user1,https://megamarket.ru/catalog/kole-bizhuteriya/,,,,,,,0,
+652,user1,https://megamarket.ru/catalog/fastfud/,,,,,,,0,
+653,user1,https://megamarket.ru/catalog/igrovye-pristavki/,,,,,,,0,
+654,user1,https://megamarket.ru/catalog/aksessuary-dlya-avtomobilej/,,,,,,,0,
+655,user1,https://megamarket.ru/catalog/korma-i-vitaminy-dlya-ryb-460615/,,,,,,,0,
+656,user1,https://megamarket.ru/catalog/uhod-za-rebenkom/,,,,,,,0,
+657,user1,https://megamarket.ru/catalog/basketbol/,,,,,,,0,
+658,user1,https://megamarket.ru/catalog/svechi-prazdnichnye/,,,,,,,0,
+659,user1,https://megamarket.ru/catalog/postroyki/,,,,,,,0,
+660,user1,https://megamarket.ru/catalog/sredstva-dlya-santehniki/,,,,,,,0,
+661,user1,https://megamarket.ru/catalog/kupalniki-i-plyazhnaya-odezhda/,,,,,,,0,
+662,user1,https://megamarket.ru/catalog/sredstva-dlya-yuvelirnyh-izdeliy/,,,,,,,0,
+663,user1,https://megamarket.ru/catalog/mashinki-dlya-strizhki-volos/,,,,,,,0,
+664,user1,https://megamarket.ru/catalog/korma-dlya-selskohozyaystvennyh-zhivotnyh/,,,,,,,0,
+665,user1,https://megamarket.ru/catalog/rascheski-dlya-zhivotnyh/,,,,,,,0,
+666,user1,https://megamarket.ru/catalog/detyam/,,,,,,,0,
+667,user1,https://megamarket.ru/catalog/manikyur-i-pedikyur/,,,,,,,0,
+668,user1,https://megamarket.ru/catalog/igrovye-sistemnye-bloki/,,,,,,,0,
+669,user1,https://megamarket.ru/catalog/perchatki-i-binty-dlya-edinoborstv/,,,,,,,0,
+670,user1,https://megamarket.ru/catalog/chehly-dlya-odezhdy/,,,,,,,0,
+671,user1,https://megamarket.ru/catalog/kukuruznye-palochki/,,,,,,,0,
+672,user1,https://megamarket.ru/catalog/tovary-dlya-sobak/,,,,,,,0,
+673,user1,https://megamarket.ru/catalog/sredstva-dlya-uhoda-za-holodilnikom/,,,,,,,0,
+674,user1,https://megamarket.ru/catalog/gorshki-i-podstavki-dlya-cvetov/,,,,,,,0,
+675,user1,https://megamarket.ru/catalog/kovanye-elementy/,,,,,,,0,
+676,user1,https://megamarket.ru/catalog/dekorativnye-shkatulki/,,,,,,,0,
+677,user1,https://megamarket.ru/catalog/naruchniki-i-fiksatory/,,,,,,,0,
+679,user1,https://megamarket.ru/catalog/aptechki/,,,,,,,0,
+680,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-licom/,,,,,,,0,
+681,user1,https://megamarket.ru/catalog/kabelno-provodnikovaya-produkciya/,,,,,,,0,
+682,user1,https://megamarket.ru/catalog/tyul/,,,,,,,0,
+683,user1,https://megamarket.ru/catalog/nehudozhestvennaya-literatura/,,,,,,,0,
+684,user1,https://megamarket.ru/catalog/zamorozhennye-frukty-i-yagody/,,,,,,,0,
+685,user1,https://megamarket.ru/catalog/podguzniki-pelenki-dlya-zhivotnyh/,,,,,,,0,
+686,user1,https://megamarket.ru/catalog/santehnika/,,,,,,,0,
+687,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika-dlya-tela/,,,,,,,0,
+688,user1,https://megamarket.ru/catalog/pledy-i-pokryvala/,,,,,,,0,
+689,user1,https://megamarket.ru/catalog/sredstva-dlya-sustavov/,,,,,,,0,
+690,user1,https://megamarket.ru/catalog/kupanie-malysha/,,,,,,,0,
+691,user1,https://megamarket.ru/catalog/tovary-dlya-risovaniya-405855/,,,,,,,0,
+692,user1,https://megamarket.ru/catalog/sadovye-gorshki-i-kashpo/,,,,,,,0,
+693,user1,https://megamarket.ru/catalog/zelen/,,,,,,,0,
+694,user1,https://megamarket.ru/catalog/shiny/,,,,,,,0,
+695,user1,https://megamarket.ru/catalog/bufety/,,,,,,,0,
+697,user1,https://megamarket.ru/catalog/frukty-yagody-i-ovoshi/,,,,,,,0,
+698,user1,https://megamarket.ru/catalog/novogodnie-tovary/,,,,,,,0,
+699,user1,https://megamarket.ru/catalog/gidroizolyaciya/,,,,,,,0,
+700,user1,https://megamarket.ru/catalog/bilyard/,,,,,,,0,
+701,user1,https://megamarket.ru/catalog/chulki/,,,,,,,0,
+702,user1,https://megamarket.ru/catalog/ramki-dlya-ulev/,,,,,,,0,
+703,user1,https://megamarket.ru/catalog/sredstva-dlya-avtozagara/,,,,,,,0,
+704,user1,https://megamarket.ru/catalog/emkosti-dlya-vody/,,,,,,,0,
+705,user1,https://megamarket.ru/catalog/podarochnye-pakety/,,,,,,,0,
+706,user1,https://megamarket.ru/catalog/suhoy-kley/,,,,,,,0,
+707,user1,https://megamarket.ru/catalog/hlebcy-i-solomka/,,,,,,,0,
+708,user1,https://megamarket.ru/catalog/aromaty-dlya-doma/,,,,,,,0,
+709,user1,https://megamarket.ru/catalog/tovary-dlya-shkoly/,,,,,,,0,
+710,user1,https://megamarket.ru/catalog/blinchiki-syrniki-i-oladi/,,,,,,,0,
+711,user1,https://megamarket.ru/catalog/morsy-kiseli-i-kompoty/,,,,,,,0,
+712,user1,https://megamarket.ru/catalog/zazhimy-dlya-bdsm/,,,,,,,0,
+713,user1,https://megamarket.ru/catalog/korrektiruyushee-bele/,,,,,,,0,
+714,user1,https://megamarket.ru/catalog/avtoelektronika/,,,,,,,0,
+715,user1,https://megamarket.ru/catalog/kayaking/,,,,,,,0,
+716,user1,https://megamarket.ru/catalog/bokserskie-lapy-makivary-i-raketki/,,,,,,,0,
+717,user1,https://megamarket.ru/catalog/kolpaki-na-kolesa/,,,,,,,0,
+718,user1,https://megamarket.ru/catalog/aksessuary-dlya-kofemashin/,,,,,,,0,
+719,user1,https://megamarket.ru/catalog/tovary-dlya-koshek/,,,,,,,0,
+720,user1,https://megamarket.ru/catalog/kovriki-dlya-vannoj-i-tualeta/,,,,,,,0,
+721,user1,https://megamarket.ru/catalog/podarki-dlya-malchikov/,,,,,,,0,
+723,user1,https://megamarket.ru/catalog/termometry-gradusniki-/,,,,,,,0,
+724,user1,https://megamarket.ru/catalog/sborka-krovatey/,,,,,,,0,
+725,user1,https://megamarket.ru/catalog/produkty-zdorovogo-pitaniya/,,,,,,,0,
+727,user1,https://megamarket.ru/catalog/posuda-dlya-prigotovleniya-pishi/,,,,,,,0,
+728,user1,https://megamarket.ru/catalog/sadovye-konstruktory/,,,,,,,0,
+729,user1,https://megamarket.ru/catalog/stolovye-pribory-iz-serebra/,,,,,,,0,
+730,user1,https://megamarket.ru/catalog/elektrotransport/,,,,,,,0,
+731,user1,https://megamarket.ru/catalog/stelki-i-korrektory-stopy/,,,,,,,0,
+732,user1,https://megamarket.ru/catalog/specobuv/,,,,,,,0,
+733,user1,https://megamarket.ru/catalog/tovary-dlya-ohoty/,,,,,,,0,
+734,user1,https://megamarket.ru/catalog/dnevnye-hodovye-ogni/,,,,,,,0,
+735,user1,https://megamarket.ru/catalog/polotenca/,,,,,,,0,
+736,user1,https://megamarket.ru/catalog/vodnye-vidy-sporta/,,,,,,,0,
+737,user1,https://megamarket.ru/catalog/kosmeticheskie-pribory/,,,,,,,0,
+738,user1,https://megamarket.ru/catalog/avtoservis/,,,,,,,0,
+739,user1,https://megamarket.ru/catalog/garderobnye-sistemy/,,,,,,,0,
+740,user1,https://megamarket.ru/catalog/kartridzhi-dlya-printerov/,,,,,,,0,
+741,user1,https://megamarket.ru/catalog/tovary-dlya-stirki/,,,,,,,0,
+742,user1,https://megamarket.ru/catalog/akkumulyatory-i-zaryadnye-ustrojstva/,,,,,,,0,
+743,user1,https://megamarket.ru/catalog/dopolnitelnoe-oborudovanie-dlya-avtomobilej/,,,,,,,0,
+745,user1,https://megamarket.ru/catalog/kresla/,,,,,,,0,
+746,user1,https://megamarket.ru/catalog/solncezashitnye-sredstva/,,,,,,,0,
+747,user1,https://megamarket.ru/catalog/zimnie-vidy-sporta/,,,,,,,0,
+748,user1,https://megamarket.ru/catalog/kapkany-dlya-ohoty/,,,,,,,0,
+749,user1,https://megamarket.ru/catalog/flyugery/,,,,,,,0,
+750,user1,https://megamarket.ru/catalog/instrumenty-dlya-hodovoy-chasti/,,,,,,,0,
+751,user1,https://megamarket.ru/catalog/yuvelirnye-broshi/,,,,,,,0,
+752,user1,https://megamarket.ru/catalog/tabletki-dlya-posudomoechnoj-mashiny/,,,,,,,0,
+753,user1,https://megamarket.ru/catalog/knigi/,,,,,,,0,
+754,user1,https://megamarket.ru/catalog/silovye-trenazhery/,,,,,,,0,
+755,user1,https://megamarket.ru/catalog/aksessuary-dlya-krupnoy-tehniki-dlya-kuhni/,,,,,,,0,
+756,user1,https://megamarket.ru/catalog/pitevaya-voda/,,,,,,,0,
+757,user1,https://megamarket.ru/catalog/fonari-avtomobilnye/,,,,,,,0,
+758,user1,https://megamarket.ru/catalog/rybolovnye-sumki/,,,,,,,0,
+760,user1,https://megamarket.ru/catalog/matrasy/,,,,,,,0,
+761,user1,https://megamarket.ru/catalog/snegohody/,,,,,,,0,
+762,user1,https://megamarket.ru/catalog/zerkala-dlya-vannoj-komnaty/,,,,,,,0,
+763,user1,https://megamarket.ru/catalog/tovary-dlya-mytya-okon/,,,,,,,0,
+764,user1,https://megamarket.ru/catalog/stoleshnicy-dlya-kuhni/,,,,,,,0,
+765,user1,https://megamarket.ru/catalog/ortopedicheskie-tovary/,,,,,,,0,
+766,user1,https://megamarket.ru/catalog/zatirki/,,,,,,,0,
+767,user1,https://megamarket.ru/catalog/tovary-dlya-uborki-i-gigieny/,,,,,,,0,
+768,user1,https://megamarket.ru/catalog/kondicionery-i-split-sistemy/,,,,,,,0,
+769,user1,https://megamarket.ru/catalog/religioznye-podveski/,,,,,,,0,
+770,user1,https://megamarket.ru/catalog/boylery-kosvennogo-nagreva/,,,,,,,0,
+771,user1,https://megamarket.ru/catalog/shnurki-dlya-obuvi/,,,,,,,0,
+772,user1,https://megamarket.ru/catalog/umnye-lampochki/,,,,,,,0,
+773,user1,https://megamarket.ru/catalog/vstraivaemye-mikrovolnovye-pechi/,,,,,,,0,
+774,user1,https://megamarket.ru/catalog/detskie-kedy/,,,,,,,0,
+775,user1,https://megamarket.ru/catalog/bosonozhki-zhenskie/,,,,,,,0,
+777,user1,https://megamarket.ru/catalog/bumazhnye-polotenca/,,,,,,,0,
+779,user1,https://megamarket.ru/catalog/intimnye-gel-smazki/,,,,,,,0,
+780,user1,https://megamarket.ru/catalog/turisticheskie-ryukzaki-sumki-i-chehly/,,,,,,,0,
+781,user1,https://megamarket.ru/catalog/cvety-poshtuchno/,,,,,,,0,
+782,user1,https://megamarket.ru/catalog/eroticheskie-aksessuary/,,,,,,,0,
+783,user1,https://megamarket.ru/catalog/gruzovye-shiny/,,,,,,,0,
+784,user1,https://megamarket.ru/catalog/aksessuary-dlya-planshetov/,,,,,,,0,
+785,user1,https://megamarket.ru/catalog/tovary-dlya-letnego-otdyha/,,,,,,,0,
+786,user1,https://megamarket.ru/catalog/stelki-dlya-obuvi/,,,,,,,0,
+787,user1,https://megamarket.ru/catalog/cerkovnaya-utvar/,,,,,,,0,
+788,user1,https://megamarket.ru/catalog/tovary-dlya-uborki-doma/,,,,,,,0,
+789,user1,https://megamarket.ru/catalog/gazonokosilki-i-trimmery/,,,,,,,0,
+790,user1,https://megamarket.ru/catalog/aksessuary-dlya-nintendo/,,,,,,,0,
+791,user1,https://megamarket.ru/catalog/stroitelstvo-i-remont/,,,,,,,0,
+793,user1,https://megamarket.ru/catalog/lupy-dlya-slabozryachih/,,,,,,,0,
+794,user1,https://megamarket.ru/catalog/kuhonnye-mojki/,,,,,,,0,
+795,user1,https://megamarket.ru/catalog/avtomatika-i-shitovoe-oborudovanie/,,,,,,,0,
+796,user1,https://megamarket.ru/catalog/elektronika/,,,,,,,0,
+797,user1,https://megamarket.ru/catalog/lubrikanty/,,,,,,,0,
+798,user1,https://megamarket.ru/catalog/racii-i-aksessuary/,,,,,,,0,
+799,user1,https://megamarket.ru/catalog/sadovyj-instrument-i-poliv/,,,,,,,0,
+800,user1,https://megamarket.ru/catalog/veniki-shetki-sovki/,,,,,,,0,
+801,user1,https://megamarket.ru/catalog/rastitelnye-molochnye-produkty/,,,,,,,0,
+802,user1,https://megamarket.ru/catalog/koreyska-kosmetika-po-uhodu-za-volosami/,,,,,,,0,
+803,user1,https://megamarket.ru/catalog/eroticheskie-platya-i-penyuary/,,,,,,,0,
+804,user1,https://megamarket.ru/catalog/tovary-dlya-pchelovodstva/,,,,,,,0,
+805,user1,https://megamarket.ru/catalog/detskie-pazly/,,,,,,,0,
+806,user1,https://megamarket.ru/catalog/naushniki-i-aksessuary/,,,,,,,0,
+807,user1,https://megamarket.ru/catalog/sredstva-dlya-pishevareniya/,,,,,,,0,
+808,user1,https://megamarket.ru/catalog/mebel-dlya-domashnego-ofisa/,,,,,,,0,
+809,user1,https://megamarket.ru/catalog/samokaty/,,,,,,,0,
+810,user1,https://megamarket.ru/catalog/stomatologiya/,,,,,,,0,
+811,user1,https://megamarket.ru/catalog/podgotovka-vozduha/,,,,,,,0,
+812,user1,https://megamarket.ru/catalog/gamaki-dlya-dachi/,,,,,,,0,
+813,user1,https://megamarket.ru/catalog/komplektuyushie-i-furnitura-dlya-mebeli/,,,,,,,0,
+814,user1,https://megamarket.ru/catalog/pribory-dlya-ukladki-volos/,,,,,,,0,
+815,user1,https://megamarket.ru/catalog/cheholy-dlya-portativnoy-akustiki/,,,,,,,0,
+816,user1,https://megamarket.ru/catalog/ryukzaki-i-sportivnye-sumki/,,,,,,,0,
+817,user1,https://megamarket.ru/catalog/elektricheskie-zubnye-shetki-i-irrigatory/,,,,,,,0,
+818,user1,https://megamarket.ru/catalog/pishushie-prinadlezhnosti-dlya-ofisa/,,,,,,,0,
+819,user1,https://megamarket.ru/catalog/portaly-dlya-elektrokaminov/,,,,,,,0,
+820,user1,https://megamarket.ru/catalog/tovary-dlya-britya/,,,,,,,0,
+821,user1,https://megamarket.ru/catalog/produkty-pitaniya/,,,,,,,0,
+822,user1,https://megamarket.ru/catalog/podklyuchenie-audio-i-videotehniki/,,,,,,,0,
+823,user1,https://megamarket.ru/catalog/udobreniya-dlya-sada/,,,,,,,0,
+825,user1,https://megamarket.ru/catalog/motocikly/,,,,,,,0,
+826,user1,https://megamarket.ru/catalog/tvorog-i-smetana/,,,,,,,0,
+827,user1,https://megamarket.ru/catalog/tovary-dlya-mam-i-malyshej/,,,,,,,0,
+828,user1,https://megamarket.ru/catalog/sredstva-lichnoy-gigieny/,,,,,,,0,
+829,user1,https://megamarket.ru/catalog/braslety-zolotye/,,,,,,,0,
+830,user1,https://megamarket.ru/catalog/odeyala/,,,,,,,0,
+831,user1,https://megamarket.ru/catalog/pivo/,,,,,,,0,
+832,user1,https://megamarket.ru/catalog/proteiny-geynery-kreatiny/,,,,,,,0,
+833,user1,https://megamarket.ru/catalog/klavishnye/,,,,,,,0,
+834,user1,https://megamarket.ru/catalog/kaminy-drovyanye-5151121/,,,,,,,0,
+835,user1,https://megamarket.ru/catalog/oborudovanie-dlya-akvariumov/,,,,,,,0,
+836,user1,https://megamarket.ru/catalog/aksessuary-religioznye/,,,,,,,0,
+837,user1,https://megamarket.ru/catalog/rybolovnye-katushki/,,,,,,,0,
+838,user1,https://megamarket.ru/catalog/serebryanye-ionizatory-vody/,,,,,,,0,
+839,user1,https://megamarket.ru/catalog/girlyandy/,,,,,,,0,
+840,user1,https://megamarket.ru/catalog/lejki-sadovye/,,,,,,,0,
+841,user1,https://megamarket.ru/catalog/pelmeni-manty-hinkali-vareniki/,,,,,,,0,
+842,user1,https://megamarket.ru/catalog/kaminy-pechi-i-aksessuary/,,,,,,,0,
+843,user1,https://megamarket.ru/catalog/gigiena-i-uhod-dlya-zhivotnyh/,,,,,,,0,
+844,user1,https://megamarket.ru/catalog/zimnie-shiny/,,,,,,,0,
+845,user1,https://megamarket.ru/catalog/vitaminno-mineralnye-dobavki/,,,,,,,0,
+846,user1,https://megamarket.ru/catalog/gigiena-polosti-rta/,,,,,,,0,
+847,user1,https://megamarket.ru/catalog/kresla-kachalki-kak-v-ikea/,,,,,,,0,
+848,user1,https://megamarket.ru/catalog/dlya-ochistki-ot-snega/,,,,,,,0,
+849,user1,https://megamarket.ru/catalog/mebel-dlya-spalni/,,,,,,,0,
+850,user1,https://megamarket.ru/catalog/torty-pirozhnye-i-kruassany/,,,,,,,0,
+851,user1,https://megamarket.ru/catalog/ofisnye-kresla-i-stulya/,,,,,,,0,
+852,user1,https://megamarket.ru/catalog/shokolad/,,,,,,,0,
+853,user1,https://megamarket.ru/catalog/mobile/,,,,,,,0,
+854,user1,https://megamarket.ru/catalog/kancelyariya/,,,,,,,0,
+855,user1,https://megamarket.ru/catalog/detskaya-obuv/,,,,,,,0,
+856,user1,https://megamarket.ru/catalog/tovary-dlya-doma/,,,,,,,0,
+858,user1,https://megamarket.ru/catalog/avtotovary/,,,,,,,0,
+859,user1,https://megamarket.ru/catalog/oboi-i-klei/,,,,,,,0,
+861,user1,https://megamarket.ru/catalog/koltunorezy/,,,,,,,0,
+863,user1,https://megamarket.ru/catalog/linzy-kontaktnye/,,,,,,,0,
+864,user1,https://megamarket.ru/catalog/hobbi-i-tvorchestvo/,,,,,,,0,
+865,user1,https://megamarket.ru/catalog/kedy-i-slipony-zhenskie/,,,,,,,0,
+866,user1,https://megamarket.ru/catalog/leska-rybolovnaya/,,,,,,,0,
+867,user1,https://megamarket.ru/catalog/prigotovlenie-edy-i-napitkov/,,,,,,,0,
+869,user1,https://megamarket.ru/catalog/yuvelirnyy-pirsing/,,,,,,,0,
+870,user1,https://megamarket.ru/catalog/avtosvet/,,,,,,,0,
+871,user1,https://megamarket.ru/catalog/antisepticheskie-sredstva/,,,,,,,0,
+872,user1,https://megamarket.ru/catalog/velosipedy-detskie/,,,,,,,0,
+873,user1,https://megamarket.ru/catalog/yuvelirnye-izdeliya/,,,,,,,0,
+874,user1,https://megamarket.ru/catalog/holodilniki-i-morozilniki/,,,,,,,0,
+875,user1,https://megamarket.ru/catalog/komnatnye-rasteniya/,,,,,,,0,
+876,user1,https://megamarket.ru/catalog/prigotovlenie-kofe/,,,,,,,0,
+877,user1,https://megamarket.ru/catalog/ventilyacionnye-ustanovki/,,,,,,,0,
+878,user1,https://megamarket.ru/catalog/planshety-i-aksessuary/,,,,,,,0,
+879,user1,https://megamarket.ru/catalog/veloekipirovka/,,,,,,,0,
+880,user1,https://megamarket.ru/catalog/vodnyy-transport/,,,,,,,0,
+881,user1,https://megamarket.ru/catalog/stomatologicheskie-instrumenty/,,,,,,,0,
+882,user1,https://megamarket.ru/catalog/divany/,,,,,,,0,
+883,user1,https://megamarket.ru/catalog/uslugi-i-cifrovye-tovary/,,,,,,,0,
+884,user1,https://megamarket.ru/catalog/oborudovanie-dlya-paseki/,,,,,,,0,
+885,user1,https://megamarket.ru/catalog/rashodnye-materialy/,,,,,,,0,
+886,user1,https://megamarket.ru/catalog/pelmennyy-apparat/,,,,,,,0,
+887,user1,https://megamarket.ru/catalog/sredstva-zashity-nog/,,,,,,,0,
+888,user1,https://megamarket.ru/catalog/lodochnye-motory/,,,,,,,0,
+889,user1,https://megamarket.ru/catalog/lodochnye-aksessuary/,,,,,,,0,
+890,user1,https://megamarket.ru/catalog/hleb/,,,,,,,0,
+892,user1,https://megamarket.ru/catalog/trenazhery-i-fitnes/,,,,,,,0,
+893,user1,https://megamarket.ru/catalog/manki-i-aksessuary-dlya-mankov/,,,,,,,0,
+894,user1,https://megamarket.ru/catalog/ortopedicheskie-podushki/,,,,,,,0,
+895,user1,https://megamarket.ru/catalog/aromatizatory-v-mashinu/,,,,,,,0,
+896,user1,https://megamarket.ru/catalog/preparaty-dlya-akvariuma/,,,,,,,0,
+897,user1,https://megamarket.ru/catalog/tovary-dlya-ochistki-basseynov/,,,,,,,0,
+898,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika-dlya-malyshey-i-mam/,,,,,,,0,
+899,user1,https://megamarket.ru/catalog/mebel/,,,,,,,0,
+901,user1,https://megamarket.ru/catalog/elektromotocikly-detskie/,,,,,,,0,
+902,user1,https://megamarket.ru/catalog/revizionnye-lyuki/,,,,,,,0,
+903,user1,https://megamarket.ru/catalog/kancelyariya-dlya-ofisa/,,,,,,,0,
+904,user1,https://megamarket.ru/catalog/bassejny-i-aksessuary/,,,,,,,0,
+905,user1,https://megamarket.ru/catalog/cikoriy-i-zlakovye-napitki/,,,,,,,0,
+906,user1,https://megamarket.ru/catalog/chehly/,,,,,,,0,
+907,user1,https://megamarket.ru/catalog/personazhi-iz-filmov-i-komiksov/,,,,,,,0,
+908,user1,https://megamarket.ru/catalog/sol-sahar-specii-i-pripravy/,,,,,,,0,
+909,user1,https://megamarket.ru/catalog/umnye-vyklyuchateli/,,,,,,,0,
+910,user1,https://megamarket.ru/catalog/ovoshi/,,,,,,,0,
+911,user1,https://megamarket.ru/catalog/otdelochnye-materialy-dlya-sten/,,,,,,,0,
+912,user1,https://megamarket.ru/catalog/odezhda-dlya-novorozhdennyh/,,,,,,,0,
+913,user1,https://megamarket.ru/catalog/smesiteli/,,,,,,,0,
+914,user1,https://megamarket.ru/catalog/sredstva-kontracepcii/,,,,,,,0,
+915,user1,https://megamarket.ru/catalog/utepliteli/,,,,,,,0,
+916,user1,https://megamarket.ru/catalog/shtory/,,,,,,,0,
+917,user1,https://megamarket.ru/catalog/kresla-kak-v-ikea/,,,,,,,0,
+918,user1,https://megamarket.ru/catalog/sumki-dlya-yogi/,,,,,,,0,
+919,user1,https://megamarket.ru/catalog/aksessuary-dlya-vannoj/,,,,,,,0,
+920,user1,https://megamarket.ru/catalog/podguzniki-i-pelenki-dlya-vzroslyh/,,,,,,,0,
+921,user1,https://megamarket.ru/catalog/solncezashitnye-ochki-zhenskie/,,,,,,,0,
+922,user1,https://megamarket.ru/catalog/multivarki-i-parovarki/,,,,,,,0,
+923,user1,https://megamarket.ru/catalog/aksessuary-dlya-detskih-avtokresel/,,,,,,,0,
+924,user1,https://megamarket.ru/catalog/ryukzaki-dlya-konkov/,,,,,,,0,
+925,user1,https://megamarket.ru/catalog/sredstva-dlya-uborki-za-domashnimi-zhivotnymi/,,,,,,,0,
+926,user1,https://megamarket.ru/catalog/sadovye-pokrytiya/,,,,,,,0,
+927,user1,https://megamarket.ru/catalog/aksessuary-dlya-kletok/,,,,,,,0,
+928,user1,https://megamarket.ru/catalog/predtrenirovochnye-kompleksy/,,,,,,,0,
+929,user1,https://megamarket.ru/catalog/plyazhnye-aksessuary-i-prinadlezhnosti/,,,,,,,0,
+930,user1,https://megamarket.ru/catalog/sumki-zhenskie/,,,,,,,0,
+931,user1,https://megamarket.ru/catalog/tekstil-dlya-detskoj/,,,,,,,0,
+932,user1,https://megamarket.ru/catalog/populyarnye-brendy-detskoy-odezhdy/,,,,,,,0,
+933,user1,https://megamarket.ru/catalog/busy-bizhuteriya/,,,,,,,0,
+934,user1,https://megamarket.ru/catalog/ofisnaya-mebel/,,,,,,,0,
+935,user1,https://megamarket.ru/catalog/kormushki-miski-poilki/,,,,,,,0,
+936,user1,https://megamarket.ru/catalog/zashita-motocikla/,,,,,,,0,
+937,user1,https://megamarket.ru/catalog/ustanovka-bytovoy-tehniki/,,,,,,,0,
+938,user1,https://megamarket.ru/catalog/avtomobilnye-zaryadnye-ustrojstva/,,,,,,,0,
+939,user1,https://megamarket.ru/catalog/zabory-i-ograzhdeniya/,,,,,,,0,
+940,user1,https://megamarket.ru/catalog/rollerserfy/,,,,,,,0,
+941,user1,https://megamarket.ru/catalog/gruntovki/,,,,,,,0,
+942,user1,https://megamarket.ru/catalog/tovary-dlya-vannoj-komnaty/,,,,,,,0,
+943,user1,https://megamarket.ru/catalog/krovati/,,,,,,,0,
+944,user1,https://megamarket.ru/catalog/radiatory-i-komplektuyushie/,,,,,,,0,
+945,user1,https://megamarket.ru/catalog/domkraty/,,,,,,,0,
+946,user1,https://megamarket.ru/catalog/drugie-tovary-i-aksessuary/,,,,,,,0,
+947,user1,https://megamarket.ru/catalog/motopompy/,,,,,,,0,
+948,user1,https://megamarket.ru/catalog/lyustry/,,,,,,,0,
+949,user1,https://megamarket.ru/catalog/kapuchinatory/,,,,,,,0,
+950,user1,https://megamarket.ru/catalog/kovriki-pod-misku/,,,,,,,0,
+951,user1,https://megamarket.ru/catalog/drugie-igrovye-pristavki/,,,,,,,0,
+952,user1,https://megamarket.ru/catalog/detskie-sportivnye-tovary-i-aktivnyy-otdyh/,,,,,,,0,
+953,user1,https://megamarket.ru/catalog/krany-gidravlicheskie/,,,,,,,0,
+954,user1,https://megamarket.ru/catalog/obustroystvo-sada/,,,,,,,0,
+955,user1,https://megamarket.ru/catalog/podguzniki/,,,,,,,0,
+956,user1,https://megamarket.ru/catalog/sumki-i-aksessuary/,,,,,,,0,
+957,user1,https://megamarket.ru/catalog/vatnye-diski/,,,,,,,0,
+958,user1,https://megamarket.ru/catalog/zhivye-elki/,,,,,,,0,
+959,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-gubami/,,,,,,,0,
+960,user1,https://megamarket.ru/catalog/veloryukzaki/,,,,,,,0,
+961,user1,https://megamarket.ru/catalog/massazhnye-oborudovaniya/,,,,,,,0,
+962,user1,https://megamarket.ru/catalog/massazhnye-podushki/,,,,,,,0,
+963,user1,https://megamarket.ru/catalog/amuniciya-dlya-sobak/,,,,,,,0,
+964,user1,https://megamarket.ru/catalog/shlepancy-i-slancy-detskie/,,,,,,,0,
+965,user1,https://megamarket.ru/catalog/detskie-applikacii/,,,,,,,0,
+966,user1,https://megamarket.ru/catalog/dzhoystiki-dlya-xbox/,,,,,,,0,
+967,user1,https://megamarket.ru/catalog/sportivnoe-pitanie/,,,,,,,0,
+968,user1,https://megamarket.ru/catalog/detskie-zubnye-pasty/,,,,,,,0,
+969,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-igrovyh-pk/,,,,,,,0,
+970,user1,https://megamarket.ru/catalog/shkafy/,,,,,,,0,
+971,user1,https://megamarket.ru/catalog/stolovyj-i-kuhonnyj-tekstil/,,,,,,,0,
+972,user1,https://megamarket.ru/catalog/dlya-malyarnyh-i-kuzovnyh-rabot/,,,,,,,0,
+973,user1,https://megamarket.ru/catalog/noski/,,,,,,,0,
+974,user1,https://megamarket.ru/catalog/termosumki-i-avtoholodilniki/,,,,,,,0,
+975,user1,https://megamarket.ru/catalog/zaponki-yuvelirnye/,,,,,,,0,
+976,user1,https://megamarket.ru/catalog/napolnye-pokrytiya/,,,,,,,0,
+977,user1,https://megamarket.ru/catalog/tufli-zhenskie/,,,,,,,0,
+978,user1,https://megamarket.ru/catalog/ingalyatory-i-nebulayzery/,,,,,,,0,
+979,user1,https://megamarket.ru/catalog/bytovaya-himiya-dlya-detej/,,,,,,,0,
+980,user1,https://megamarket.ru/catalog/dveri/,,,,,,,0,
+981,user1,https://megamarket.ru/catalog/deflektory-i-spojlery/,,,,,,,0,
+982,user1,https://megamarket.ru/catalog/elektrochajniki/,,,,,,,0,
+983,user1,https://megamarket.ru/catalog/mnogofunkcionalnyy-makiyazh/,,,,,,,0,
+984,user1,https://megamarket.ru/catalog/zhenskie-bluzy-i-rubashki/,,,,,,,0,
+985,user1,https://megamarket.ru/catalog/sredstva-dlya-mytya-posudy-i-pmm/,,,,,,,0,
+986,user1,https://megamarket.ru/catalog/detskie-tvorozhki/,,,,,,,0,
+987,user1,https://megamarket.ru/catalog/golfy/,,,,,,,0,
+988,user1,https://megamarket.ru/catalog/stoliki/,,,,,,,0,
+990,user1,https://megamarket.ru/catalog/otopitelnye-pechi/,,,,,,,0,
+992,user1,https://megamarket.ru/catalog/shinomontazh/,,,,,,,0,
+993,user1,https://megamarket.ru/catalog/falloimitatory-i-vibratory/,,,,,,,0,
+994,user1,https://megamarket.ru/catalog/detskaya-komnata/,,,,,,,0,
+995,user1,https://megamarket.ru/catalog/cerkovnye-svechi/,,,,,,,0,
+996,user1,https://megamarket.ru/catalog/videouvelichiteli/,,,,,,,0,
+997,user1,https://megamarket.ru/catalog/detskie-karnavalnye-kostyumy/,,,,,,,0,
+998,user1,https://megamarket.ru/catalog/tryapki-gubki-salfetki-dlya-uborki/,,,,,,,0,
+999,user1,https://megamarket.ru/catalog/detskie-knigi/,,,,,,,0,
+1000,user1,https://megamarket.ru/catalog/chay/,,,,,,,0,
+1001,user1,https://megamarket.ru/catalog/ortopedicheskie-fiksatory/,,,,,,,0,
+1002,user1,https://megamarket.ru/catalog/gostinichnye-seyfy/,,,,,,,0,
+1003,user1,https://megamarket.ru/catalog/vodoochistka-i-filtry/,,,,,,,0,
+1004,user1,https://megamarket.ru/catalog/vytyazhki/,,,,,,,0,
+1005,user1,https://megamarket.ru/catalog/detskie-kacheli-i-shezlongi/,,,,,,,0,
+1006,user1,https://megamarket.ru/catalog/stoly-i-stulya/,,,,,,,0,
+1007,user1,https://megamarket.ru/catalog/kraski/,,,,,,,0,
+1008,user1,https://megamarket.ru/catalog/straykbol/,,,,,,,0,
+1009,user1,https://megamarket.ru/catalog/miksery-i-blendery/,,,,,,,0,
+1010,user1,https://megamarket.ru/catalog/sofy/,,,,,,,0,
+1012,user1,https://megamarket.ru/catalog/elektrokvadrocikly-detskie/,,,,,,,0,
+1013,user1,https://megamarket.ru/catalog/batuty/,,,,,,,0,
+1014,user1,https://megamarket.ru/catalog/polubotinki-rabochie/,,,,,,,0,
+1015,user1,https://megamarket.ru/catalog/uhod-za-volosami/,,,,,,,0,
+1016,user1,https://megamarket.ru/catalog/korma-i-lakomstva-dlya-ptic/,,,,,,,0,
+1017,user1,https://megamarket.ru/catalog/moskitnye-setki-i-aksessuary/,,,,,,,0,
+1018,user1,https://megamarket.ru/catalog/sredstva-dlya-uhoda-za-kozhej-vokrug-glaz/,,,,,,,0,
+1019,user1,https://megamarket.ru/catalog/krovelnye-materialy/,,,,,,,0,
+1020,user1,https://megamarket.ru/catalog/zaponki-muzhskie/,,,,,,,0,
+1021,user1,https://megamarket.ru/catalog/benzoinstrument/,,,,,,,0,
+1022,user1,https://megamarket.ru/catalog/tehnika-dlya-doma/,,,,,,,0,
+1023,user1,https://megamarket.ru/catalog/bryuki-muzhskie/,,,,,,,0,
+1024,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika-dlya-lica/,,,,,,,0,
+1025,user1,https://megamarket.ru/catalog/koreyskaya-kosmetika/,,,,,,,0,
+1026,user1,https://megamarket.ru/catalog/igrushki-dlya-popugaev/,,,,,,,0,
+1027,user1,https://megamarket.ru/catalog/krovati-i-matrasy/,,,,,,,0,
+1029,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-kompyutera/,,,,,,,0,
+1030,user1,https://megamarket.ru/catalog/gaechnye-klyuchi/,,,,,,,0,
+1031,user1,https://megamarket.ru/catalog/serebryanaya-posuda/,,,,,,,0,
+1032,user1,https://megamarket.ru/catalog/detskie-tovary/,,,,,,,0,
+1033,user1,https://megamarket.ru/catalog/uhod-za-bolnymi/,,,,,,,0,
+1034,user1,https://megamarket.ru/catalog/bagazh-i-aksessuary-dlya-puteshestviy/,,,,,,,0,
+1035,user1,https://megamarket.ru/catalog/popkorn/,,,,,,,0,
+1036,user1,https://megamarket.ru/catalog/napolniteli-dlya-gryzunov/,,,,,,,0,
+1037,user1,https://megamarket.ru/catalog/podarki-na-rozhdenie-rebenka/,,,,,,,0,
+1038,user1,https://megamarket.ru/catalog/elochnye-igrushki-i-ukrasheniya/,,,,,,,0,
+1039,user1,https://megamarket.ru/catalog/igrovye-noutbuki/,,,,,,,0,
+1040,user1,https://megamarket.ru/catalog/zamorozhennye-produkty/,,,,,,,0,
+1041,user1,https://megamarket.ru/catalog/slivnaya-armatura/,,,,,,,0,
+1042,user1,https://megamarket.ru/catalog/montazh-i-obsluzhivanie-natyazhnyh-potolkov/,,,,,,,0,
+1043,user1,https://megamarket.ru/catalog/xbox/,,,,,,,0,
+1044,user1,https://megamarket.ru/catalog/koreyskaya-kosmetika-dlya-ochisheniya-lica/,,,,,,,0,
+1045,user1,https://megamarket.ru/catalog/napolniteli-dlya-koshachego-tualeta/,,,,,,,0,
+1046,user1,https://megamarket.ru/catalog/detskoe-pitanie/,,,,,,,0,
+1047,user1,https://megamarket.ru/catalog/ustanovka-dopolnitelnogo-oborudovaniya-avtomobilya/,,,,,,,0,
+1048,user1,https://megamarket.ru/catalog/posudomoechnye-mashiny/,,,,,,,0,
+1049,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-volosami/,,,,,,,0,
+1050,user1,https://megamarket.ru/catalog/obruchalnye-kolca/,,,,,,,0,
+1051,user1,https://megamarket.ru/catalog/noutbuki-i-aksessuary/,,,,,,,0,
+1052,user1,https://megamarket.ru/catalog/zhenskie-mayki-i-topy/,,,,,,,0,
+1053,user1,https://megamarket.ru/catalog/otopitelnoe-oborudovanie/,,,,,,,0,
+1054,user1,https://megamarket.ru/catalog/odnorazovye-kovriki/,,,,,,,0,
+1055,user1,https://megamarket.ru/catalog/propitki-dlya-dereva/,,,,,,,0,
+1056,user1,https://megamarket.ru/catalog/tovary-dlya-bani-i-sauny/,,,,,,,0,
+1057,user1,https://megamarket.ru/catalog/obogrevatelnye-pribory/,,,,,,,0,
+1058,user1,https://megamarket.ru/catalog/oborudovanie-dlya-basseynov/,,,,,,,0,
+1059,user1,https://megamarket.ru/catalog/eroticheskoe-bele-i-kostyumy/,,,,,,,0,
+1060,user1,https://megamarket.ru/catalog/sredstva-zashity-odezhdy/,,,,,,,0,
+1061,user1,https://megamarket.ru/catalog/sredstva-individualnoy-zashity/,,,,,,,0,
+1062,user1,https://megamarket.ru/catalog/aksessuary-dlya-noutbukov/,,,,,,,0,
+1063,user1,https://megamarket.ru/catalog/interernye-duhi/,,,,,,,0,
+1064,user1,https://megamarket.ru/catalog/subprodukty/,,,,,,,0,
+1065,user1,https://megamarket.ru/catalog/divany-kak-v-ikea/,,,,,,,0,
+1066,user1,https://megamarket.ru/catalog/dvd-pleery/,,,,,,,0,
+1067,user1,https://megamarket.ru/catalog/myasnye-polufabrikaty/,,,,,,,0,
+1068,user1,https://megamarket.ru/catalog/odezhda-dlya-malchikov/,,,,,,,0,
+1069,user1,https://megamarket.ru/catalog/muzhskaya-verhnyaya-odezhda/,,,,,,,0,
+1070,user1,https://megamarket.ru/catalog/krepkiy-alkogol/,,,,,,,0,
+1071,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-avtomobilem/,,,,,,,0,
+1072,user1,https://megamarket.ru/catalog/dimmery-dlya-umnogo-doma/,,,,,,,0,
+1073,user1,https://megamarket.ru/catalog/detskie-sergi/,,,,,,,0,
+1074,user1,https://megamarket.ru/catalog/vino/,,,,,,,0,
+1075,user1,https://megamarket.ru/catalog/tonometry/,,,,,,,0,
+1076,user1,https://megamarket.ru/catalog/mozaika/,,,,,,,0,
+1077,user1,https://megamarket.ru/catalog/pirsing-iz-serebra/,,,,,,,0,
+1078,user1,https://megamarket.ru/catalog/sdelano-v-moskve/,,,,,,,0,
+1079,user1,https://megamarket.ru/catalog/stroitelnoe-i-skladskoe-oborudovanie/,,,,,,,0,
+1080,user1,https://megamarket.ru/catalog/holodnyy-chay-i-kofe/,,,,,,,0,
+1081,user1,https://megamarket.ru/catalog/yuvelirnye-suveniry/,,,,,,,0,
+1082,user1,https://megamarket.ru/catalog/odezhda-obuv-i-aksessuary/,,,,,,,0,
+1083,user1,https://megamarket.ru/catalog/gitary-i-gitarnoe-oborudovanie/,,,,,,,0,
+1084,user1,https://megamarket.ru/catalog/bizhuteriya/,,,,,,,0,
+1085,user1,https://megamarket.ru/catalog/detskie-sandalii/,,,,,,,0,
+1086,user1,https://megamarket.ru/catalog/ustanovka-dverey/,,,,,,,0,
+1087,user1,https://megamarket.ru/catalog/muzykalnye-centry-i-magnitoly/,,,,,,,0,
+1088,user1,https://megamarket.ru/catalog/kukly-i-aksessuary/,,,,,,,0,
+1089,user1,https://megamarket.ru/catalog/svobodnye-vesa/,,,,,,,0,
+1090,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-rukami/,,,,,,,0,
+1091,user1,https://megamarket.ru/catalog/proektory-i-aksessuary/,,,,,,,0,
+1092,user1,https://megamarket.ru/catalog/dekor-interera/,,,,,,,0,
+1093,user1,https://megamarket.ru/catalog/derevyannye-besedki/,,,,,,,0,
+1094,user1,https://megamarket.ru/catalog/lampochki/,,,,,,,0,
+1095,user1,https://megamarket.ru/catalog/kapli-i-rastvory/,,,,,,,0,
+1096,user1,https://megamarket.ru/catalog/stanki-i-smennye-kassety-dlya-britya/,,,,,,,0,
+1097,user1,https://megamarket.ru/catalog/filtry-dlya-vody/,,,,,,,0,
+1098,user1,https://megamarket.ru/catalog/sredstva-dlya-chistki-stiralnoy-mashiny/,,,,,,,0,
+1099,user1,https://megamarket.ru/catalog/rakoviny/,,,,,,,0,
+1100,user1,https://megamarket.ru/catalog/paroizolyaciya/,,,,,,,0,
+1101,user1,https://megamarket.ru/catalog/nozhi-i-komplektuyushie/,,,,,,,0,
+1102,user1,https://megamarket.ru/catalog/opolaskivateli-dlya-posudomoechnoj-mashiny/,,,,,,,0,
+1103,user1,https://megamarket.ru/catalog/kontrolno-izmeritelnyy-instrument/,,,,,,,0,
+1104,user1,https://megamarket.ru/catalog/myagkaya-mebel/,,,,,,,0,
+1105,user1,https://megamarket.ru/catalog/vedra/,,,,,,,0,
+1106,user1,https://megamarket.ru/catalog/duhovye-muzykalnye-instrumenty/,,,,,,,0,
+1107,user1,https://megamarket.ru/catalog/stiralnye-mashiny/,,,,,,,0,
+1108,user1,https://megamarket.ru/catalog/rozhki-i-lozhki-dlya-obuvi/,,,,,,,0,
+1109,user1,https://megamarket.ru/catalog/massazhnye-kresla/,,,,,,,0,
+1110,user1,https://megamarket.ru/catalog/strahovochnoe-snaryazhenie/,,,,,,,0,
+1111,user1,https://megamarket.ru/catalog/kupalki-dlya-ptic/,,,,,,,0,
+1112,user1,https://megamarket.ru/catalog/bumazhnye-salfetki/,,,,,,,0,
+1113,user1,https://megamarket.ru/catalog/akvagrim/,,,,,,,0,
+1114,user1,https://megamarket.ru/catalog/supy/,,,,,,,0,
+1115,user1,https://megamarket.ru/catalog/okonnaya-furnitura/,,,,,,,0,
+1116,user1,https://megamarket.ru/catalog/lakokrasochnye-materialy/,,,,,,,0,
+1117,user1,https://megamarket.ru/catalog/ekipirovka-dlya-avtosporta/,,,,,,,0,
+1118,user1,https://megamarket.ru/catalog/vpusknye-sistemy-dlya-tyuninga/,,,,,,,0,
+1119,user1,https://megamarket.ru/catalog/poleznye-sladosti/,,,,,,,0,
+1120,user1,https://megamarket.ru/catalog/aminokisloty-i-bcaa/,,,,,,,0,
+1121,user1,https://megamarket.ru/catalog/mayki-i-futbolki-dlya-avtosporta/,,,,,,,0,
+1122,user1,https://megamarket.ru/catalog/gruzopodemnoe-oborudovanie/,,,,,,,0,
+1123,user1,https://megamarket.ru/catalog/transmissionnye-masla/,,,,,,,0,
+1124,user1,https://megamarket.ru/catalog/bokserskie-meshki-grushi-i-manekeny/,,,,,,,0,
+1125,user1,https://megamarket.ru/catalog/dekor-okna/,,,,,,,0,
+1126,user1,https://megamarket.ru/catalog/muzhskie-kolca/,,,,,,,0,
+1127,user1,https://megamarket.ru/catalog/fartuki-dlya-kuhni/,,,,,,,0,
+1128,user1,https://megamarket.ru/catalog/komandnye-vidy-sporta/,,,,,,,0,
+1129,user1,https://megamarket.ru/catalog/nastolnyy-hokkey-2463684633789871/,,,,,,,0,
+1130,user1,https://megamarket.ru/catalog/kofemashiny/,,,,,,,0,
+1131,user1,https://megamarket.ru/catalog/vodosnabzhenie-i-poliv-sadovogo-uchastka/,,,,,,,0,
+1132,user1,https://megamarket.ru/catalog/krepezh-i-furnitura/,,,,,,,0,
+1133,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-okon/,,,,,,,0,
+1134,user1,https://megamarket.ru/catalog/krestiki/,,,,,,,0,
+1135,user1,https://megamarket.ru/catalog/alkogol/,,,,,,,0,
+1136,user1,https://megamarket.ru/catalog/umnye-chasy-i-braslety/,,,,,,,0,
+1137,user1,https://megamarket.ru/catalog/aksessuary-dlya-aerohokkeya/,,,,,,,0,
+1138,user1,https://megamarket.ru/catalog/kopchenaya-ryba/,,,,,,,0,
+1139,user1,https://megamarket.ru/catalog/shampanskoe-i-igristoe-vino/,,,,,,,0,
+1140,user1,https://megamarket.ru/catalog/klimaticheskaya-tehnika/,,,,,,,0,
+1141,user1,https://megamarket.ru/catalog/sborka-myagkoy-mebeli/,,,,,,,0,
+1142,user1,https://megamarket.ru/catalog/gibkie-podvodki-dlya-vody/,,,,,,,0,
+1143,user1,https://megamarket.ru/catalog/grili-i-mangaly/,,,,,,,0,
+1144,user1,https://megamarket.ru/catalog/tovary-dlya-ptic/,,,,,,,0,
+1145,user1,https://megamarket.ru/catalog/muka-smesi-dlya-vypechki/,,,,,,,0,
+1146,user1,https://megamarket.ru/catalog/tovary-dlya-risovaniya/,,,,,,,0,
+1147,user1,https://megamarket.ru/catalog/melkaya-tehnika-dlya-kuhni/,,,,,,,0,
+1149,user1,https://megamarket.ru/catalog/masturbatory/,,,,,,,0,
+1150,user1,https://megamarket.ru/catalog/elektrosvarochnoe-oborudovanie/,,,,,,,0,
+1151,user1,https://megamarket.ru/catalog/osveshenie/,,,,,,,0,
+1152,user1,https://megamarket.ru/catalog/sredstva-dlya-solyariya/,,,,,,,0,
+1153,user1,https://megamarket.ru/catalog/zashita-dlya-edinoborstv/,,,,,,,0,
+1154,user1,https://megamarket.ru/catalog/vytyazhnye-i-promyshlennye-ventilyatory/,,,,,,,0,
+1155,user1,https://megamarket.ru/catalog/aromaticheskie-palochki/,,,,,,,0,
+1156,user1,https://megamarket.ru/catalog/zapchasti-sistemy-zazhiganiya/,,,,,,,0,
+1157,user1,https://megamarket.ru/catalog/detskaya-kosmetika/,,,,,,,0,
+1158,user1,https://megamarket.ru/catalog/kedy-i-slipony-muzhskie/,,,,,,,0,
+1159,user1,https://megamarket.ru/catalog/hi-fi-tehnika/,,,,,,,0,
+1160,user1,https://megamarket.ru/catalog/bumazhnaya-produkciya-dlya-ofisa/,,,,,,,0,
+1161,user1,https://megamarket.ru/catalog/massazhery-dlya-tela/,,,,,,,0,
+1162,user1,https://megamarket.ru/catalog/alpinistskoe-snaryazhenie/,,,,,,,0,
+1163,user1,https://megamarket.ru/catalog/knigi-hobbi-kancelyariya/,,,,,,,0,
+1164,user1,https://megamarket.ru/catalog/sneki-15896/,,,,,,,0,
+1165,user1,https://megamarket.ru/catalog/igrushki-dlya-malyshey/,,,,,,,0,
+1166,user1,https://megamarket.ru/catalog/sertifikaty-i-podarochnye-karty-679480/,,,,,,,0,
+1167,user1,https://megamarket.ru/catalog/detskoe-serebro/,,,,,,,0,
+1168,user1,https://megamarket.ru/catalog/bezopasnost/,,,,,,,0,
+1169,user1,https://megamarket.ru/catalog/medicinskie-rashodnye-materialy/,,,,,,,0,
+1170,user1,https://megamarket.ru/catalog/stoly-kuhonnye/,,,,,,,0,
+1171,user1,https://megamarket.ru/catalog/preparaty-dlya-zashity-i-lecheniya-pecheni/,,,,,,,0,
+1172,user1,https://megamarket.ru/catalog/ofisnye-shkafy/,,,,,,,0,
+1173,user1,https://megamarket.ru/catalog/pufy-i-banketki-4533681/,,,,,,,0,
+1174,user1,https://megamarket.ru/catalog/zhenskie-shorty/,,,,,,,0,
+1175,user1,https://megamarket.ru/catalog/solncezashitnye-ochki-muzhskie/,,,,,,,0,
+1176,user1,https://megamarket.ru/catalog/perenoski-dlya-sobak/,,,,,,,0,
+1177,user1,https://megamarket.ru/catalog/chistyashie-sredstva-8993676/,,,,,,,0,
+1178,user1,https://megamarket.ru/catalog/kosmetika-dlya-bani-i-sauny/,,,,,,,0,
+1179,user1,https://megamarket.ru/catalog/oblicovochnaya-plitka-keramogranit-mozayka/,,,,,,,0,
+1180,user1,https://megamarket.ru/catalog/aromaticheskie-svechi/,,,,,,,0,
+1181,user1,https://megamarket.ru/catalog/detskie-golovnye-ubory/,,,,,,,0,
+1182,user1,https://megamarket.ru/catalog/turisticheskie-palatki-i-tenty/,,,,,,,0,
+1183,user1,https://megamarket.ru/catalog/rogatki/,,,,,,,0,
+1184,user1,https://megamarket.ru/catalog/penka-dlya-zubov-detskaya/,,,,,,,0,
+1185,user1,https://megamarket.ru/catalog/domiki-i-lezhaki-dlya-koshek/,,,,,,,0,
+1186,user1,https://megamarket.ru/catalog/chay-kofe-kofeynye-napitki/,,,,,,,0,
+1187,user1,https://megamarket.ru/catalog/avtozapchasti/,,,,,,,0,
+1188,user1,https://megamarket.ru/catalog/vakuumnye-pakety/,,,,,,,0,
+1189,user1,https://megamarket.ru/catalog/gladilnye-doski-i-aksessuary/,,,,,,,0,
+1190,user1,https://megamarket.ru/catalog/muzhskie-sergi/,,,,,,,0,
+1191,user1,https://megamarket.ru/catalog/shorty-muzhskie/,,,,,,,0,
+1192,user1,https://megamarket.ru/catalog/elektrokaminy/,,,,,,,0,
+1193,user1,https://megamarket.ru/catalog/akkumulyatornyy-instrument/,,,,,,,0,
+1194,user1,https://megamarket.ru/catalog/dekorativnye-elementy-dlya-avto/,,,,,,,0,
+1195,user1,https://megamarket.ru/catalog/zerkala-nastennye/,,,,,,,0,
+1196,user1,https://megamarket.ru/catalog/kardiotrenazhery/,,,,,,,0,
+1197,user1,https://megamarket.ru/catalog/zhivye-cvety/,,,,,,,0,
+1198,user1,https://megamarket.ru/catalog/uchebniki/,,,,,,,0,
+1199,user1,https://megamarket.ru/catalog/serebryanye-sergi/,,,,,,,0,
+1200,user1,https://megamarket.ru/catalog/matrasy-toppery/,,,,,,,0,
+1201,user1,https://megamarket.ru/catalog/sredstva-dlya-stirki-belya/,,,,,,,0,
+1202,user1,https://megamarket.ru/catalog/chemodany/,,,,,,,0,
+1203,user1,https://megamarket.ru/catalog/salaty/,,,,,,,0,
+1204,user1,https://megamarket.ru/catalog/slivochnoe-maslo-i-margarin/,,,,,,,0,
+1205,user1,https://megamarket.ru/catalog/volery-kletki-kuryatniki-gnezda/,,,,,,,0,
+1206,user1,https://megamarket.ru/catalog/luki/,,,,,,,0,
+1207,user1,https://megamarket.ru/catalog/shkolnaya-forma/,,,,,,,0,
+1208,user1,https://megamarket.ru/catalog/seks-kukly/,,,,,,,0,
+1209,user1,https://megamarket.ru/catalog/stellazhi/,,,,,,,0,
+1210,user1,https://megamarket.ru/catalog/stolovoe-serebro/,,,,,,,0,
+1211,user1,https://megamarket.ru/catalog/kuhonnye-garnitury/,,,,,,,0,
+1212,user1,https://megamarket.ru/catalog/medicinskie-pribory/,,,,,,,0,
+1213,user1,https://megamarket.ru/catalog/ruchnye-garmoni/,,,,,,,0,
+1214,user1,https://megamarket.ru/catalog/zazhivlyayushie-sredstva/,,,,,,,0,
+1215,user1,https://megamarket.ru/catalog/cvety-i-podarki/,,,,,,,0,
+1216,user1,https://megamarket.ru/catalog/rukavicy-dlya-vychyosyvaniya/,,,,,,,0,
+1217,user1,https://megamarket.ru/catalog/parovye-konvekcionnye-pechi/,,,,,,,0,
+1218,user1,https://megamarket.ru/catalog/vyrashivanie-rassady/,,,,,,,0,
+1219,user1,https://megamarket.ru/catalog/kompyuternye-i-pismennye-stoly/,,,,,,,0,
+1220,user1,https://megamarket.ru/catalog/snegouborshiki/,,,,,,,0,
+1221,user1,https://megamarket.ru/catalog/smychkovye-muzykalnye-instrumenty/,,,,,,,0,
+1222,user1,https://megamarket.ru/catalog/lofery-muzhskie/,,,,,,,0,
+1224,user1,https://megamarket.ru/catalog/navesnoe-oborudovanie-dlya-avto/,,,,,,,0,
+1225,user1,https://megamarket.ru/catalog/tovary-dlya-hraneniya-produktov/,,,,,,,0,
+1226,user1,https://megamarket.ru/catalog/propitki-i-laki-dlya-kamnya/,,,,,,,0,
+1227,user1,https://megamarket.ru/catalog/dlya-stirki-i-glazhki/,,,,,,,0,
+1228,user1,https://megamarket.ru/catalog/otkrytki-i-podarochnaya-upakovka/,,,,,,,0,
+1229,user1,https://megamarket.ru/catalog/dveri-okna-i-lestnicy/,,,,,,,0,
+1230,user1,https://megamarket.ru/catalog/mikrovolnovye-pechi/,,,,,,,0,
+1231,user1,https://megamarket.ru/catalog/mangaly/,,,,,,,0,
+1232,user1,https://megamarket.ru/catalog/top-igr/,,,,,,,0,
+1233,user1,https://megamarket.ru/catalog/detskaya-odezhda-i-obuv/,,,,,,,0,
+1234,user1,https://megamarket.ru/catalog/kancelyarskie-tovary-dlya-shkoly/,,,,,,,0,
+1235,user1,https://megamarket.ru/catalog/sredstva-pozharotusheniya/,,,,,,,0,
+1236,user1,https://megamarket.ru/catalog/napolniteli-dlya-diffuzora/,,,,,,,0,
+1237,user1,https://megamarket.ru/catalog/yuvelirnye-sharmy/,,,,,,,0,
+1238,user1,https://megamarket.ru/catalog/prokladki-i-tampony/,,,,,,,0,
+1239,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-lodochnyh-motorov/,,,,,,,0,
+1240,user1,https://megamarket.ru/catalog/apparaty-i-nasadki-dlya-manikyura/,,,,,,,0,
+1241,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-lapami/,,,,,,,0,
+1242,user1,https://megamarket.ru/catalog/podarochnye-produktovye-korziny/,,,,,,,0,
+1243,user1,https://megamarket.ru/catalog/trimmery/,,,,,,,0,
+1245,user1,https://megamarket.ru/catalog/veterinarnye-aksessuary/,,,,,,,0,
+1246,user1,https://megamarket.ru/catalog/zakladnye-elementy-dlya-alpinizma/,,,,,,,0,
+1247,user1,https://megamarket.ru/catalog/rabochaya-odezhda/,,,,,,,0,
+1248,user1,https://megamarket.ru/catalog/vodyanye-teplye-poly/,,,,,,,0,
+1249,user1,https://megamarket.ru/catalog/metalloprokat-i-metallokonstrukcii/,,,,,,,0,
+1250,user1,https://megamarket.ru/catalog/proekt-doma/,,,,,,,0,
+1251,user1,https://megamarket.ru/catalog/sadovye-tachki-i-telezhki/,,,,,,,0,
+1252,user1,https://megamarket.ru/catalog/shtory-i-karnizy-dlya-vannoj/,,,,,,,0,
+1253,user1,https://megamarket.ru/catalog/bazy-i-topy-dlya-laka/,,,,,,,0,
+1254,user1,https://megamarket.ru/catalog/podarki-dlya-devochek/,,,,,,,0,
+1255,user1,https://megamarket.ru/catalog/pirogi-kulichi-bulochki-i-shtrudeli/,,,,,,,0,
+1257,user1,https://megamarket.ru/catalog/aromatizatory-dlya-doma/,,,,,,,0,
+1258,user1,https://megamarket.ru/catalog/iskusstvennye-rasteniya-2730544/,,,,,,,0,
+1259,user1,https://megamarket.ru/catalog/konnyy-sport/,,,,,,,0,
+1260,user1,https://megamarket.ru/catalog/lyulya-kebab/,,,,,,,0,
+1261,user1,https://megamarket.ru/catalog/puskovye-i-zaryadnye-ustroystva/,,,,,,,0,
+1262,user1,https://megamarket.ru/catalog/chipsy-i-sneki/,,,,,,,0,
+1263,user1,https://megamarket.ru/catalog/igrovye-novinki/,,,,,,,0,
+1264,user1,https://megamarket.ru/catalog/leyki-dlya-komnatnyh-rasteniy/,,,,,,,0,
+1265,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-striminga/,,,,,,,0,
+1266,user1,https://megamarket.ru/catalog/pribory-i-datchiki-dlya-vodnogo-transporta/,,,,,,,0,
+1267,user1,https://megamarket.ru/catalog/dekor-na-stenu/,,,,,,,0,
+1268,user1,https://megamarket.ru/catalog/podelki-i-rukodelie/,,,,,,,0,
+1269,user1,https://megamarket.ru/catalog/shpaklevka/,,,,,,,0,
+1270,user1,https://megamarket.ru/catalog/ottyazhki-karabiny-i-zazhimy-dlya-alpinizma/,,,,,,,0,
+1271,user1,https://megamarket.ru/catalog/rasteniya-cvety-i-aksessuary/,,,,,,,0,
+1272,user1,https://megamarket.ru/catalog/seks-igrushki/,,,,,,,0,
+1273,user1,https://megamarket.ru/catalog/vodonagrevateli/,,,,,,,0,
+1274,user1,https://megamarket.ru/catalog/yuvelirnye-chasy/,,,,,,,0,
+1275,user1,https://megamarket.ru/catalog/sborka-stolov-i-stulev/,,,,,,,0,
+1276,user1,https://megamarket.ru/catalog/avtomobilnye-uslugi/,,,,,,,0,
+1277,user1,https://megamarket.ru/catalog/aksessuary-dlya-obuvi/,,,,,,,0,
+1278,user1,https://megamarket.ru/catalog/foto-i-videokamery/,,,,,,,0,
+1279,user1,https://megamarket.ru/catalog/gorshki-i-detskie-sidenya-na-unitaz/,,,,,,,0,
+1280,user1,https://megamarket.ru/catalog/moloko-slivki-kokteyli/,,,,,,,0,
+1281,user1,https://megamarket.ru/catalog/zhenskie-sergi/,,,,,,,0,
+1282,user1,https://megamarket.ru/catalog/aksessuary-dlya-detskih-kolyasok/,,,,,,,0,
+1283,user1,https://megamarket.ru/catalog/sanitarnye-prisposobleniya/,,,,,,,0,
+1284,user1,https://megamarket.ru/catalog/sredstva-posle-zagara/,,,,,,,0,
+1285,user1,https://megamarket.ru/catalog/avtomobilnye-startery/,,,,,,,0,
+1286,user1,https://megamarket.ru/catalog/atributika/,,,,,,,0,
+1287,user1,https://megamarket.ru/catalog/dezodoranty-i-antiperspiranty/,,,,,,,0,
+1288,user1,https://megamarket.ru/catalog/svetilniki/,,,,,,,0,
+1289,user1,https://megamarket.ru/catalog/sadovye-figury/,,,,,,,0,
+1290,user1,https://megamarket.ru/catalog/orgtehnika/,,,,,,,0,
+1291,user1,https://megamarket.ru/catalog/avtosuveniry/,,,,,,,0,
+1292,user1,https://megamarket.ru/catalog/suhariki/,,,,,,,0,
+1293,user1,https://megamarket.ru/catalog/amuniciya-dlya-loshadey/,,,,,,,0,
+1294,user1,https://megamarket.ru/catalog/muzhskaya-bizhuteriya/,,,,,,,0,
+1295,user1,https://megamarket.ru/catalog/provoda-puskovye/,,,,,,,0,
+1296,user1,https://megamarket.ru/catalog/tovary-dlya-ryb-i-reptilij/,,,,,,,0,
+1297,user1,https://megamarket.ru/catalog/sredstva-dlya-depilyacii/,,,,,,,0,
+1298,user1,https://megamarket.ru/catalog/ruchnoy-instrument/,,,,,,,0,
+1299,user1,https://megamarket.ru/catalog/stulchiki-dlya-kormleniya-i-aksessuary/,,,,,,,0,
+1300,user1,https://megamarket.ru/catalog/semena/,,,,,,,0,
+1301,user1,https://megamarket.ru/catalog/sredstva-ot-nakipi/,,,,,,,0,
+1302,user1,https://megamarket.ru/catalog/displei-dlya-videosten/,,,,,,,0,
+1303,user1,https://megamarket.ru/catalog/aptechnaya-kosmetika-dlya-muzhchin/,,,,,,,0,
+1304,user1,https://megamarket.ru/catalog/parfyumeriya-uniseks/,,,,,,,0,
+1305,user1,https://megamarket.ru/catalog/remont-avtomobilya/,,,,,,,0,
+1306,user1,https://megamarket.ru/catalog/rulonnye-shtory/,,,,,,,0,
+1307,user1,https://megamarket.ru/catalog/dorozhnye-sumki/,,,,,,,0,
+1308,user1,https://megamarket.ru/catalog/massazhnye-stoly/,,,,,,,0,
+1309,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-kozhej-tela/,,,,,,,0,
+1310,user1,https://megamarket.ru/catalog/soki-nektary-i-sokosoderzhashie-napitki/,,,,,,,0,
+1311,user1,https://megamarket.ru/catalog/kollekcionirovanie-409066/,,,,,,,0,
+1312,user1,https://megamarket.ru/catalog/seyfy-dlya-ofisa/,,,,,,,0,
+1313,user1,https://megamarket.ru/catalog/odezhda-dlya-sfery-obsluzhivaniya/,,,,,,,0,
+1314,user1,https://megamarket.ru/catalog/pribory-dlya-uhoda-za-kozhey-lica/,,,,,,,0,
+1315,user1,https://megamarket.ru/catalog/soedinitelnye-elementy-dlya-poliva/,,,,,,,0,
+1316,user1,https://megamarket.ru/catalog/braslety-serebryanye/,,,,,,,0,
+1317,user1,https://megamarket.ru/catalog/vatno-bumazhnaya-produkciya/,,,,,,,0,
+1318,user1,https://megamarket.ru/catalog/sport-i-aktivnyy-otdyh/,,,,,,,0,
+1319,user1,https://megamarket.ru/catalog/naduvnaya-mebel/,,,,,,,0,
+1320,user1,https://megamarket.ru/catalog/specodezhda/,,,,,,,0,
+1321,user1,https://megamarket.ru/catalog/detskie-koshelki/,,,,,,,0,
+1322,user1,https://megamarket.ru/catalog/etazherki-dlya-hraneniya/,,,,,,,0,
+1323,user1,https://megamarket.ru/catalog/makiyazh-lica/,,,,,,,0,
+1324,user1,https://megamarket.ru/catalog/sedobnye-bukety/,,,,,,,0,
+1325,user1,https://megamarket.ru/catalog/pc/,,,,,,,0,
+1326,user1,https://megamarket.ru/catalog/podarochnye-nabory/,,,,,,,0,
+1327,user1,https://megamarket.ru/catalog/aksessuary-dlya-selskohozyaystvennyh-zhivotnyh/,,,,,,,0,
+1328,user1,https://megamarket.ru/catalog/detskie-krossovki/,,,,,,,0,
+1329,user1,https://megamarket.ru/catalog/tandyry/,,,,,,,0,
+1330,user1,https://megamarket.ru/catalog/papki-sistemy-hraneniya/,,,,,,,0,
+1331,user1,https://megamarket.ru/catalog/longbordy/,,,,,,,0,
+1332,user1,https://megamarket.ru/catalog/tekstil-dlya-bani-i-sauny/,,,,,,,0,
+1333,user1,https://megamarket.ru/catalog/tovary-dlya-plavaniya/,,,,,,,0,
+1334,user1,https://megamarket.ru/catalog/muzhskaya-parfyumeriya/,,,,,,,0,
+1335,user1,https://megamarket.ru/catalog/fandom-atributika/,,,,,,,0,
+1336,user1,https://megamarket.ru/catalog/diagnosticheskie-testy/,,,,,,,0,
+1337,user1,https://megamarket.ru/catalog/ortopedicheskie-matrasy/,,,,,,,0,
+1338,user1,https://megamarket.ru/catalog/bytovaya-tehnika/,,,,,,,0,
+1339,user1,https://megamarket.ru/catalog/zhidkosti-dlya-stekloomyvatelya-i-voda/,,,,,,,0,
+1340,user1,https://megamarket.ru/catalog/hudozhestvennaya-literatura/,,,,,,,0,
+1341,user1,https://megamarket.ru/catalog/sadovye-postroyki/,,,,,,,0,
+1342,user1,https://megamarket.ru/catalog/religioznye-tovary/,,,,,,,0,
+1343,user1,https://megamarket.ru/catalog/serebryanye-kolca/,,,,,,,0,
+1344,user1,https://megamarket.ru/catalog/opasnye-britvy/,,,,,,,0,
+1345,user1,https://megamarket.ru/catalog/aksessuary-dlya-kormleniya-zhivotnyh/,,,,,,,0,
+1346,user1,https://megamarket.ru/catalog/solncezashitnye-ochki/,,,,,,,0,
+1347,user1,https://megamarket.ru/catalog/instrumenty-dlya-motornoy-gruppy/,,,,,,,0,
+1348,user1,https://megamarket.ru/catalog/komplektuyushie-dlya-dverey/,,,,,,,0,
+1349,user1,https://megamarket.ru/catalog/oborudovanie-dlya-prigotovleniya-alkogolya/,,,,,,,0,
+1350,user1,https://megamarket.ru/catalog/arki-mezhkomnatnye/,,,,,,,0,
+1351,user1,https://megamarket.ru/catalog/kvadrocikly/,,,,,,,0,
+1352,user1,https://megamarket.ru/catalog/kompressionnyy-trikotazh/,,,,,,,0,
+1353,user1,https://megamarket.ru/catalog/komplekty-santehniki/,,,,,,,0,
+1354,user1,https://megamarket.ru/catalog/elektroskutery/,,,,,,,0,
+1355,user1,https://megamarket.ru/catalog/braslety-bizhuteriya/,,,,,,,0,
+1356,user1,https://megamarket.ru/catalog/elektronnye-knigi-i-aksessuary/,,,,,,,0,
+1357,user1,https://megamarket.ru/catalog/duhi-s-feromonami/,,,,,,,0,
+1358,user1,https://megamarket.ru/catalog/aksessuary-k-medicinskoy-tehnike/,,,,,,,0,
+1359,user1,https://megamarket.ru/catalog/doma/,,,,,,,0,
+1360,user1,https://megamarket.ru/catalog/sumki/,,,,,,,0,
+1361,user1,https://megamarket.ru/catalog/aksessuary-dlya-basseynov/,,,,,,,0,
+1362,user1,https://megamarket.ru/catalog/shiny-i-diski/,,,,,,,0,
+1363,user1,https://megamarket.ru/catalog/zavtraki/,,,,,,,0,
+1364,user1,https://megamarket.ru/catalog/kotly-otopitelnye-i-komplektuyushie/,,,,,,,0,
+1365,user1,https://megamarket.ru/catalog/okna/,,,,,,,0,
+1366,user1,https://megamarket.ru/catalog/sumki-dlya-lakomstv/,,,,,,,0,
+1367,user1,https://megamarket.ru/catalog/zhenskaya-parfyumeriya/,,,,,,,0,
+1368,user1,https://megamarket.ru/catalog/zhiroszhigateli/,,,,,,,0,
+1369,user1,https://megamarket.ru/catalog/otparivateli/,,,,,,,0,
+1370,user1,https://megamarket.ru/catalog/maslo-dlya-zagara/,,,,,,,0,
+1371,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-obuvyu/,,,,,,,0,
+1372,user1,https://megamarket.ru/catalog/avtokosmetika-i-avtohimiya/,,,,,,,0,
+1373,user1,https://megamarket.ru/catalog/parniki-i-teplicy-dlya-dachi/,,,,,,,0,
+1374,user1,https://megamarket.ru/catalog/zapchasti-dlya-kompressorov-i-pnevmoinstrumenta/,,,,,,,0,
+1375,user1,https://megamarket.ru/catalog/hleb-i-hlebobulochnye-izdeliya/,,,,,,,0,
+1376,user1,https://megamarket.ru/catalog/gubki-dlya-obuvi/,,,,,,,0,
+1377,user1,https://megamarket.ru/catalog/yayca/,,,,,,,0,
+1378,user1,https://megamarket.ru/catalog/gazlifty-mebelnye/,,,,,,,0,
+1379,user1,https://megamarket.ru/catalog/futbolki-i-polo-muzhskie/,,,,,,,0,
+1380,user1,https://megamarket.ru/catalog/detskaya-elektricheskaya-zubnaya-shetka/,,,,,,,0,
+1381,user1,https://megamarket.ru/catalog/stolyarnye-materialy/,,,,,,,0,
+1382,user1,https://megamarket.ru/catalog/igry-i-igrushki/,,,,,,,0,
+1383,user1,https://megamarket.ru/catalog/detskie-smesi/,,,,,,,0,
+1384,user1,https://megamarket.ru/catalog/promyvochnye-masla/,,,,,,,0,
+1385,user1,https://megamarket.ru/catalog/protivoparazitarnye-sredstva-dlya-zhivotnyh/,,,,,,,0,
+1386,user1,https://megamarket.ru/catalog/zolotye-cepochki/,,,,,,,0,
+1387,user1,https://megamarket.ru/catalog/detskoe-pyure/,,,,,,,0,
+1388,user1,https://megamarket.ru/catalog/kompyutery-i-komplektuyushie/,,,,,,,0,
+1389,user1,https://megamarket.ru/catalog/sredstva-gigieny-dlya-gryzunov/,,,,,,,0,
+1390,user1,https://megamarket.ru/catalog/stanki/,,,,,,,0,
+1391,user1,https://megamarket.ru/catalog/aksessuary-dlya-uhoda-za-volosami/,,,,,,,0,
+1392,user1,https://megamarket.ru/catalog/podarochnye-nabory-parfyumerii/,,,,,,,0,
+1393,user1,https://megamarket.ru/catalog/trimmery-dlya-zhivotnyh/,,,,,,,0,
+1394,user1,https://megamarket.ru/catalog/tovary-dlya-krasoty-i-zdorovya/,,,,,,,0,
+1395,user1,https://megamarket.ru/catalog/sredstva-dlya-serdechno-sosudistoy-sistemy/,,,,,,,0,
+1396,user1,https://megamarket.ru/catalog/krupy-pasta-muchnye-izdeliya/,,,,,,,0,
+1397,user1,https://megamarket.ru/catalog/remont-hodovoy-chasti/,,,,,,,0,
+1398,user1,https://megamarket.ru/catalog/rimskie-shtory/,,,,,,,0,
+1399,user1,https://megamarket.ru/catalog/shlemy-dlya-avtosporta/,,,,,,,0,
+1400,user1,https://megamarket.ru/catalog/ikony/,,,,,,,0,
+1401,user1,https://megamarket.ru/catalog/ventilyacionnoe-oborudovanie/,,,,,,,0,
+1402,user1,https://megamarket.ru/catalog/makiyazh-glaz/,,,,,,,0,
+1403,user1,https://megamarket.ru/catalog/zootovary/,,,,,,,0,
+1404,user1,https://megamarket.ru/catalog/kosmetologicheskie-kombayny/,,,,,,,0,
+1405,user1,https://megamarket.ru/catalog/dezodoranty-dlya-obuvi/,,,,,,,0,
+1406,user1,https://megamarket.ru/catalog/podushki/,,,,,,,0,
+1407,user1,https://megamarket.ru/catalog/zhidkost-dlya-snyatiya-laka/,,,,,,,0,
+1408,user1,https://megamarket.ru/catalog/dlya-bolelshika/,,,,,,,0,
+1409,user1,https://megamarket.ru/catalog/zhenskaya-odezhda/,,,,,,,0,
+1410,user1,https://megamarket.ru/catalog/optika/,,,,,,,0,
+1412,user1,https://megamarket.ru/catalog/mebel-dlya-kuhni/,,,,,,,0,
+1413,user1,https://megamarket.ru/catalog/mebel-dlya-letnego-otdyha/,,,,,,,0,
+1414,user1,https://megamarket.ru/catalog/serebryanye-cepochki/,,,,,,,0,
+1415,user1,https://megamarket.ru/catalog/snegohody-motobuksirovshiki/,,,,,,,0,
+1416,user1,https://megamarket.ru/catalog/zapchasti-dlya-motociklov/,,,,,,,0,
+1417,user1,https://megamarket.ru/catalog/biokaminy-i-toplivo/,,,,,,,0,
+1418,user1,https://megamarket.ru/catalog/sredstva-zashity-organov-dyhaniya/,,,,,,,0,
+1419,user1,https://megamarket.ru/catalog/massazhnye-vannochki-dlya-nog/,,,,,,,0,
+1420,user1,https://megamarket.ru/catalog/moyki-vysokogo-davleniya-i-aksessuary/,,,,,,,0,
+1421,user1,https://megamarket.ru/catalog/avtomobilnye-kovriki/,,,,,,,0,
+1422,user1,https://megamarket.ru/catalog/cepochki/,,,,,,,0,
+1423,user1,https://megamarket.ru/catalog/beysbol/,,,,,,,0,
+1425,user1,https://megamarket.ru/catalog/sezonnye-avtotovary/,,,,,,,0,
+1426,user1,https://megamarket.ru/catalog/obezbolivayushie-sredstva/,,,,,,,0,
+1427,user1,https://megamarket.ru/catalog/odezhda-i-obuv-dlya-sobak/,,,,,,,0,
+1428,user1,https://megamarket.ru/catalog/veterinarnye-sredstva/,,,,,,,0,
+1429,user1,https://megamarket.ru/catalog/ventilyatory/,,,,,,,0,
+1430,user1,https://megamarket.ru/catalog/detskie-konstruktory/,,,,,,,0,
+1431,user1,https://megamarket.ru/catalog/veshalki-dlya-odezhdy/,,,,,,,0,
+1432,user1,https://megamarket.ru/catalog/akkumulyatory-dlya-kvadrociklov/,,,,,,,0,
+1433,user1,https://megamarket.ru/catalog/aksessuary-dlya-xbox/,,,,,,,0,
+1434,user1,https://megamarket.ru/catalog/sredstva-dlya-uhoda-za-nogtyami/,,,,,,,0,
+1435,user1,https://megamarket.ru/catalog/masla-i-himiya-dlya-motociklov/,,,,,,,0,
+1436,user1,https://megamarket.ru/catalog/eroticheskie-stimulyatory/,,,,,,,0,
+1437,user1,https://megamarket.ru/catalog/portativnye-igrovye-konsoli/,,,,,,,0,
+1438,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-kofemashinoj/,,,,,,,0,
+1439,user1,https://megamarket.ru/catalog/shvabry-i-komplektuyushie/,,,,,,,0,
+1440,user1,https://megamarket.ru/catalog/kogtetochki-i-kompleksy/,,,,,,,0,
+1441,user1,https://megamarket.ru/catalog/laki/,,,,,,,0,
+1442,user1,https://megamarket.ru/catalog/promyvochnye-zhidkosti/,,,,,,,0,
+1443,user1,https://megamarket.ru/catalog/predmety-dlya-servirovki-stola/,,,,,,,0,
+1444,user1,https://megamarket.ru/catalog/sredstva-zashity-golovy/,,,,,,,0,
+1445,user1,https://megamarket.ru/catalog/uchebnaya-literatura/,,,,,,,0,
+1446,user1,https://megamarket.ru/catalog/cepi-protivoskolzheniya-6050802/,,,,,,,0,
+1447,user1,https://megamarket.ru/catalog/kurtki-dlya-avtosporta/,,,,,,,0,
+1448,user1,https://megamarket.ru/catalog/opryskivateli-ruchnye/,,,,,,,0,
+1449,user1,https://megamarket.ru/catalog/sistemy-vozduhovodov/,,,,,,,0,
+1450,user1,https://megamarket.ru/catalog/oborudovanie-dlya-solyariev-i-kollagenariev/,,,,,,,0,
+1451,user1,https://megamarket.ru/catalog/zapchasti-dlya-offrouda/,,,,,,,0,
+1452,user1,https://megamarket.ru/catalog/sergi/,,,,,,,0,
+1453,user1,https://megamarket.ru/catalog/kofevarki/,,,,,,,0,
+1454,user1,https://megamarket.ru/catalog/zapornaya-armatura/,,,,,,,0,
+1455,user1,https://megamarket.ru/catalog/elektrobritvy/,,,,,,,0,
+1456,user1,https://megamarket.ru/catalog/krovati-kak-v-ikea/,,,,,,,0,
+1458,user1,https://megamarket.ru/catalog/vstraivaemye-holodilniki-i-morozilniki/,,,,,,,0,
+1459,user1,https://megamarket.ru/catalog/kole/,,,,,,,0,
+1460,user1,https://megamarket.ru/catalog/vegetarianskie-produkty-496384/,,,,,,,0,
+1461,user1,https://megamarket.ru/catalog/turisticheskie-kovriki-i-sidushki/,,,,,,,0,
+1462,user1,https://megamarket.ru/catalog/vstraivaemye-varochnye-paneli/,,,,,,,0,
+1463,user1,https://megamarket.ru/catalog/lak-dlya-nogtej/,,,,,,,0,
+1464,user1,https://megamarket.ru/catalog/odezhda-dlya-edinoborstv/,,,,,,,0,
+1465,user1,https://megamarket.ru/catalog/sredstva-ot-moli/,,,,,,,0,
+1466,user1,https://megamarket.ru/catalog/eroticheskie-bodi-i-kombinezony/,,,,,,,0,
+1467,user1,https://megamarket.ru/catalog/koreyskaya-kosmetika-po-uhodu-za-licom/,,,,,,,0,
+1468,user1,https://megamarket.ru/catalog/shtatnaya-dopolnitelnaya-protivotumannaya-fara/,,,,,,,0,
+1469,user1,https://megamarket.ru/catalog/zamorozhennaya-ryba/,,,,,,,0,
+1470,user1,https://megamarket.ru/catalog/korma-dlya-sobak/,,,,,,,0,
+1471,user1,https://megamarket.ru/catalog/vstraivaemye-vytyazhki/,,,,,,,0,
+1472,user1,https://megamarket.ru/catalog/syr/,,,,,,,0,
+1473,user1,https://megamarket.ru/catalog/fary-avtomobilnye/,,,,,,,0,
+1474,user1,https://megamarket.ru/catalog/instrumenty/,,,,,,,0,
+1475,user1,https://megamarket.ru/catalog/aksessuary-dlya-puteshestviy-392240/,,,,,,,0,
+1476,user1,https://megamarket.ru/catalog/ledovoe-snaryazhenie-dlya-alpinizma/,,,,,,,0,
+1477,user1,https://megamarket.ru/catalog/masla-i-tehnicheskie-zhidkosti/,,,,,,,0,
+1478,user1,https://megamarket.ru/catalog/chuchela-dlya-ohoty/,,,,,,,0,
+1479,user1,https://megamarket.ru/catalog/stulya/,,,,,,,0,
+1480,user1,https://megamarket.ru/catalog/mototovary/,,,,,,,0,
+1481,user1,https://megamarket.ru/catalog/elektricheskie-i-ultrazvukovye-otpugivateli/,,,,,,,0,
+1482,user1,https://megamarket.ru/catalog/instrumenty-dlya-gruminga/,,,,,,,0,
+1483,user1,https://megamarket.ru/catalog/navigatory-radar-detektory-i-registratory/,,,,,,,0,
+1484,user1,https://megamarket.ru/catalog/eroticheskie-kostyumy/,,,,,,,0,
+1486,user1,https://megamarket.ru/catalog/muzhskie-sumki/,,,,,,,0,

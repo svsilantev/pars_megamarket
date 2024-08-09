@@ -10,6 +10,7 @@ import sys
 
 driver = None  # Глобальная переменная для драйвера
 
+
 def get_chrome_pids():
     chrome_pids = []
     for proc in psutil.process_iter(attrs=['pid', 'name']):
@@ -25,12 +26,13 @@ def kill_processes_by_pids(pids):
         except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
             pass
 
-def get_unique_categories():
-    conn = sqlite3.connect('megamarket.db')
+def get_db_connection(db_path):
+    return sqlite3.connect(db_path)
+
+def get_unique_categories(conn):
     cursor = conn.cursor()
     cursor.execute('SELECT DISTINCT category_url FROM categories')
     categories = cursor.fetchall()
-    conn.close()
     return categories
 
 def parse_items(page_source, category):
@@ -56,6 +58,10 @@ def parse_items(page_source, category):
         rating_element = item.select_one('div[data-test="rating-stars-value"]')
         reviews_count_element = item.select_one('div.catalog-item-review__review-amount')
 
+        # Извлечение ссылки и добавление префикса
+        product_link_element = item.select_one('a.catalog-item-regular-desktop__title-link')
+        product_link = 'https://megamarket.ru' + product_link_element['href'] if product_link_element else None
+
         if not product_name_element or not discounted_price_element:
             logging.warning("Не найдено необходимых данных для товара")
             continue
@@ -74,7 +80,7 @@ def parse_items(page_source, category):
 
         logging.info(f"Товар: Name={product_name}, Original Price={original_price}, Discounted Price={discounted_price}, "
                      f"Discount Percent={discount_percent}, Bonus Percent={bonus_percent}, Bonus Amount={bonus_amount}, "
-                     f"Final Price={final_price}")
+                     f"Final Price={final_price}, Product Link={product_link}")
 
         result.append({
             "load_date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -88,26 +94,26 @@ def parse_items(page_source, category):
             "bonus_amount": bonus_amount,
             "final_price": final_price,
             "rating": rating,
-            "reviews_count": reviews_count
+            "reviews_count": reviews_count,
+            "product_link": product_link  # Сохраняем ссылку на продукт с префиксом
         })
 
     return result
 
-def save_to_temp_database(data):
-    conn = sqlite3.connect('megamarket.db')
+
+def save_to_temp_database(data, conn):
     cursor = conn.cursor()
     
     for item in data:
         cursor.execute('''
             INSERT INTO temp_products (load_date, category, name, merchant, original_price, discounted_price, 
-                                       discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                                       discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ''', (item['load_date'], item['category'], item['name'], item['merchant'], item['original_price'],
               item['discounted_price'], item['discount_percent'], item['bonus_percent'], item['bonus_amount'],
-              item['final_price'], item['rating'], item['reviews_count']))
+              item['final_price'], item['rating'], item['reviews_count'], item['product_link']))
     
     conn.commit()
-    conn.close()
 
 def get_category_name(page_source):
     if page_source is None:
@@ -119,8 +125,7 @@ def get_category_name(page_source):
         return category_name
     return 'Unknown'
 
-def get_next_categories_to_process():
-    conn = sqlite3.connect('megamarket.db')
+def get_next_categories_to_process(conn):
     cursor = conn.cursor()
     
     # Получаем ID категории с самым поздним временем окончания
@@ -151,15 +156,15 @@ def get_next_categories_to_process():
         ''')
         categories = cursor.fetchall()
     
-    conn.close()
     return categories
 
-def process_categories(test_mode=False):
+def process_categories(db_path, test_mode=False):
     global driver
+    conn = get_db_connection(db_path)
     driver = init_driver()
     original_pids = get_chrome_pids()
 
-    categories = get_next_categories_to_process()
+    categories = get_next_categories_to_process(conn)
 
     try:
         for category_id, category_url in categories:
@@ -189,7 +194,7 @@ def process_categories(test_mode=False):
                         break
                     total_items_count += len(items)
                     pages_loaded += 1
-                    save_to_temp_database(items)
+                    save_to_temp_database(items, conn)
                 else:
                     logging.error(f"Ошибка: не удалось загрузить страницу {url}")
                     logging.error(f"Не удалось получить страницу {page_number}. Переход к следующей категории.")
@@ -202,11 +207,9 @@ def process_categories(test_mode=False):
             load_time = round(load_time_end - load_time_start, 0)
             load_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-            conn = sqlite3.connect('megamarket.db')
-            cursor = conn.cursor()
-
             if category_name and category_name != 'Unknown':
                 logging.info(f"Попытка удалить старые записи для категории: {category_name}")
+                cursor = conn.cursor()
                 cursor.execute('DELETE FROM products WHERE category = ?', (category_name,))
                 logging.info(f"Удалены старые записи для категории: {category_name}")
 
@@ -216,9 +219,9 @@ def process_categories(test_mode=False):
 
                 cursor.execute('''
                     INSERT INTO products (load_date, category, name, merchant, original_price, discounted_price, 
-                                          discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count)
+                                          discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link)
                     SELECT load_date, category, name, merchant, original_price, discounted_price, discount_percent,
-                        bonus_percent, bonus_amount, final_price, rating, reviews_count
+                        bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link
                     FROM temp_products
                 ''')
                 logging.info(f"Вставлены новые данные для категории: {category_name}")
@@ -247,7 +250,6 @@ def process_categories(test_mode=False):
             else:
                 logging.error("Не удалось определить имя категории. Пропуск удаления и вставки записей.")
             conn.commit()
-            conn.close()
 
     finally:
         if driver:
@@ -255,7 +257,7 @@ def process_categories(test_mode=False):
         current_pids = get_chrome_pids()
         new_pids = set(current_pids) - set(original_pids)
         kill_processes_by_pids(new_pids)
-
+        conn.close()
 
 def handle_sigint(signal, frame):
     logging.info("Получен сигнал SIGINT. Завершение работы...")
@@ -263,14 +265,3 @@ def handle_sigint(signal, frame):
         driver.quit()
     time.sleep(2)  # Добавляем задержку для завершения всех соединений
     sys.exit(0)
-
-def main(test_mode=False):
-    signal.signal(signal.SIGINT, handle_sigint)
-    while True:
-        process_categories(test_mode)
-        # if test_mode:
-        #     break
-
-if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levellevel)s - %(message)s')
-    main(test_mode=True)

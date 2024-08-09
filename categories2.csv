@@ -1,0 +1,29 @@
+id,user_name,category_url,category_name,pages_loaded,load_time,load_date,load_time_start,load_time_end,items_count,max_bonus_percent
+1,user1,https://megamarket.ru/catalog/alkogol,Алкоголь,472,863.0,2024-08-08 15:13:34,2024-08-08 14:59:11,2024-08-08 15:13:34,20732,19.0
+2,user2,https://megamarket.ru/catalog/kofemashiny,Кофемашины,125,227.0,2024-08-08 15:17:22,2024-08-08 15:13:35,2024-08-08 15:17:22,5474,35.0
+5,user2,https://megamarket.ru/catalog/oborudovanie-dlya-umnogo-doma/,Умный дом,310,670.0,2024-08-08 15:28:34,2024-08-08 15:17:23,2024-08-08 15:28:34,16079,46.0
+6,user2,https://megamarket.ru/catalog/smartfony/,Смартфоны,1065,2308.0,2024-08-08 16:07:03,2024-08-08 15:28:35,2024-08-08 16:07:03,46822,35.0
+7,user2,https://megamarket.ru/catalog/videokarty/,Видеокарты,36,92.0,2024-08-08 16:08:37,2024-08-08 16:07:05,2024-08-08 16:08:37,1584,18.0
+8,user2,https://megamarket.ru/catalog/ssd-diski/,SSD диски,1369,2159.0,2024-08-08 16:44:37,2024-08-08 16:08:38,2024-08-08 16:44:37,32833,20.0
+9,user1,https://megamarket.ru/catalog/noutbuki/,Ноутбуки,487,874.0,2024-08-08 16:59:14,2024-08-08 16:44:39,2024-08-08 16:59:14,11688,20.0
+10,user1,https://megamarket.ru/catalog/naushniki-apple/,Наушники Apple,31,73.0,2024-08-08 17:00:28,2024-08-08 16:59:15,2024-08-08 17:00:28,1364,19.0
+11,user1,https://megamarket.ru/catalog/televizory/,Телевизоры,1248,2062.0,2024-08-08 17:34:51,2024-08-08 17:00:29,2024-08-08 17:34:51,29947,35.0
+12,user1,https://megamarket.ru/catalog/umnye-kolonki/,Умные колонки,126,220.0,2024-08-08 17:38:32,2024-08-08 17:34:53,2024-08-08 17:38:32,5514,35.0
+13,user1,https://megamarket.ru/catalog/portativnye-kolonki/,Портативные колонки,577,1224.0,2024-08-08 17:58:58,2024-08-08 17:38:34,2024-08-08 17:58:58,25379,47.0
+14,user1,https://megamarket.ru/catalog/igrovye-pristavki-playstation/,Игровые приставки Sony PlayStation,64,119.0,2024-08-08 18:00:59,2024-08-08 17:59:00,2024-08-08 18:00:59,2777,99.0
+15,user1,https://megamarket.ru/catalog/parfyumeriya/,Духи,1137,2440.0,2024-08-08 18:41:39,2024-08-08 18:01:00,2024-08-08 18:41:39,50028,50.0
+16,user1,https://megamarket.ru/catalog/uhod-za-licom/,Уход за лицом,1137,2664.0,2024-08-08 19:26:06,2024-08-08 18:41:42,2024-08-08 19:26:06,50028,64.0
+17,user1,https://megamarket.ru/catalog/sredstva-po-uhodu-za-telom/,Средства по уходу за телом,1137,2396.0,2024-08-08 20:06:04,2024-08-08 19:26:08,2024-08-08 20:06:04,50025,69.0
+18,user1,https://megamarket.ru/catalog/stolovaya-posuda/,Столовая посуда,839,1858.0,2024-08-08 20:37:05,2024-08-08 20:06:07,2024-08-08 20:37:05,36916,78.0
+19,user1,https://megamarket.ru/catalog/igrovye-kresla-2463684633800334/,Игровые кресла,154,258.0,2024-08-08 20:41:25,2024-08-08 20:37:07,2024-08-08 20:41:25,4906,40.0
+20,user1,https://megamarket.ru/catalog/geymerskie-stoly/,Игровые столы,15,30.0,2024-08-08 20:41:56,2024-08-08 20:41:27,2024-08-08 20:41:56,635,40.0
+21,user1,https://megamarket.ru/catalog/kresla-kompyuternye/,Компьютерные кресла,194,373.0,2024-08-08 20:48:10,2024-08-08 20:41:57,2024-08-08 20:48:10,6202,40.0
+22,user1,https://megamarket.ru/catalog/ochki-virtualnoj-realnosti/,Очки виртуальной реальности,24,41.0,2024-08-08 20:48:53,2024-08-08 20:48:12,2024-08-08 20:48:53,1026,35.0
+24,user1,https://megamarket.ru/catalog/mobilnye-telefony/,Мобильные телефоны,506,1049.0,2024-08-08 21:06:23,2024-08-08 20:48:54,2024-08-08 21:06:23,22264,35.0
+25,user1,https://megamarket.ru/catalog/umnye-chasy/,Смарт-часы,415,949.0,2024-08-08 21:22:15,2024-08-08 21:06:26,2024-08-08 21:22:15,18255,46.0
+26,user1,https://megamarket.ru/catalog/fitnes-braslety/,Фитнес браслеты,30,63.0,2024-08-08 21:23:20,2024-08-08 21:22:17,2024-08-08 21:23:20,1307,35.0
+27,user1,https://megamarket.ru/catalog/naushniki/,Наушники,1424,2505.0,2024-08-08 22:05:06,2024-08-08 21:23:21,2024-08-08 22:05:06,34176,99.0
+28,user1,https://megamarket.ru/catalog/besprovodnye-zaryadnye-ustrojstva/,Беспроводные зарядные устройства,66,140.0,2024-08-08 14:42:23,2024-08-08 14:40:03,2024-08-08 14:42:23,2885,74.0
+29,user1,https://megamarket.ru/catalog/setevye-zaryadnye-ustrojstva/,Сетевые зарядные устройства,250,565.0,2024-08-08 14:51:48,2024-08-08 14:42:24,2024-08-08 14:51:48,10995,50.0
+30,user1,https://megamarket.ru/catalog/dok-stancii-dlya-telefonov/,Док-станции для телефонов,5,9.0,2024-08-08 14:51:59,2024-08-08 14:51:50,2024-08-08 14:51:59,216,16.0
+31,user1,https://megamarket.ru/catalog/vneshnie-akkumulyatory/,Внешние аккумуляторы (Power bank),198,422.0,2024-08-08 14:59:02,2024-08-08 14:52:00,2024-08-08 14:59:02,8670,36.0

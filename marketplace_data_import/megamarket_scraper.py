@@ -1,6 +1,6 @@
 import logging
 import time
-import sqlite3
+import psycopg2
 from datetime import datetime
 from bs4 import BeautifulSoup
 import psutil
@@ -9,7 +9,6 @@ import signal
 import sys
 
 driver = None  # Глобальная переменная для драйвера
-
 
 def get_chrome_pids():
     chrome_pids = []
@@ -26,13 +25,26 @@ def kill_processes_by_pids(pids):
         except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
             pass
 
-def get_db_connection(db_path):
-    return sqlite3.connect(db_path)
+def get_db_connection(db_name, user, password, host='localhost', port='5433'):
+    try:
+        conn = psycopg2.connect(
+            dbname=db_name,
+            user=user,
+            password=password,
+            host=host,
+            port=port,
+            options='-c client_encoding=utf8'
+        )
+        return conn
+    except Exception as e:
+        logging.error(f"Ошибка при подключении к базе данных: {e}")
+        raise
 
 def get_unique_categories(conn):
     cursor = conn.cursor()
     cursor.execute('SELECT DISTINCT category_url FROM categories')
     categories = cursor.fetchall()
+    cursor.close()  # Закрываем курсор
     return categories
 
 def parse_items(page_source, category):
@@ -100,7 +112,6 @@ def parse_items(page_source, category):
 
     return result
 
-
 def save_to_temp_database(data, conn):
     cursor = conn.cursor()
     
@@ -108,12 +119,13 @@ def save_to_temp_database(data, conn):
         cursor.execute('''
             INSERT INTO temp_products (load_date, category, name, merchant, original_price, discounted_price, 
                                        discount_percent, bonus_percent, bonus_amount, final_price, rating, reviews_count, product_link)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         ''', (item['load_date'], item['category'], item['name'], item['merchant'], item['original_price'],
               item['discounted_price'], item['discount_percent'], item['bonus_percent'], item['bonus_amount'],
               item['final_price'], item['rating'], item['reviews_count'], item['product_link']))
     
     conn.commit()
+    cursor.close()  # Закрываем курсор
 
 def get_category_name(page_source):
     if page_source is None:
@@ -142,7 +154,7 @@ def get_next_categories_to_process(conn):
     cursor.execute('''
         SELECT id, category_url 
         FROM categories 
-        WHERE id > ? 
+        WHERE id > %s 
         ORDER BY id
     ''', (last_processed_id,))
     categories = cursor.fetchall()
@@ -156,11 +168,12 @@ def get_next_categories_to_process(conn):
         ''')
         categories = cursor.fetchall()
     
+    cursor.close()  # Закрываем курсор
     return categories
 
-def process_categories(db_path, test_mode=False):
+def process_categories(db_name, user, password, host='localhost', port='5433', test_mode=False):
     global driver
-    conn = get_db_connection(db_path)
+    conn = get_db_connection(db_name, user, password, host, port)
     driver = init_driver()
     original_pids = get_chrome_pids()
 
@@ -210,7 +223,7 @@ def process_categories(db_path, test_mode=False):
             if category_name and category_name != 'Unknown':
                 logging.info(f"Попытка удалить старые записи для категории: {category_name}")
                 cursor = conn.cursor()
-                cursor.execute('DELETE FROM products WHERE category = ?', (category_name,))
+                cursor.execute('DELETE FROM products WHERE category = %s', (category_name,))
                 logging.info(f"Удалены старые записи для категории: {category_name}")
 
                 cursor.execute('SELECT COUNT(*) FROM temp_products')
@@ -226,7 +239,7 @@ def process_categories(db_path, test_mode=False):
                 ''')
                 logging.info(f"Вставлены новые данные для категории: {category_name}")
 
-                cursor.execute('SELECT COUNT(*) FROM products WHERE category = ?', (category_name,))
+                cursor.execute('SELECT COUNT(*) FROM products WHERE category = %s', (category_name,))
                 product_count = cursor.fetchone()[0]
                 logging.info(f"Количество записей в основной таблице после вставки: {product_count}")
 
@@ -235,15 +248,15 @@ def process_categories(db_path, test_mode=False):
 
                 # Вставка максимального бонусного процента по категории
                 cursor.execute('''
-                    SELECT MAX(bonus_percent) FROM products WHERE category = ?
+                    SELECT MAX(bonus_percent) FROM products WHERE category = %s
                 ''', (category_name,))
                 max_bonus_percent = cursor.fetchone()[0]
 
                 cursor.execute('''
                     UPDATE categories 
-                    SET category_name = ?, load_time = ?, load_date = ?, load_time_start = ?, load_time_end = ?, 
-                        items_count = ?, pages_loaded = ?, max_bonus_percent = ? 
-                    WHERE category_url = ?
+                    SET category_name = %s, load_time = %s, load_date = %s, load_time_start = %s, load_time_end = %s, 
+                        items_count = %s, pages_loaded = %s, max_bonus_percent = %s 
+                    WHERE category_url = %s
                 ''', (category_name, load_time, load_date, datetime.fromtimestamp(load_time_start).strftime('%Y-%m-%d %H:%M:%S'), 
                       datetime.fromtimestamp(load_time_end).strftime('%Y-%m-%d %H:%M:%S'), total_items_count, pages_loaded, max_bonus_percent, category_url))
                 logging.info(f"Обновлена категория: {category_name} в таблице categories")
